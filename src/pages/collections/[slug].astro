@@ -2,6 +2,10 @@
 import Base from '../../layouts/Base.astro';
 import { lists } from '../../data';
 const kochiLists = lists.filter((list) => list.collections?.includes('kochi'));
+export function getStaticPaths() {
+  const matchingLists = lists.filter((list) => list.collections?.includes('kochi'));
+  return matchingLists.length >= 2 ? [{ params: { slug: 'kochi' } }] : [];
+}
 ---
 <Base title="Lists about Kochi" description="Explore Listika's source-linked lists about Kochi, from running events to places to visit.">
   <div class="wrap">

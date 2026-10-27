@@ -10,7 +10,7 @@ List data lives in `src/data/lists/` as one JSON file per list. Each file has a 
 
 Choose topics that solve a specific reader need with distinctive, practical and verified information. Do not create single-event lists, generic explainers, thin rewrites or overlapping lists merely to reach a target page count. A multi-event calendar can remain useful with one verified entry while it waits for others to be announced.
 
-Use the optional `collections` array on a list to group related lists for discovery. For example, the Kochi collection links to lists tagged `kochi`; a collection is not itself counted as a list. New collections need their own page and should be created when they help readers find several related lists.
+Use the optional `collections` array on a list to group related lists for discovery. The Kochi collection links to lists tagged `kochi` and appears automatically once at least two such lists exist; a collection is not itself counted as a list. Other collections need their own page and should be created only when they help readers find several useful related lists.
 
 The Kochi marathon calendar uses optional entry fields `venue`, `distances`, `registrationUrl`, `registrationStatus` (`open`, `closed`, `sold-out`, or `unknown`) and `eventStatus` (`scheduled`, `postponed`, or `cancelled`). Fill these only from checked sources. When an event is postponed without a confirmed new date, remove its old `date` and label it postponed. Keep registration links and statuses accurate, or mark the status unknown.
 
