@@ -1,9 +1,9 @@
 {
   "slug": "kochi-specialty-coffee",
   "title": "Specialty coffee and brewing spaces in Kochi",
-  "description": "Find specialty coffee cafés, a coffee cart and brewing education spaces around Kochi, with map searches and sources.",
+  "description": "Find specialty coffee cafés, coffee carts and brewing education spaces around Kochi, with map searches and sources.",
   "intro": "A source-linked guide to Kochi places with a documented connection to specialty coffee or coffee education. Find a café for a cup, a cart for coffee on the go, or a space to learn brewing. This is not a ranking or a certification of coffee quality. Menus and hours can change; map links are searches, so check the location and contact the place before visiting.",
-  "checked": "2026-10-27",
+  "checked": "2026-10-28",
   "collections": [
     "kochi"
   ],
@@ -67,6 +67,16 @@
       "checked": "2026-10-27"
     },
     {
+      "name": "Kapiberry Coffee Academy",
+      "details": "Barista training · Kakkanad",
+      "description": "Kapiberry lists hands-on barista training and café startup programmes. This is a training space, not a confirmed walk-in café; contact the academy to confirm current courses and the directory-listed address before visiting.",
+      "address": "14/125, Pattupura Nagar, Kakkanad, Kochi 682030",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kapiberry%20Coffee%20Academy%2014%2F125%2C%20Pattupura%20Nagar%2C%20Kakkanad%2C%20Kochi%20682030",
+      "source": "https://www.kapiberry.com/coffee-academy",
+      "checked": "2026-10-28",
+      "addressSource": "https://magicpin.in/Kochi/Surabhi-Nagar/Other/Kapiberry-Coffee-Academy-Training-Barista-Of-Tomorrow/store/1cba88b"
+    },
+    {
       "name": "Kochi Kapital Kafe",
       "details": "Café · Fort Kochi",
       "description": "The café lists specialty pour-over coffee among its drinks, alongside a broader food menu.",
@@ -74,6 +84,16 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kochi%20Kapital%20Kafe%20Peter%20Celli%20Street%2C%20Fort%20Nagar%2C%20Fort%20Kochi%2C%20Kochi",
       "source": "https://www.kochikapitalkafe.com/",
       "checked": "2026-10-27"
+    },
+    {
+      "name": "Nosh Haus | Arrow Mark",
+      "details": "Coffee shop · Mattancherry",
+      "description": "Local reporting describes this Jew Town coffee spot serving artisanal coffees, including barrel-aged and fermented beans. Ask what beans and brews are currently available.",
+      "address": "Arrow Mark, Jew Town Road, Mattancherry, Kochi 682002",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Nosh%20Haus%20%7C%20Arrow%20Mark%20Arrow%20Mark%2C%20Jew%20Town%20Road%2C%20Mattancherry%2C%20Kochi%20682002",
+      "source": "https://www.pinklungi.com/explore-the-best-of-fort-kochi-beyond-the-biennale/",
+      "checked": "2026-10-28",
+      "addressSource": "https://catsofkochi.com/places/arrow-mark/"
     },
     {
       "name": "Pour Over Lab",
@@ -85,6 +105,16 @@
       "checked": "2026-10-27"
     },
     {
+      "name": "Thara Coffee Caravan",
+      "details": "Coffee caravan · Kadavanthra",
+      "description": "Thara describes its caravan as a mobile coffee outlet. It has been reported on KP Vallon Road, but mobile locations can change; confirm where it is operating before travelling.",
+      "address": "KP Vallon Road, Indira Nagar, Kadavanthra, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Thara%20Coffee%20Caravan%20KP%20Vallon%20Road%2C%20Indira%20Nagar%2C%20Kadavanthra%2C%20Kochi",
+      "source": "https://www.tharacoffee.com/coffee-caravan",
+      "checked": "2026-10-28",
+      "addressSource": "https://www.reddit.com/r/Kochi/comments/1qeqzb6/where_is_thara_coffee_located_now/"
+    },
+    {
       "name": "The Brew School",
       "details": "Barista training · Kadavanthra",
       "description": "A professional training school with a barista skills course. Contact the school about courses and visits; it is not listed here as a walk-in café.",
@@ -92,6 +122,34 @@
       "mapUrl": "https://www.google.com/maps/search/?api=1&query=The%20Brew%20School%202nd%20Floor%2C%20Daffodils%2C%20KP%20Vallon%20Road%2C%20Giri%20Nagar%2C%20Kadavanthra%2C%20Ernakulam%20682020",
       "source": "https://thebrewschool.in/",
       "checked": "2026-10-27"
+    },
+    {
+      "name": "Third Wave Coffee — Kakkanad",
+      "details": "Coffee chain café · Kakkanad",
+      "description": "The specialty-coffee chain lists this branch at Noel Focus Mall in Chittethukara. Its Kochi cafés offer coffee and food; check the branch menu for current brews.",
+      "address": "Unit 2, Door 18/1155, Ground Floor, Noel Focus Mall, Seaport–Airport Road, CSEZ, Chittethukara, Kakkanad, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Third%20Wave%20Coffee%20%E2%80%94%20Kakkanad%20Unit%202%2C%20Door%2018%2F1155%2C%20Ground%20Floor%2C%20Noel%20Focus%20Mall%2C%20Seaport%E2%80%93Airport%20Road%2C%20CSEZ%2C%20Chittethukara%2C%20Kakkanad%2C%20Kochi",
+      "source": "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-noel-mall-kochi",
+      "checked": "2026-10-28"
+    },
+    {
+      "name": "Third Wave Coffee — Panampilly Nagar",
+      "details": "Coffee chain café · Panampilly Nagar",
+      "description": "One of the specialty-coffee chain’s two Kochi branches. Local reporting describes a menu of specialty coffee, cold drinks and food.",
+      "address": "Ground Floor, 56/2988, H.I.G 36, Murikkummootil, Panampilly Nagar, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Third%20Wave%20Coffee%20%E2%80%94%20Panampilly%20Nagar%20Ground%20Floor%2C%2056%2F2988%2C%20H.I.G%2036%2C%20Murikkummootil%2C%20Panampilly%20Nagar%2C%20Kochi",
+      "source": "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-panampilly-kochi",
+      "checked": "2026-10-28"
+    },
+    {
+      "name": "Trouvaille",
+      "details": "Pour-over café · Fort Kochi",
+      "description": "This Princess Street café lists pour-over coffee alongside food and desserts. Check the current menu for the available brews.",
+      "address": "Princess Street, Fort Nagar, Fort Kochi, Kochi 682001",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Trouvaille%20Princess%20Street%2C%20Fort%20Nagar%2C%20Fort%20Kochi%2C%20Kochi%20682001",
+      "source": "https://trouvaillecafe.in/",
+      "checked": "2026-10-28",
+      "addressSource": "https://catsofkochi.com/places/trouvaille/"
     }
   ]
 }
