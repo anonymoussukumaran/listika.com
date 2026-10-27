@@ -1,0 +1,55 @@
+{
+  "slug": "running-race-terms",
+  "title": "Running race terms to know",
+  "description": "A practical guide to race bibs, timing chips, cut-offs and other terms used by Kochi event organizers.",
+  "intro": "Race instructions use shorthand that can be confusing at first. These definitions use examples from the organizers’ published information; the exact rules and services differ from one event and race category to another.",
+  "checked": "2026-10-27",
+  "entries": [
+    {
+      "name": "Race bib",
+      "description": "A bib is the participant’s race number, collected as part of a race kit. The Federal Bank Kochi Marathon says runners collect it at its pre-race expo; check the collection process and documents for your own event.",
+      "source": "https://www.kochimarathon.in/faq",
+      "checked": "2026-10-27",
+      "details": "Participant number"
+    },
+    {
+      "name": "Timing chip",
+      "description": "A timing chip records a runner’s time. The Kochi Navy event states that its chip-embedded bib is for the timed half-marathon and 10 km categories; its 5 km fun run is not listed as a timed category.",
+      "source": "https://www.kochinavymarathon.com/",
+      "checked": "2026-10-27",
+      "details": "Timed categories"
+    },
+    {
+      "name": "Net time and gun time",
+      "description": "Net time measures the interval between an individual crossing the start and finish; gun time runs from the starting signal until that individual finishes. Event rules decide how the times are used for results and prizes.",
+      "source": "https://worldathletics.org/download/download?filename=1d445793-24b4-4821-98e4-38fc55b9f8ef.pdf&urlslug=IAAF+Road+Running+Manual",
+      "checked": "2026-10-27",
+      "details": "Timing basis"
+    },
+    {
+      "name": "Cut-off time",
+      "description": "A cut-off is a time limit set for a race category. The Kochi Navy event publishes different cut-offs for its half marathon, 10 km and 5 km, so choose a category after checking the applicable limit.",
+      "source": "https://www.kochinavymarathon.com/",
+      "checked": "2026-10-27",
+      "details": "Category-specific limit"
+    },
+    {
+      "name": "Pacer",
+      "description": "A pacer runs with a group to help participants follow a target pace. The Kochi Navy event says its pacers carry numbered flags and that individual details will be announced closer to race day.",
+      "source": "https://www.kochinavymarathon.com/",
+      "checked": "2026-10-27",
+      "details": "Target pace group"
+    },
+    {
+      "name": "Flag-off and reporting",
+      "description": "Reporting time is when participants are asked to arrive; flag-off is the planned race start. The Kochi Navy schedule labels its displayed times provisional, so check for an updated schedule before travelling.",
+      "source": "https://www.kochinavymarathon.com/",
+      "checked": "2026-10-27",
+      "details": "Arrival and start"
+    }
+  ],
+  "related": [
+    "running-distances-explained",
+    "kochi-running-events"
+  ]
+}

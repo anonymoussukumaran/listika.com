@@ -1,0 +1,64 @@
+{
+  "slug": "kochi-navy-half-marathon-guide",
+  "title": "Kochi Navy Half Marathon 2026: participant essentials",
+  "description": "Key registration, kit and race-day details for the 2026 Kochi Navy Half Marathon.",
+  "intro": "The seventh edition is scheduled for 13 December 2026. This list brings together practical details from the organizer’s page; race information can change, so confirm each point with the organizer before you travel or register.",
+  "checked": "2026-10-27",
+  "entries": [
+    {
+      "name": "Choose a race category",
+      "description": "The organizer lists a 21.1 km half marathon, a 10 km timed run and a 5 km fun run. The timing chip and timed e-certificate are described for the 21.1 km and 10 km categories.",
+      "source": "https://www.kochinavymarathon.com/",
+      "checked": "2026-10-27",
+      "details": "21.1 km · 10 km · 5 km"
+    },
+    {
+      "name": "Check age conditions",
+      "description": "The event lists a minimum age of 18 for the half marathon and 14 for the 10 km. For the 5 km, the page lists age 12 and above and adds that younger participants must be accompanied by a parent or guardian; confirm eligibility directly with the organizer.",
+      "source": "https://www.kochinavymarathon.com/",
+      "checked": "2026-10-27",
+      "details": "Rules depend on category"
+    },
+    {
+      "name": "Compare the time limits",
+      "description": "The published cut-offs are 3 hours 30 minutes for the half marathon, 1 hour 30 minutes for the 10 km, and one hour for the 5 km. Check for updates if your participation depends on a particular cut-off.",
+      "source": "https://www.kochinavymarathon.com/",
+      "checked": "2026-10-27",
+      "details": "3:30 · 1:30 · 1:00"
+    },
+    {
+      "name": "Watch for the bib expo announcement",
+      "description": "The organizer says the expo date and venue are yet to be announced. It asks participants to bring registration confirmation and government photo ID; a person collecting for someone else should carry the participant’s ID and an authorization note.",
+      "source": "https://www.kochinavymarathon.com/",
+      "checked": "2026-10-27",
+      "details": "Date and venue to be announced"
+    },
+    {
+      "name": "Allow for different start and finish points",
+      "description": "The stated start is at Grand Hyatt Convention Center and the finish is at Bolgatty Palace Ground. A detailed route map is to be released closer to race day, according to the organizer.",
+      "source": "https://www.kochinavymarathon.com/",
+      "checked": "2026-10-27",
+      "details": "Start and finish differ"
+    },
+    {
+      "name": "Recheck the provisional schedule",
+      "description": "The published flag-off times are marked provisional: 4:30 a.m. for 21.1 km, 5:30 a.m. for 10 km, and 7:15 a.m. for 5 km. Do not treat these as final until the organizer confirms them.",
+      "source": "https://www.kochinavymarathon.com/",
+      "checked": "2026-10-27",
+      "details": "All start times provisional"
+    },
+    {
+      "name": "Register ahead of race day",
+      "description": "The event FAQ says there will be no spot registration on race day. Use the organizer’s registration link and check availability and current fees before making plans.",
+      "source": "https://www.kochinavymarathon.com/",
+      "checked": "2026-10-27",
+      "details": "No race-day spot registration"
+    }
+  ],
+  "related": [
+    "kochi-marathons",
+    "kochi-running-events",
+    "running-race-terms"
+  ],
+  "expires": "2026-12-13"
+}

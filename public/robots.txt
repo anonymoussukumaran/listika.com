@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://listika.com/sitemap-index.xml

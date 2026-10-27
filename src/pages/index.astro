@@ -1,0 +1,18 @@
+---
+import Base from '../layouts/Base.astro';
+import { lists } from '../data';
+---
+<Base title="Listika" description="Explore curated lists of useful places, experiences and information in Kochi.">
+  <div class="wrap">
+    <div class="index-line"><span><b>THE INDEX</b> / KOCHI</span><span>CURATED LISTS</span></div>
+    <section class="home-intro" aria-labelledby="home-title">
+      <div><p class="eyebrow">A closer look at Kochi</p><h1 id="home-title">Kochi.<br />In <span>good lists.</span></h1><p class="lede">Useful lists for exploring Kochi, gathered with care and linked to their sources.</p></div>
+      <div class="intro-marker"><span class="marker-label">THE LOCAL INDEX</span><strong>{String(lists.length).padStart(2, '0')}</strong><span>lists to explore</span></div>
+    </section>
+    <section id="lists" class="index-section" aria-labelledby="lists-title">
+      <div class="section-header"><div><p class="eyebrow">BROWSE / 01</p><h2 id="lists-title">Explore the lists</h2></div><p>Independent, source-linked guides to the city.</p></div>
+      {lists.length ? <ol class="list-index">{lists.map((list, i) => <li><a class="list-index-item" href={`/lists/${list.slug}/`}><span class="item-index">{String(i + 1).padStart(2, '0')}</span><span class="item-text"><strong>{list.title}</strong><span>{list.description}</span></span><span class="item-arrow" aria-hidden="true">↗</span></a></li>)}</ol> : <p>Our first lists are being prepared.</p>}
+    </section>
+    <section class="method-callout"><div><p class="eyebrow">OUR APPROACH / 02</p><h2>Made to be useful.</h2></div><div><p>Every list points you toward the source. Details can change, so check the original information before making plans.</p><a class="text-link" href="/editorial/">How we work <span aria-hidden="true">↗</span></a></div></section>
+  </div>
+</Base>

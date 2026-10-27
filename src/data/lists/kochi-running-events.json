@@ -1,0 +1,33 @@
+{
+  "slug": "kochi-running-events",
+  "title": "Upcoming running events in Kochi",
+  "description": "Compare announced running events in Kochi, from shorter races to marathons.",
+  "intro": "These announced races offer a range of distances. Dates and registration information can change, so check each event's linked source before making plans. This list covers Kochi rather than all of Ernakulam district.",
+  "checked": "2026-10-27",
+  "entries": [
+    {
+      "name": "Orange Run 2026",
+      "description": "A Kochi running event on 1 November 2026, with a half marathon and shorter-distance categories. The registration page lists 26 October as the registration deadline.",
+      "details": "Date: 1 November 2026 · Venue: Cochin Port Trust Stadium, Willingdon Island · Running distances include 21 km, 10 km, 5 km and 3 km.",
+      "source": "https://pacenation.in/event/orange-run-2026",
+      "checked": "2026-10-27",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "SBI Kochi Navy Half Marathon 2026",
+      "description": "Organized by Southern Naval Command, the event is scheduled for 13 December 2026 and includes a half marathon, a timed 10 km run and a 5 km fun run.",
+      "details": "Date: 13 December 2026 · Distances: 21.1 km, 10 km and 5 km · Start: Grand Hyatt Convention Center · Finish: Bolgatty Palace Ground.",
+      "source": "https://www.kochinavymarathon.com/",
+      "checked": "2026-10-27",
+      "date": "2026-12-13"
+    },
+    {
+      "name": "Federal Bank Kochi Marathon 2027",
+      "description": "The fifth edition is scheduled for 14 February 2027, with full-marathon, half-marathon, 10 km and 3 km categories.",
+      "details": "Date: 14 February 2027 · Distances: 42.195 km, 21.097 km, 10 km and 3 km · The route has not yet been finalized.",
+      "source": "https://www.kochimarathon.in/about",
+      "checked": "2026-10-27",
+      "date": "2027-02-14"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "kochi-beaches",
+  "title": "Beaches around Kochi and Vypin",
+  "description": "A starting point for exploring the coast around Fort Kochi and Vypin island.",
+  "intro": "The Kochi coast includes Fort Kochi and several beaches on Vypin island. They are distinct places, not a single continuous beach walk. Check current access, weather and sea conditions locally; this list does not assess swimming safety.",
+  "entries": [
+    {
+      "name": "Fort Kochi Beach",
+      "description": "Known for the Chinese fishing nets and its nearby walkway, this beach is in historic Fort Kochi. Kerala Tourism notes that a section of the beach is controlled by the Navy and not accessible to visitors.",
+      "source": "https://www.keralatourism.org/kochi/fort-kochi-beach.php",
+      "checked": "2026-10-27",
+      "details": "Fort Kochi · fishing nets and waterfront"
+    },
+    {
+      "name": "Cherai Beach",
+      "description": "On the northern side of Vypin island, Cherai has a beachside walkway and a children’s park according to Kerala Tourism. It is a longer trip from central Kochi than the Fort Kochi waterfront.",
+      "source": "https://www.keralatourism.org/muziris/beaches/cherai",
+      "checked": "2026-10-27",
+      "details": "Vypin island · walkway and beach"
+    },
+    {
+      "name": "Kuzhupilly Beach",
+      "description": "Kerala Tourism names Kuzhupilly among Vypin island’s beaches. Verify current facilities and access before going, especially if you are planning around transport connections or the weather.",
+      "source": "https://www.keralatourism.org/kerala-article/2024/vypeen-island/1388",
+      "checked": "2026-10-27",
+      "details": "Vypin island · check current access"
+    },
+    {
+      "name": "Puthuvype Beach",
+      "description": "Puthuvype is another Vypin beach listed by Kerala Tourism. Treat local conditions and entry arrangements as changeable; check them before setting off rather than relying on an old timetable.",
+      "source": "https://www.keralatourism.org/kerala-article/2024/vypeen-island/1388",
+      "checked": "2026-10-27",
+      "details": "Vypin island · check current access"
+    }
+  ],
+  "related": [
+    "kochi-waterfront-walks"
+  ],
+  "checked": "2026-10-27"
+}

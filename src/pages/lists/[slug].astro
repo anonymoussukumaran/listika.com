@@ -1,0 +1,18 @@
+---
+import Base from '../../layouts/Base.astro';
+import { lists, getList, formatDate } from '../../data';
+export function getStaticPaths() { return lists.map((list) => ({ params: { slug: list.slug }, props: { list } })); }
+const { list } = Astro.props;
+const related = (list.related ?? []).map(getList).filter((item): item is NonNullable<typeof item> => !!item && item.slug !== list.slug);
+---
+<Base title={list.title} description={list.description}>
+  <div class="wrap">
+    <div class="index-line"><span><a href="/">THE INDEX</a> / KOCHI</span><span>LISTIKA / LIST</span></div>
+    <div class="list-heading"><div><p class="eyebrow">A LISTIKA GUIDE</p><h1>{list.title}</h1><p class="lede">{list.intro}</p></div><div class="check-note"><span>LAST CHECKED</span><strong><time datetime={list.checked}>{formatDate(list.checked)}</time></strong><p>Details may change. Check the source before you go.</p></div></div>
+    <div class="board"><aside class="board-aside"><p class="eyebrow">READING THE LIST</p><h2>Start here.</h2><p>Each entry links to a source so you can check the details yourself.</p><a class="text-link" href="/editorial/">How we work ↗</a></aside>
+      <section class="list-content" aria-labelledby="entries-title"><div class="section-header compact"><div><p class="eyebrow">THE LIST</p><h2 id="entries-title">{list.entries.length} {list.entries.length === 1 ? 'entry' : 'entries'}</h2></div></div>
+      {list.entries.length ? <ul class="entries">{list.entries.map((entry) => <li class="entry"><div class="entry-index" aria-hidden="true"></div><div class="entry-body"><h3>{entry.name}</h3>{entry.date && <p class="entry-date"><time datetime={entry.date}>{formatDate(entry.date)}</time></p>}<p>{entry.description}</p>{entry.details && <p class="entry-details">{entry.details}</p>}<div class="entry-source"><a href={entry.source} rel="noopener noreferrer">View source <span class="visually-hidden">for {entry.name}</span> ↗</a><span>Checked <time datetime={entry.checked}>{formatDate(entry.checked)}</time></span></div></div></li>)}</ul> : <div class="empty"><p>There are no confirmed entries to show here right now. We will update this list when we have verified information.</p></div>}
+      </section></div>
+    {related.length > 0 && <section class="related"><p class="eyebrow">KEEP EXPLORING</p><h2>More from the index</h2><ul>{related.map((item) => <li><a href={`/lists/${item.slug}/`}>{item.title} <span aria-hidden="true">↗</span></a></li>)}</ul></section>}
+  </div>
+</Base>

@@ -1,0 +1,63 @@
+{
+  "slug": "federal-bank-kochi-marathon-guide",
+  "title": "Federal Bank Kochi Marathon 2027: participant essentials",
+  "description": "Race categories, bib collection and participant rules for the Federal Bank Kochi Marathon 2027.",
+  "intro": "The organizer’s 2027 information describes four distances and a pre-race expo. Some details on its website may be updated separately, so verify the latest event-day schedule and venue directly before booking travel.",
+  "checked": "2026-10-27",
+  "entries": [
+    {
+      "name": "Pick one of four categories",
+      "description": "The organizer lists a full marathon, half marathon, 10 km and 3 km Green Run. Its FAQ says each participant may enter only one category. Check the category-specific details before registering.",
+      "source": "https://www.kochimarathon.in/faq",
+      "checked": "2026-10-27",
+      "details": "One category per participant"
+    },
+    {
+      "name": "Check age requirements",
+      "description": "The FAQ lists age 18 for the marathon and half marathon. It lists 12 for the 10 km and 8 for the 3 km, with adult accompaniment for children below those respective ages; clarify the current conditions with the organizer.",
+      "source": "https://www.kochimarathon.in/faq",
+      "checked": "2026-10-27",
+      "details": "Age rules vary"
+    },
+    {
+      "name": "Collect your kit before race day",
+      "description": "The FAQ lists the bib expo for 12 and 13 February 2027 at Kochi Marriott Hotel in Edappally and says there will be no race-morning bib distribution. Recheck the published expo hours before you go.",
+      "source": "https://www.kochimarathon.in/faq",
+      "checked": "2026-10-27",
+      "details": "12–13 February 2027"
+    },
+    {
+      "name": "Arrange collection if you cannot attend",
+      "description": "The organizer says another person may collect your kit with a copy of the confirmation email or SMS and an accepted government identity document. Check the FAQ for its full list of accepted documents.",
+      "source": "https://www.kochimarathon.in/faq",
+      "checked": "2026-10-27",
+      "details": "Bring confirmation and ID"
+    },
+    {
+      "name": "Know which categories are timed",
+      "description": "The FAQ says timing chips are supplied for the marathon, half marathon and 10 km at the expo. It does not list the 3 km Green Run among chip-timed categories.",
+      "source": "https://www.kochimarathon.in/faq",
+      "checked": "2026-10-27",
+      "details": "Marathon · half · 10 km"
+    },
+    {
+      "name": "Read transfer and cancellation rules",
+      "description": "The organizer’s FAQ says registrations can be transferred until two weeks before the event date. It generally excludes cancellation refunds, while noting limited exceptions at its discretion; contact the organizer about your circumstances.",
+      "source": "https://www.kochimarathon.in/faq",
+      "checked": "2026-10-27",
+      "details": "Conditions apply"
+    },
+    {
+      "name": "Check the current race venue and times",
+      "description": "The FAQ says venue details will be announced and points readers to event details for start times. Older information elsewhere on a site can relate to a previous edition, so confirm the 2027 schedule rather than relying on an old page.",
+      "source": "https://www.kochimarathon.in/faq",
+      "checked": "2026-10-27",
+      "details": "Confirm before travel"
+    }
+  ],
+  "related": [
+    "kochi-marathons",
+    "running-race-terms"
+  ],
+  "expires": "2027-02-14"
+}

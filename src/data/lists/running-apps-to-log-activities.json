@@ -1,0 +1,48 @@
+{
+  "slug": "running-apps-to-log-activities",
+  "title": "Running apps to log your activities",
+  "description": "Compare ways to record runs, review routes and follow audio-guided sessions.",
+  "intro": "These apps offer different approaches to recording or reviewing a run. The descriptions below are based on the providers’ own documentation, not hands-on testing or a ranking. Check device compatibility, permissions, privacy settings and current subscription terms before choosing one.",
+  "checked": "2026-10-27",
+  "entries": [
+    {
+      "name": "adidas Running",
+      "description": "The provider lists GPS tracking, run statistics and a voice coach among its features. It also describes challenges and training plans; verify which features are currently available in your region and plan.",
+      "source": "https://www.adidas.com/us/running-app",
+      "checked": "2026-10-27",
+      "details": "GPS tracking and statistics"
+    },
+    {
+      "name": "ASICS Runkeeper",
+      "description": "Runkeeper says its phone app uses GPS to record distance, duration, pace and a map of the route. Its getting-started guide explains that a OneASICS account is needed to sign in.",
+      "source": "https://help.runkeeper.com/en/hc/what-is-runkeeper-and-how-to-get-started",
+      "checked": "2026-10-27",
+      "details": "GPS activity recording"
+    },
+    {
+      "name": "Garmin Connect",
+      "description": "Garmin describes Connect as a place to review activity information recorded on a Garmin device and compare past runs. Unlike a phone-only recording app, this option is oriented around a compatible Garmin device.",
+      "source": "https://support.garmin.com/en-IN/?faq=N7qM9eVuzl77PNYKV8ORX5",
+      "checked": "2026-10-27",
+      "details": "Review compatible device data"
+    },
+    {
+      "name": "Nike Run Club",
+      "description": "Nike’s getting-started guide describes tracking runs and using audio-guided runs. Review the app’s location and fitness-tracking permissions if you want to use its tracking features.",
+      "source": "https://www.nike.com/help/a/nrc-start-run/app",
+      "checked": "2026-10-27",
+      "details": "Tracked and guided runs"
+    },
+    {
+      "name": "Strava",
+      "description": "Strava’s mobile recording guide describes GPS-based activities with map and statistics views, including pace information during a run. Review audience and location privacy settings before sharing an activity.",
+      "source": "https://support.strava.com/en-us/articles/15402137-how-do-i-record-an-activity-on-strava",
+      "checked": "2026-10-27",
+      "details": "GPS activity recording"
+    }
+  ],
+  "related": [
+    "running-distances-explained",
+    "kochi-running-clubs"
+  ]
+}

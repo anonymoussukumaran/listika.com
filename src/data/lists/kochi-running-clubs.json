@@ -1,0 +1,41 @@
+{
+  "slug": "kochi-running-clubs",
+  "title": "Running clubs in Kochi",
+  "description": "Find Kochi running groups and their own pages for the latest meetup details.",
+  "intro": "These clubs publish information about their running communities in and around Kochi. Schedules and meeting points can change; check the club’s latest updates before heading out. The list is alphabetical and is not a ranking.",
+  "checked": "2026-10-27",
+  "entries": [
+    {
+      "name": "Dawnage Run Club",
+      "description": "The club describes weekend group runs in Kochi followed by fitness activities. Its official page welcomes both new and experienced participants; ask the club for the latest meeting details.",
+      "source": "https://ebook.dawnage.com/blogs/news/dawnage-run-club",
+      "checked": "2026-10-27",
+      "details": "Weekend group"
+    },
+    {
+      "name": "Kochi Run Club",
+      "description": "A third-party running directory lists this group and previous community runs from Panampilly Park. Its current schedule and ownership have not been independently verified; check with the group before setting out.",
+      "source": "https://www.endorfin.run/clubs/kochirunclub",
+      "checked": "2026-10-27",
+      "details": "Third-party listing · verify schedule"
+    },
+    {
+      "name": "Orange Runners & Riders Club",
+      "description": "The Kochi-based club describes running and cycling activities, including its Saturday Kochi Island Run. Contact the group through its site to confirm the next session and any joining requirements.",
+      "source": "https://orangerunners.com/",
+      "checked": "2026-10-27",
+      "details": "Running and cycling"
+    },
+    {
+      "name": "Soles of Cochin",
+      "description": "This community organizes informal runs around Kochi. Its running page explains that start times and locations are shared in its Facebook group, usually shortly before a run.",
+      "source": "https://www.solesofcochin.org/running",
+      "checked": "2026-10-27",
+      "details": "Group runs"
+    }
+  ],
+  "related": [
+    "kochi-running-events",
+    "running-distances-explained"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "kochi-museums",
+  "title": "Museums and collections around Kochi",
+  "description": "A guide to five collections covering art, maritime history and Kochi’s royal past.",
+  "intro": "These museums and historic collections offer different perspectives on the region. Opening hours, tickets and photography rules can change; consult the venue or its current official information before visiting.",
+  "entries": [
+    {
+      "name": "Hill Palace Museum",
+      "description": "The former royal residence in Thrippunithura is now an archaeological and heritage museum. Kerala Tourism describes galleries with paintings, sculptures, manuscripts and objects associated with the Kochi royal family.",
+      "source": "https://www.keralatourism.org/kerala-article/2024/hillpalace-thrippunithura/1382",
+      "checked": "2026-10-27",
+      "details": "Thrippunithura · royal history and archaeology"
+    },
+    {
+      "name": "Maritime Museum",
+      "description": "Situated at INS Dronacharya in Fort Kochi, this collection uses two former ammunition bunkers to present Kerala’s maritime history and the evolution of the Indian Navy. Exhibits include models, maps and naval objects.",
+      "source": "https://www.keralatourism.org/kochi/maritime-museum-fort-kochi.php",
+      "checked": "2026-10-27",
+      "details": "Fort Kochi · maritime and naval history"
+    },
+    {
+      "name": "Indo-Portuguese Museum",
+      "description": "Located within the Bishop’s House compound in Fort Kochi, the museum presents objects associated with churches and Portuguese influence in the region. Its collection is arranged around altar, treasure, procession, civil life and cathedral themes.",
+      "source": "https://www.keralatourism.org/kochi/indo-portuguese-museum-fort-kochi.php",
+      "checked": "2026-10-27",
+      "details": "Fort Kochi · art and religious heritage"
+    },
+    {
+      "name": "Museum of Kerala History",
+      "description": "Kerala Tourism lists this Edappally museum as a place to explore the state’s history and artistic traditions, including an art gallery. It is a useful choice for a wider Kerala perspective beyond Kochi’s historic districts.",
+      "source": "https://www.keralatourism.org/destination/museum-kerala-history-edappally/183/",
+      "checked": "2026-10-27",
+      "details": "Edappally · Kerala history and art"
+    },
+    {
+      "name": "Mattancherry Palace",
+      "description": "The palace’s collection includes murals, royal portraits and objects associated with the rulers of Kochi. It is close to Jew Town and the Paradesi Synagogue, making the surrounding neighbourhood worth planning alongside a visit.",
+      "source": "https://www.keralatourism.org/kerala-article/2022/mattancherry-palace/1179",
+      "checked": "2026-10-27",
+      "details": "Mattancherry · palace collection and murals"
+    }
+  ],
+  "related": [
+    "fort-kochi-heritage",
+    "kochi-waterfront-walks"
+  ],
+  "checked": "2026-10-27"
+}
