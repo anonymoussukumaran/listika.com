@@ -1,0 +1,87 @@
+{
+  "slug": "kochi-specialty-coffee",
+  "title": "Specialty coffee and brewing spaces in Kochi",
+  "description": "Find specialty coffee cafés, a coffee cart and brewing education spaces around Kochi, with map searches and sources.",
+  "intro": "A source-linked guide to Kochi places with a documented connection to specialty coffee or coffee education. Find a café for a cup, a cart for coffee on the go, or a space to learn brewing. This is not a ranking or a certification of coffee quality. Menus and hours can change; map links are searches, so check the location and contact the place before visiting.",
+  "checked": "2026-10-27",
+  "collections": [
+    "kochi"
+  ],
+  "entries": [
+    {
+      "name": "90Million Coffee",
+      "details": "Specialty café · Kaloor",
+      "description": "The café says it serves specialty Arabica, including Ratnagiri Estate beans, and manual brews alongside baked goods.",
+      "address": "1st Floor, Edward Square, Stadium Link Road, Kathrikadavu, Kaloor, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=90Million%20Coffee%201st%20Floor%2C%20Edward%20Square%2C%20Stadium%20Link%20Road%2C%20Kathrikadavu%2C%20Kaloor%2C%20Kochi",
+      "source": "https://90million.in/",
+      "checked": "2026-10-27",
+      "addressSource": "https://www.swiggy.com/restaurants/kochi/kathrikadavu/90million-coffee-1345715/dineout"
+    },
+    {
+      "name": "Cafe Addict Kochi",
+      "details": "Café and art space · Edappally",
+      "description": "A café and art space that describes its coffee as specialty-focused. Its Kochi menu also lists several cold brews.",
+      "address": "Unnichira, Edappally, Ernakulam",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Addict%20Kochi%20Unnichira%2C%20Edappally%2C%20Ernakulam",
+      "source": "https://cafeaddict.in/",
+      "checked": "2026-10-27",
+      "addressSource": "https://www.swiggy.com/city/kochi/cafe-addict-edapally-rest1409659"
+    },
+    {
+      "name": "Cafficana Kochi",
+      "details": "Manual brews · Panampilly Nagar",
+      "description": "Local coffee drinkers have mentioned V60, Chemex and siphon here. These are visitor reports, so check what is currently available before going.",
+      "address": "56/3317, 5th Cross Road, Panampilly Nagar, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Cafficana%20Kochi%2056%2F3317%2C%205th%20Cross%20Road%2C%20Panampilly%20Nagar%2C%20Kochi",
+      "source": "https://mapswemade.com/kochi/cafes/cafficana-panampilly-nagar",
+      "checked": "2026-10-27",
+      "addressSource": "https://www.district.in/dining/kochi/cafficana-panampilly-nagar"
+    },
+    {
+      "name": "Epic Poetry Café & Patisserie",
+      "details": "Specialty café · Vyttila",
+      "description": "The café describes serving single-estate coffee, including espresso and pour-over, with food and patisserie.",
+      "address": "Opposite metro pillar 841, Janatha Junction, Vyttila, Kochi 682019",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Epic%20Poetry%20Caf%C3%A9%20%26%20Patisserie%20Opposite%20metro%20pillar%20841%2C%20Janatha%20Junction%2C%20Vyttila%2C%20Kochi%20682019",
+      "source": "https://epicpoetry.in/about.html",
+      "checked": "2026-10-27"
+    },
+    {
+      "name": "Kaapi Street",
+      "details": "Coffee cart · Queens Walkway",
+      "description": "A specialty-coffee cart whose website features espresso and cold-brew drinks. Check its current service before making a special trip.",
+      "address": "Queens Walkway, Ernakulam, Kochi 682001",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kaapi%20Street%20Queens%20Walkway%2C%20Ernakulam%2C%20Kochi%20682001",
+      "source": "https://www.kaapistreet.com/",
+      "checked": "2026-10-27"
+    },
+    {
+      "name": "Kochi Kapital Kafe",
+      "details": "Café · Fort Kochi",
+      "description": "The café lists specialty pour-over coffee among its drinks, alongside a broader food menu.",
+      "address": "Peter Celli Street, Fort Nagar, Fort Kochi, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kochi%20Kapital%20Kafe%20Peter%20Celli%20Street%2C%20Fort%20Nagar%2C%20Fort%20Kochi%2C%20Kochi",
+      "source": "https://www.kochikapitalkafe.com/",
+      "checked": "2026-10-27"
+    },
+    {
+      "name": "Pour Over Lab",
+      "details": "Brewing workshops · Kaloor",
+      "description": "A coffee learning and experience space offering pour-over, AeroPress and espresso workshops. Contact the lab about sessions and visiting; it is not listed here as a walk-in café.",
+      "address": "Melangth Lane, Kaloor, Ernakulam 682017",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pour%20Over%20Lab%20Melangth%20Lane%2C%20Kaloor%2C%20Ernakulam%20682017",
+      "source": "https://www.pouroverlab.in/pages/contact",
+      "checked": "2026-10-27"
+    },
+    {
+      "name": "The Brew School",
+      "details": "Barista training · Kadavanthra",
+      "description": "A professional training school with a barista skills course. Contact the school about courses and visits; it is not listed here as a walk-in café.",
+      "address": "2nd Floor, Daffodils, KP Vallon Road, Giri Nagar, Kadavanthra, Ernakulam 682020",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=The%20Brew%20School%202nd%20Floor%2C%20Daffodils%2C%20KP%20Vallon%20Road%2C%20Giri%20Nagar%2C%20Kadavanthra%2C%20Ernakulam%20682020",
+      "source": "https://thebrewschool.in/",
+      "checked": "2026-10-27"
+    }
+  ]
+}

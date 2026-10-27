@@ -19,3 +19,18 @@
 .race-register{display:inline-flex;align-items:center;min-height:44px;padding:9px 14px;background:var(--blue);color:white;text-decoration:none;font-weight:700}
 .race-register:hover{text-decoration:underline}.race-source{color:var(--blue);font-weight:700}.race-checked{color:var(--muted);font-size:.8rem}
 @media(max-width:600px){.race-row{grid-template-columns:1fr;gap:13px;padding:22px 0 26px}.race-date{display:flex;align-items:baseline;gap:10px;padding:0 0 0 10px}.race-date span{font-size:.65rem}.race-date time,.race-date strong{margin:0;font-size:1rem}.race-name h3{flex-basis:auto;font-size:1.35rem}.race-facts{grid-template-columns:1fr;gap:10px}.race-actions{gap:12px 18px}}
+
+/* Coffee places: keep the location and map action visible without loading a map. */
+.coffee-list{list-style:none;margin:0;padding:0;border-top:2px solid var(--ink)}
+.coffee-row{padding:25px 0 28px;border-bottom:1px solid var(--ink)}
+.coffee-main{border-left:5px solid var(--blue);padding-left:20px}
+.coffee-label,.coffee-facts dt{margin:0 0 6px;color:var(--blue);font:700 .7rem/1.4 var(--mono);letter-spacing:.05em;text-transform:uppercase}
+.coffee-main h3{margin:0;font-size:clamp(1.4rem,2.1vw,1.85rem);letter-spacing:-.04em;line-height:1.2}
+.coffee-description{max-width:68ch;margin:11px 0 0;color:var(--muted);font-size:.95rem}
+.coffee-details{margin:10px 0 0;font-size:.9rem;font-weight:700}
+.coffee-facts{margin:18px 0 0;padding-top:14px;border-top:1px solid var(--line)}
+.coffee-facts dt{color:var(--muted)}.coffee-facts dd{max-width:65ch;margin:0;font-size:.95rem;font-weight:700;overflow-wrap:anywhere}
+.coffee-actions{display:flex;align-items:center;flex-wrap:wrap;gap:12px 20px;margin-top:18px;font-size:.875rem}
+.coffee-map{display:inline-flex;align-items:center;min-height:44px;padding:9px 14px;background:var(--blue);color:white;text-decoration:none;font-weight:700}
+.coffee-map:hover{text-decoration:underline}.coffee-source{color:var(--blue);font-weight:700}.coffee-checked{color:var(--muted);font-size:.8rem}
+@media(max-width:600px){.coffee-row{padding:22px 0 26px}.coffee-main{padding-left:14px}.coffee-actions{gap:12px 18px}}

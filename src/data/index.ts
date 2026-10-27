@@ -4,6 +4,9 @@ export interface Entry {
   source: string;
   checked: string;
   details?: string;
+  address?: string;
+  addressSource?: string;
+  mapUrl?: string;
   date?: string;
   timezone?: string;
   venue?: string;
@@ -57,6 +60,9 @@ function validate(value: unknown, file: string): List {
     if (entry.timezone !== undefined && !isTimezone(entry.timezone)) throw new Error(`${file}: invalid entry timezone ${i + 1}`);
     if (entry.date && !entry.timezone && !list.timezone) throw new Error(`${file}: dated entry ${i + 1} needs a timezone`);
     if (entry.venue !== undefined && !isNonEmpty(entry.venue)) throw new Error(`${file}: invalid entry venue ${i + 1}`);
+    if (entry.address !== undefined && !isNonEmpty(entry.address)) throw new Error(`${file}: invalid entry address ${i + 1}`);
+    if (entry.addressSource !== undefined && !isUrl(entry.addressSource)) throw new Error(`${file}: invalid entry address source ${i + 1}`);
+    if (entry.mapUrl !== undefined && !isUrl(entry.mapUrl)) throw new Error(`${file}: invalid entry map URL ${i + 1}`);
     if (entry.distances !== undefined && (!Array.isArray(entry.distances) || !entry.distances.length || !entry.distances.every(isNonEmpty))) throw new Error(`${file}: invalid entry distances ${i + 1}`);
     if (entry.registrationUrl !== undefined && !isUrl(entry.registrationUrl)) throw new Error(`${file}: invalid registration URL ${i + 1}`);
     if (entry.registrationStatus !== undefined && !['open', 'closed', 'sold-out', 'unknown'].includes(entry.registrationStatus)) throw new Error(`${file}: invalid registration status ${i + 1}`);
