@@ -1,17 +1,20 @@
 {
   "slug": "kochi-marathons",
   "title": "Upcoming marathons in Kochi",
-  "description": "A source-checked list of upcoming full-distance marathons in Kochi, Kerala.",
-  "intro": "This list covers announced events with a full 42.195 km marathon in Kochi. The list may be short when few races have been announced; check the organizer's page for changes before registering.",
+  "description": "Upcoming full-marathon races in Kochi, with distances and source-checked planning details.",
+  "intro": "This calendar includes upcoming events in Kochi that offer the full 42.195 km marathon; half marathons and shorter runs are covered in our running-events calendar. The list may be short when few races have been announced. Event details and registration may change; check the organizer before making plans.",
   "checked": "2026-10-27",
   "entries": [
     {
       "name": "Federal Bank Kochi Marathon 2027",
-      "description": "The fifth edition is scheduled for 14 February 2027. The organizer lists a full marathon alongside half-marathon, 10 km and 3 km categories.",
-      "details": "Date: 14 February 2027 · Distances: 42.195 km, 21.097 km, 10 km and 3 km · The route has not yet been finalized.",
+      "description": "The organizer lists a full marathon as well as a half marathon, 10 km and 3 km Green Run. The 42.195 km, 21.097 km and 10 km categories are timed. The organizer says the race route is not yet finalized; confirm the venue and route before booking travel.",
+      "details": "Full marathon · Half marathon · 10 km · 3 km",
       "source": "https://www.kochimarathon.in/about",
       "checked": "2026-10-27",
       "date": "2027-02-14"
     }
+  ],
+  "related": [
+    "kochi-running-events"
   ]
 }

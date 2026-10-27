@@ -1,40 +1,39 @@
 {
   "slug": "kochi-waterfront-walks",
-  "title": "Waterfront walks in and around Kochi",
-  "description": "Four waterfront places for a walk, from Marine Drive to Cherai.",
-  "intro": "Kochi has waterside places with different settings: an urban promenade, a historic beach, an island beach and an inland park. These are places to explore on foot, not measured running routes; check local access and conditions before setting out.",
+  "title": "Waterfront places to walk in and around Kochi",
+  "description": "Compare a city promenade, two beachside walks and a waterfront park.",
+  "intro": "Four waterside places offer different walks: a city promenade, a historic waterfront, a beach on Vypin island and a central park. Distances are approximate where supplied; these are not verified running routes. Access and conditions can change.",
   "entries": [
     {
       "name": "Marine Drive",
-      "description": "Kerala Tourism describes a roughly three-kilometre promenade between High Court Junction and Rajendra Maidan. Its route along the backwaters makes it a straightforward choice for a city walk; the department notes that evenings can be busy.",
+      "description": "Kerala Tourism describes a roughly 3 km promenade from High Court Junction to Rajendra Maidan. The waterside path is the clearest choice here if you want a longer walk with a stated approximate length; the tourism page says vehicles are not allowed on the walkway.",
       "source": "https://www.keralatourism.org/destination/marine-drive-kochi/546/",
       "checked": "2026-10-27",
-      "details": "Ernakulam · promenade · approximately 3 km"
+      "details": "Ernakulam · approx. 3 km · promenade without vehicles"
     },
     {
       "name": "Fort Kochi Beach",
-      "description": "The tourism department describes a granite walkway by the beach and the adjacent Vasco da Gama Square. The area is associated with the Chinese fishing nets; it also notes that a section of the beach is under naval control and not open to visitors.",
+      "description": "Kerala Tourism describes a granite walkway by Fort Kochi beach and the adjacent Vasco da Gama Square. The official page says a portion of the beach is under naval control and not open to visitors; it does not state a length for the walk.",
       "source": "https://www.keralatourism.org/kochi/fort-kochi-beach.php",
       "checked": "2026-10-27",
-      "details": "Fort Kochi · beachside walkway"
+      "details": "Fort Kochi · beachside walkway · length not confirmed"
     },
     {
       "name": "Subhash Chandra Bose Park",
-      "description": "This central Ernakulam park overlooks Vembanad Lake and the harbour. Kerala Tourism places it next to the boat jetty and opposite Maharaja’s College; check current access and opening times before travelling.",
+      "description": "This central park overlooks the lake and harbour. Kerala Tourism places it next to Ernakulam boat jetty and opposite Maharaja’s College, which makes it easy to identify on a city map; check opening times before travelling.",
       "source": "https://www.keralatourism.org/destination/subhash-park/615/",
       "checked": "2026-10-27",
-      "details": "Ernakulam · waterfront park"
+      "details": "Ernakulam · waterfront park · beside the boat jetty"
     },
     {
       "name": "Cherai Beach",
-      "description": "Kerala Tourism lists a walkway and a children’s park at Cherai, on Vypin island. It is a different outing from the central Kochi waterfront, so allow for the journey and check weather and local conditions.",
+      "description": "Kerala Tourism notes a beach walkway and children’s park on Vypin island. The source does not provide a route length; this is a separate outing from central Ernakulam rather than an extension of Marine Drive.",
       "source": "https://www.keralatourism.org/muziris/beaches/cherai",
       "checked": "2026-10-27",
-      "details": "Vypin island · beach walkway"
+      "details": "Vypin island · beach walkway · length not confirmed"
     }
   ],
   "related": [
-    "kochi-beaches",
     "kochi-museums"
   ],
   "checked": "2026-10-27"

@@ -1,15 +1,15 @@
 {
   "slug": "kochi-museums",
-  "title": "Museums and collections around Kochi",
-  "description": "A guide to five collections covering art, maritime history and Kochi’s royal past.",
-  "intro": "These museums and historic collections offer different perspectives on the region. Opening hours, tickets and photography rules can change; consult the venue or its current official information before visiting.",
+  "title": "Kochi museums: collections and practical details",
+  "description": "Compare five Kochi-area collections and find practical information for planning a museum visit.",
+  "intro": "Choose between royal history, maritime exhibits and Kerala art. The notes highlight what each collection covers and useful details from the cited sources; confirm current opening hours, fees and access with each venue before travelling.",
   "entries": [
     {
       "name": "Hill Palace Museum",
-      "description": "The former royal residence in Thrippunithura is now an archaeological and heritage museum. Kerala Tourism describes galleries with paintings, sculptures, manuscripts and objects associated with the Kochi royal family.",
+      "description": "The former royal residence in Thrippunithura now houses an archaeological and heritage collection, including royal objects, manuscripts and sculptures. Kerala Tourism says photography is prohibited inside the museum and visitors remove footwear before entering the archaeological building.",
       "source": "https://www.keralatourism.org/kerala-article/2024/hillpalace-thrippunithura/1382",
       "checked": "2026-10-27",
-      "details": "Thrippunithura · royal history and archaeology"
+      "details": "Thrippunithura · royal history · indoor photography restriction"
     },
     {
       "name": "Maritime Museum",
@@ -26,22 +26,21 @@
       "details": "Fort Kochi · art and religious heritage"
     },
     {
-      "name": "Museum of Kerala History",
-      "description": "Kerala Tourism lists this Edappally museum as a place to explore the state’s history and artistic traditions, including an art gallery. It is a useful choice for a wider Kerala perspective beyond Kochi’s historic districts.",
-      "source": "https://www.keralatourism.org/destination/museum-kerala-history-edappally/183/",
+      "name": "Kerala Museum",
+      "description": "The museum describes three sections: a Kerala history display with a sound-and-light show, modern Indian art, and dolls. Its visitor guide identifies Pathadipalam as the nearest metro stop and says the bus stop is at its gate. Check current hours, admission and show availability with the museum before visiting.",
+      "source": "https://keralamuseum.org/plan-your-visit/",
       "checked": "2026-10-27",
-      "details": "Edappally · Kerala history and art"
+      "details": "Edappally · history, art and dolls · Pathadipalam Metro"
     },
     {
       "name": "Mattancherry Palace",
-      "description": "The palace’s collection includes murals, royal portraits and objects associated with the rulers of Kochi. It is close to Jew Town and the Paradesi Synagogue, making the surrounding neighbourhood worth planning alongside a visit.",
-      "source": "https://www.keralatourism.org/kerala-article/2022/mattancherry-palace/1179",
+      "description": "The palace collection includes murals and royal portraits associated with Kochi’s rulers. Kerala Tourism lists the museum as closed on Fridays; verify current visiting arrangements before travelling.",
+      "source": "https://www.keralatourism.org/destination/mattancherry-palace-kochi/178/",
       "checked": "2026-10-27",
-      "details": "Mattancherry · palace collection and murals"
+      "details": "Mattancherry · palace murals · Friday closure listed"
     }
   ],
   "related": [
-    "fort-kochi-heritage",
     "kochi-waterfront-walks"
   ],
   "checked": "2026-10-27"
