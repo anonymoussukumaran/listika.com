@@ -39,6 +39,16 @@
       "addressSource": "https://www.district.in/dining/kochi/cafficana-panampilly-nagar"
     },
     {
+      "name": "Coz Coffee",
+      "details": "Café · Panampilly Nagar",
+      "description": "A coffee-led café with food and a broad drinks menu. A local visitor has mentioned pour-over coffee; check what is available before visiting.",
+      "address": "841/E2, South Panampilly Nagar Road, Cheriyakadavanthra, Kochi 682015",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Coz%20Coffee%20841%2FE2%2C%20South%20Panampilly%20Nagar%20Road%2C%20Cheriyakadavanthra%2C%20Kochi%20682015",
+      "source": "https://mapswemade.com/kochi/cafes/coz-coffee-panampilly-nagar",
+      "checked": "2026-10-27",
+      "addressSource": "https://www.zomato.com/kochi/coz-coffee-thevara"
+    },
+    {
       "name": "Epic Poetry Café & Patisserie",
       "details": "Specialty café · Vyttila",
       "description": "The café describes serving single-estate coffee, including espresso and pour-over, with food and patisserie.",
