@@ -16,5 +16,9 @@
   ],
   "related": [
     "kochi-running-events"
+  ],
+  "timezone": "Asia/Kolkata",
+  "collections": [
+    "kochi"
   ]
 }

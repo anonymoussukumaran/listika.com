@@ -1,18 +1,23 @@
 ---
 import Base from '../layouts/Base.astro';
 import { lists } from '../data';
+const kochiLists = lists.filter((list) => list.collections?.includes('kochi'));
 ---
-<Base title="Listika" description="Explore curated lists of useful places, experiences and information in Kochi.">
+<Base title="Listika" description="Practical, source-linked lists to help you find useful information.">
   <div class="wrap">
-    <div class="index-line"><span><b>THE INDEX</b> / KOCHI</span><span>CURATED LISTS</span></div>
+    <div class="index-line"><span><b>THE INDEX</b> / LISTIKA</span><span>CURATED LISTS</span></div>
     <section class="home-intro" aria-labelledby="home-title">
-      <div><p class="eyebrow">A closer look at Kochi</p><h1 id="home-title">Kochi.<br />In <span>good lists.</span></h1><p class="lede">Useful lists for exploring Kochi, gathered with care and linked to their sources.</p></div>
-      <div class="intro-marker"><span class="marker-label">THE LOCAL INDEX</span><strong>{String(lists.length).padStart(2, '0')}</strong><span>lists to explore</span></div>
+      <div><p class="eyebrow">Carefully researched</p><h1 id="home-title">Lists that make<br /><span>things easier.</span></h1><p class="lede">Practical lists for specific questions, with sources you can check.</p></div>
+      <div class="intro-marker"><span class="marker-label">THE INDEX</span><strong>{String(lists.length).padStart(2, '0')}</strong><span>lists to explore</span></div>
     </section>
+    {kochiLists.length > 0 && <section class="index-section" aria-labelledby="collections-title">
+      <div class="section-header"><div><p class="eyebrow">BROWSE / 01</p><h2 id="collections-title">Explore a collection</h2></div><p>Related lists, gathered together.</p></div>
+      <ul class="list-index"><li><a class="list-index-item" href="/collections/kochi/"><span class="item-index" aria-hidden="true">↳</span><span class="item-text"><strong>Lists about Kochi</strong><span>{kochiLists.length} {kochiLists.length === 1 ? 'list' : 'lists'} about running, places and more in and around Kochi.</span></span><span class="item-arrow" aria-hidden="true">↗</span></a></li></ul>
+    </section>}
     <section id="lists" class="index-section" aria-labelledby="lists-title">
-      <div class="section-header"><div><p class="eyebrow">BROWSE / 01</p><h2 id="lists-title">Explore the lists</h2></div><p>Independent, source-linked guides to the city.</p></div>
+      <div class="section-header"><div><p class="eyebrow">BROWSE / 02</p><h2 id="lists-title">Explore the lists</h2></div><p>Independent, source-linked lists.</p></div>
       {lists.length ? <ol class="list-index">{lists.map((list, i) => <li><a class="list-index-item" href={`/lists/${list.slug}/`}><span class="item-index">{String(i + 1).padStart(2, '0')}</span><span class="item-text"><strong>{list.title}</strong><span>{list.description}</span></span><span class="item-arrow" aria-hidden="true">↗</span></a></li>)}</ol> : <p>Our first lists are being prepared.</p>}
     </section>
-    <section class="method-callout"><div><p class="eyebrow">OUR APPROACH / 02</p><h2>Made to be useful.</h2></div><div><p>Every list points you toward the source. Details can change, so check the original information before making plans.</p><a class="text-link" href="/editorial/">How we work <span aria-hidden="true">↗</span></a></div></section>
+    <section class="method-callout"><div><p class="eyebrow">OUR APPROACH / 03</p><h2>Made to be useful.</h2></div><div><p>Every list points you toward the source. Details can change, so check the original information before making plans.</p><a class="text-link" href="/editorial/">How we work <span aria-hidden="true">↗</span></a></div></section>
   </div>
 </Base>

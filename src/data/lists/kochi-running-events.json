@@ -49,5 +49,9 @@
   "related": [
     "kochi-marathons",
     "kochi-running-clubs"
+  ],
+  "timezone": "Asia/Kolkata",
+  "collections": [
+    "kochi"
   ]
 }
