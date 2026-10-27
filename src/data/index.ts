@@ -6,6 +6,11 @@ export interface Entry {
   details?: string;
   date?: string;
   timezone?: string;
+  venue?: string;
+  distances?: string[];
+  registrationUrl?: string;
+  registrationStatus?: 'open' | 'closed' | 'sold-out' | 'unknown';
+  eventStatus?: 'scheduled' | 'postponed' | 'cancelled';
 }
 export interface List {
   slug: string;
@@ -51,6 +56,11 @@ function validate(value: unknown, file: string): List {
     if (!entry || !isNonEmpty(entry.name) || !isNonEmpty(entry.description) || !isUrl(entry.source) || !isDate(entry.checked) || (entry.details !== undefined && !isNonEmpty(entry.details)) || (entry.date !== undefined && !isDate(entry.date))) throw new Error(`${file}: invalid entry ${i + 1}`);
     if (entry.timezone !== undefined && !isTimezone(entry.timezone)) throw new Error(`${file}: invalid entry timezone ${i + 1}`);
     if (entry.date && !entry.timezone && !list.timezone) throw new Error(`${file}: dated entry ${i + 1} needs a timezone`);
+    if (entry.venue !== undefined && !isNonEmpty(entry.venue)) throw new Error(`${file}: invalid entry venue ${i + 1}`);
+    if (entry.distances !== undefined && (!Array.isArray(entry.distances) || !entry.distances.length || !entry.distances.every(isNonEmpty))) throw new Error(`${file}: invalid entry distances ${i + 1}`);
+    if (entry.registrationUrl !== undefined && !isUrl(entry.registrationUrl)) throw new Error(`${file}: invalid registration URL ${i + 1}`);
+    if (entry.registrationStatus !== undefined && !['open', 'closed', 'sold-out', 'unknown'].includes(entry.registrationStatus)) throw new Error(`${file}: invalid registration status ${i + 1}`);
+    if (entry.eventStatus !== undefined && !['scheduled', 'postponed', 'cancelled'].includes(entry.eventStatus)) throw new Error(`${file}: invalid event status ${i + 1}`);
   });
   return list as List;
 }

@@ -12,6 +12,8 @@ Choose topics that solve a specific reader need with distinctive, practical and 
 
 Use the optional `collections` array on a list to group related lists for discovery. For example, the Kochi collection links to lists tagged `kochi`; a collection is not itself counted as a list. New collections need their own page and should be created when they help readers find several related lists.
 
+The Kochi marathon calendar uses optional entry fields `venue`, `distances`, `registrationUrl`, `registrationStatus` (`open`, `closed`, `sold-out`, or `unknown`) and `eventStatus` (`scheduled`, `postponed`, or `cancelled`). Fill these only from checked sources. When an event is postponed without a confirmed new date, remove its old `date` and label it postponed. Keep registration links and statuses accurate, or mark the status unknown.
+
 The Pages workflow builds on pushes, manual dispatch, and daily on a schedule. GitHub Pages must use GitHub Actions as its source for this workflow. The custom domain is managed in the repository's Pages settings; preserve the configured `listika.com` domain. The existing `CNAME` file belongs to the previous branch-based setup and is not used by the Actions deployment. Do not publish private project research to this repository.
 
 The common page layout includes the site's AdSense code. Do not introduce ad units, analytics or consent claims without the corresponding account configuration and privacy review.

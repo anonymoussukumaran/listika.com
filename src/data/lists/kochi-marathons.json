@@ -1,24 +1,138 @@
 {
   "slug": "kochi-marathons",
-  "title": "Upcoming marathons in Kochi",
-  "description": "Upcoming full-marathon races in Kochi, with distances and source-checked planning details.",
-  "intro": "This calendar includes upcoming events in Kochi that offer the full 42.195 km marathon; half marathons and shorter runs are covered in our running-events calendar. The list may be short when few races have been announced. Event details and registration may change; check the organizer before making plans.",
+  "title": "Upcoming marathons and running events in Kochi",
+  "description": "Compare upcoming full and half marathons, 10K races and shorter runs around Kochi, with registration links.",
+  "intro": "A source-checked calendar of announced running events in Kochi and the surrounding Ernakulam area. It includes full and half marathons as well as shorter races and family runs; a shorter run is not necessarily a marathon. Dates, venues and registration can change, so confirm with the organizer before making plans.",
   "checked": "2026-10-27",
-  "entries": [
-    {
-      "name": "Federal Bank Kochi Marathon 2027",
-      "description": "The organizer lists a full marathon as well as a half marathon, 10 km and 3 km Green Run. The 42.195 km, 21.097 km and 10 km categories are timed. The organizer says the race route is not yet finalized; confirm the venue and route before booking travel.",
-      "details": "Full marathon · Half marathon · 10 km · 3 km",
-      "source": "https://www.kochimarathon.in/about",
-      "checked": "2026-10-27",
-      "date": "2027-02-14"
-    }
-  ],
-  "related": [
-    "kochi-running-events"
-  ],
   "timezone": "Asia/Kolkata",
   "collections": [
     "kochi"
+  ],
+  "related": [
+    "kochi-running-clubs"
+  ],
+  "entries": [
+    {
+      "name": "Alhuda Marathon 2026 (near Kochi)",
+      "date": "2026-11-01",
+      "venue": "Alhuda Public School, Panayikulam, Ernakulam (near Kochi)",
+      "distances": [
+        "21 km",
+        "10 km",
+        "3 km"
+      ],
+      "description": "The school lists a 21 km half marathon, 10 km run and 3 km family run in Panayikulam, outside Kochi city. Its published registration deadline was 20 October; confirm current availability with the organizer.",
+      "source": "https://alhuda.edu.in/marathon/",
+      "registrationUrl": "https://alhuda.edu.in/marathon/",
+      "registrationStatus": "unknown",
+      "checked": "2026-10-27"
+    },
+    {
+      "name": "Orange Run 2026",
+      "date": "2026-11-01",
+      "venue": "Cochin Port Trust Stadium, Willingdon Island",
+      "distances": [
+        "21 km",
+        "10 km",
+        "5 km",
+        "3 km"
+      ],
+      "description": "Orange Runners & Riders Club lists a half marathon and shorter categories. The page gives 26 October as the registration deadline, but still shows registration controls. Confirm availability with the organizer.",
+      "source": "https://pacenation.in/event/orange-run-2026",
+      "registrationUrl": "https://pacenation.in/event/orange-run-2026",
+      "registrationStatus": "unknown",
+      "checked": "2026-10-27"
+    },
+    {
+      "name": "RCI Run & Ride 2026",
+      "date": "2026-11-15",
+      "venue": "Decathlon Sports, Kalamassery",
+      "distances": [
+        "21 km",
+        "10 km",
+        "5 km"
+      ],
+      "description": "The event offers a 21 km timed run, 10 km run, 5 km fun run and 5 km walk; it also has a separate 50 km cycling category. The registration page provides category-specific details and fees.",
+      "source": "https://raceproonline.com/event-details/rci-run-ride",
+      "registrationUrl": "https://raceproonline.com/event-details/rci-run-ride",
+      "registrationStatus": "unknown",
+      "checked": "2026-10-27"
+    },
+    {
+      "name": "Team QR Mini Marathon / Season 5",
+      "date": "2026-11-29",
+      "venue": "Queens Walkway, Pachalam, Ernakulam",
+      "distances": [
+        "10 km"
+      ],
+      "description": "Team QR Kochi lists this 10 km event on its registration page. A virtual option is also mentioned, with its date to be announced separately.",
+      "source": "https://eventdio.com/qr/qr-mini-marathonseason-5",
+      "registrationUrl": "https://eventdio.com/qr/qr-mini-marathonseason-5",
+      "registrationStatus": "open",
+      "checked": "2026-10-27"
+    },
+    {
+      "name": "Santa Run Kochi 2026",
+      "date": "2026-12-06",
+      "venue": "Lulu Bolgatty International Convention Centre, Kochi",
+      "distances": [
+        "21.1 km",
+        "10 km",
+        "5 km"
+      ],
+      "description": "The Rotary Club of Cochin Knights Trust lists a half marathon, 10 km run and 5 km fun run. Its registration page says entries are open; confirm current availability before paying.",
+      "source": "https://santarunkochi.com/",
+      "registrationUrl": "https://santarunkochi.com/register-now/",
+      "registrationStatus": "open",
+      "checked": "2026-10-27"
+    },
+    {
+      "name": "SBI Kochi Navy Half Marathon 2026",
+      "date": "2026-12-13",
+      "venue": "Start: Grand Hyatt Convention Center; finish: Bolgatty Palace Ground",
+      "distances": [
+        "21.1 km",
+        "10 km",
+        "5 km"
+      ],
+      "description": "Organized by Southern Naval Command, this event has a half marathon, timed 10 km run and 5 km fun run. The published flag-off times are provisional, and the route map is to be released closer to race day.",
+      "source": "https://www.kochinavymarathon.com/",
+      "registrationUrl": "https://static2.mathrubhumi.com/kochi-navy-marathon-2026/earlybird-register.html",
+      "registrationStatus": "open",
+      "checked": "2026-10-27"
+    },
+    {
+      "name": "Federal Bank Kochi Marathon 2027",
+      "date": "2027-02-14",
+      "venue": "Kochi; exact venue and route to be confirmed",
+      "distances": [
+        "42.195 km",
+        "21.097 km",
+        "10 km",
+        "3 km"
+      ],
+      "description": "The organizer lists a full marathon, half marathon, timed 10 km and 3 km Green Run. The route has not yet been finalized; verify the race venue and registration availability before booking travel.",
+      "source": "https://www.kochimarathon.in/about",
+      "registrationUrl": "https://www.district.in/events/federal-bank-kochi-marathon-2027-buy-tickets?disableSSR=true",
+      "registrationStatus": "unknown",
+      "checked": "2026-10-27"
+    },
+    {
+      "name": "Nammude Run Kochi 2027",
+      "date": "2027-02-28",
+      "venue": "Durbar Hall Ground, Kochi",
+      "distances": [
+        "1 km",
+        "2 km",
+        "3 km walk",
+        "5 km",
+        "10 km"
+      ],
+      "description": "The organizer lists children’s runs, a walkathon and both timed and fun-run options. Confirm the age rules, fee and availability for your chosen category.",
+      "source": "https://www.tesports.in/event-details/nammude-run-kochi-2027.php",
+      "registrationUrl": "https://www.tesports.in/event-details/nammude-run-kochi-2027.php",
+      "registrationStatus": "open",
+      "checked": "2026-10-27"
+    }
   ]
 }
