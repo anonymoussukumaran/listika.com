@@ -114,10 +114,11 @@
       "distances": [
         "5 km"
       ],
-      "description": "A 5 km obstacle-course race, rather than a conventional road run. The organizer lists Kochi on 24 January; confirm the venue and registration availability before booking.",
+      "description": "A 5 km obstacle-course race, rather than a conventional road run. Some registration waves are available; confirm the venue and your chosen wave before booking.",
       "source": "https://devilscircuit.com/",
-      "registrationStatus": "unknown",
-      "checked": "2026-10-28"
+      "registrationStatus": "open",
+      "checked": "2026-10-28",
+      "registrationUrl": "https://getmybib.com/287/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Kochi-2026-27"
     },
     {
       "name": "Federal Bank Kochi Marathon 2027",
