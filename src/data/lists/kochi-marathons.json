@@ -3,7 +3,7 @@
   "title": "Upcoming marathons and running events in Kochi",
   "description": "Compare upcoming full and half marathons, 10K races and shorter runs around Kochi, with registration links.",
   "intro": "A source-checked calendar of announced running events in Kochi and the surrounding Ernakulam area. It includes full and half marathons as well as shorter races and family runs; a shorter run is not necessarily a marathon. Dates, venues and registration can change, so confirm with the organizer before making plans.",
-  "checked": "2026-10-27",
+  "checked": "2026-10-28",
   "timezone": "Asia/Kolkata",
   "collections": [
     "kochi"
@@ -22,7 +22,7 @@
       "source": "https://alhuda.edu.in/marathon/",
       "registrationUrl": "https://alhuda.edu.in/marathon/",
       "registrationStatus": "unknown",
-      "checked": "2026-10-27"
+      "checked": "2026-10-28"
     },
     {
       "name": "Orange Run 2026",
@@ -34,11 +34,11 @@
         "5 km",
         "3 km"
       ],
-      "description": "Orange Runners & Riders Club lists a half marathon and shorter categories. The page gives 26 October as the registration deadline, but still shows registration controls. Confirm availability with the organizer.",
+      "description": "The provider says registration is closed and marks the 21 km and 10 km categories full, but still shows controls for some 5 km options. Confirm availability with the organizer.",
       "source": "https://pacenation.in/event/orange-run-2026",
       "registrationUrl": "https://pacenation.in/event/orange-run-2026",
       "registrationStatus": "unknown",
-      "checked": "2026-10-27"
+      "checked": "2026-10-28"
     },
     {
       "name": "RCI Run & Ride 2026",
@@ -66,7 +66,7 @@
       "source": "https://eventdio.com/qr/qr-mini-marathonseason-5",
       "registrationUrl": "https://eventdio.com/qr/qr-mini-marathonseason-5",
       "registrationStatus": "open",
-      "checked": "2026-10-27"
+      "checked": "2026-10-28"
     },
     {
       "name": "Santa Run Kochi 2026",
@@ -81,7 +81,7 @@
       "source": "https://santarunkochi.com/",
       "registrationUrl": "https://santarunkochi.com/register-now/",
       "registrationStatus": "open",
-      "checked": "2026-10-27"
+      "checked": "2026-10-28"
     },
     {
       "name": "SBI Kochi Navy Half Marathon 2026",
@@ -96,7 +96,28 @@
       "source": "https://www.kochinavymarathon.com/",
       "registrationUrl": "https://static2.mathrubhumi.com/kochi-navy-marathon-2026/earlybird-register.html",
       "registrationStatus": "open",
-      "checked": "2026-10-27"
+      "checked": "2026-10-28"
+    },
+    {
+      "name": "Zydus Pinkathon Kochi 2027",
+      "date": "2027-01-10",
+      "venue": "Kochi; exact venue to be announced",
+      "description": "The organizer lists a Kochi edition of its women’s run for 10 January. Kochi-specific distances and registration have not yet been confirmed; the Mumbai page’s details may not apply.",
+      "source": "https://pinkathon.life/",
+      "registrationStatus": "unknown",
+      "checked": "2026-10-28"
+    },
+    {
+      "name": "Devils Circuit Kochi 2027",
+      "date": "2027-01-24",
+      "venue": "Kochi; exact venue to be confirmed",
+      "distances": [
+        "5 km"
+      ],
+      "description": "A 5 km obstacle-course race, rather than a conventional road run. The organizer lists Kochi on 24 January; confirm the venue and registration availability before booking.",
+      "source": "https://devilscircuit.com/",
+      "registrationStatus": "unknown",
+      "checked": "2026-10-28"
     },
     {
       "name": "Federal Bank Kochi Marathon 2027",
@@ -112,7 +133,7 @@
       "source": "https://www.kochimarathon.in/about",
       "registrationUrl": "https://www.district.in/events/federal-bank-kochi-marathon-2027-buy-tickets?disableSSR=true",
       "registrationStatus": "unknown",
-      "checked": "2026-10-27"
+      "checked": "2026-10-28"
     },
     {
       "name": "Nammude Run Kochi 2027",
@@ -129,7 +150,7 @@
       "source": "https://www.tesports.in/event-details/nammude-run-kochi-2027.php",
       "registrationUrl": "https://www.tesports.in/event-details/nammude-run-kochi-2027.php",
       "registrationStatus": "open",
-      "checked": "2026-10-27"
+      "checked": "2026-10-28"
     }
   ]
 }
