@@ -1,0 +1,255 @@
+{
+  "slug": "indian-specialty-coffee-brands",
+  "title": "Handpicked Indian specialty coffee brands",
+  "description": "Discover Indian specialty coffee brands through their sourcing, origins and approach to roasting.",
+  "intro": "A starting selection of India-based coffee brands with interesting, documented approaches to origin, sourcing, processing or brewing. We chose them for the information they publish and the variety they bring to the list; this is not a blind tasting, a ranking, or independent certification of every coffee. Offerings, stock and prices change, so check each product’s origin, grind and ingredients before ordering.",
+  "checked": "2026-10-30",
+  "related": [
+    "india-specialty-coffee-sampler-packs",
+    "kochi-specialty-coffee"
+  ],
+  "entries": [
+    {
+      "name": "ARAKU Coffee",
+      "description": "A brand centred on coffee from Andhra Pradesh’s Araku Valley and its farming communities.",
+      "source": "https://www.arakucoffee.in/products/signature",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Why it is here",
+          "value": "A focused regional story: its Signature page names the growing area and producers."
+        },
+        {
+          "label": "What to explore",
+          "value": "Compare the brand’s different Araku profiles; whole-bean and ground options are listed."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Explore the roaster",
+          "url": "https://www.arakucoffee.in/"
+        }
+      ]
+    },
+    {
+      "name": "Black Baza Coffee",
+      "description": "A coffee company that describes working with smallholder growers and a focus on biodiversity-friendly cultivation.",
+      "source": "https://www.blackbazacoffee.com/products/frogmouth",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Why it is here",
+          "value": "Its Frogmouth listing identifies producers and an origin in the Nilgiris."
+        },
+        {
+          "label": "What to explore",
+          "value": "Explore its grower stories and coffees; check individual labels because some blends contain chicory."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Explore the roaster",
+          "url": "https://www.blackbazacoffee.com/"
+        }
+      ]
+    },
+    {
+      "name": "Blue Tokai Coffee Roasters",
+      "description": "A roaster with coffees from multiple Indian estates, including seasonal releases.",
+      "source": "https://bluetokaicoffee.com/pages/central-washing-station",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Why it is here",
+          "value": "Its published estate and processing stories provide a way to learn where some coffees come from."
+        },
+        {
+          "label": "What to explore",
+          "value": "Browse named-estate coffees and the roaster’s central-washing-station project."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Explore the roaster",
+          "url": "https://bluetokaicoffee.com/"
+        }
+      ]
+    },
+    {
+      "name": "BROOT Coffee",
+      "description": "An India-based roaster offering single-origin coffees and microlots.",
+      "source": "https://brootcoffee.com/pages/ammikulavi-estate-coffee",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Why it is here",
+          "value": "Its Ammikulavi Estate profile describes a Tamil Nadu canephora lot and its processing."
+        },
+        {
+          "label": "What to explore",
+          "value": "Look for estate and process information on individual lots, including robusta options."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Explore the roaster",
+          "url": "https://brootcoffee.com/"
+        }
+      ]
+    },
+    {
+      "name": "Caffinary",
+      "description": "A roaster with a range that includes single-estate coffees and blends.",
+      "source": "https://caffinary.com/pages/b2b-spaces",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Why it is here",
+          "value": "The brand describes both an Arabica–Robusta blend and limited specialty-coffee releases."
+        },
+        {
+          "label": "What to explore",
+          "value": "Compare individual coffees and check each listing for its origin and blend."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Explore the roaster",
+          "url": "https://caffinary.com/"
+        }
+      ]
+    },
+    {
+      "name": "Corridor Seven Coffee Roasters",
+      "description": "A Nagpur-based roaster whose site groups coffees by filter, espresso and milk-based brewing.",
+      "source": "https://corridorseven.coffee/pages/our-story",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Why it is here",
+          "value": "Its catalogue makes the intended brewing style a useful starting point."
+        },
+        {
+          "label": "What to explore",
+          "value": "Explore the brew-oriented coffee categories and named estate partners."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Explore the roaster",
+          "url": "https://corridorseven.coffee/"
+        }
+      ]
+    },
+    {
+      "name": "FFOX Coffee",
+      "description": "A Kerala coffee company that lists single-origin, specialty and South Indian filter coffees.",
+      "source": "https://ffoxcoffee.com/pages/about-us",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Why it is here",
+          "value": "Its range includes estate coffees alongside South Indian filter blends."
+        },
+        {
+          "label": "What to explore",
+          "value": "Check the coffee-to-chicory ratio on blends if you want pure coffee."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Explore the roaster",
+          "url": "https://ffoxcoffee.com/"
+        }
+      ]
+    },
+    {
+      "name": "Fraction 9 Coffee Roasters",
+      "description": "A coffee-growing family’s roaster based around its Chikmagalur estate.",
+      "source": "https://www.fraction9coffee.com/pages/our-farm",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Why it is here",
+          "value": "The brand publishes its farm story and also offers a broader coffee selection."
+        },
+        {
+          "label": "What to explore",
+          "value": "Compare its farm coffees and microlots; not every listing is necessarily from the same estate."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Explore the roaster",
+          "url": "https://www.fraction9coffee.com/"
+        }
+      ]
+    },
+    {
+      "name": "Kāpikottai",
+      "description": "A Chennai roaster with coffees from Indian farm partners and names inspired by music.",
+      "source": "https://kapikottai.coffee/products/shankarabharanam",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Why it is here",
+          "value": "Its Shankarābharanam listing names the estate and describes the coffee’s processing."
+        },
+        {
+          "label": "What to explore",
+          "value": "Browse individual estate lots or its custom sampler, and select a grind for your brewer."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Explore the roaster",
+          "url": "https://kapikottai.coffee/"
+        }
+      ]
+    },
+    {
+      "name": "Naivo Coffee Company",
+      "description": "An Indian roaster with coffees sourced from India and other countries.",
+      "source": "https://naivo.in/our-approach/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Why it is here",
+          "value": "Its sourcing and roasting notes distinguish filter, espresso and omni-roast approaches."
+        },
+        {
+          "label": "What to explore",
+          "value": "Compare origin and roast information across Indian and international coffees."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Explore the roaster",
+          "url": "https://naivo.in/"
+        }
+      ]
+    },
+    {
+      "name": "Subko Specialty Coffee Roasters",
+      "description": "An India-based specialty roaster with named-origin coffees and microlots.",
+      "source": "https://www.subko.coffee/pages/coffee",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Why it is here",
+          "value": "The company describes direct relationships with estates and smallholders and publishes processing details."
+        },
+        {
+          "label": "What to explore",
+          "value": "Explore microlots and origins; check each bag’s provenance because the range is not exclusively Indian-grown."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Explore the roaster",
+          "url": "https://www.subko.coffee/"
+        }
+      ]
+    }
+  ]
+}
