@@ -7,14 +7,6 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Google tag (gtag.js) -->
-    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-YEXHBBHKEC"></script>
-    <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-YEXHBBHKEC');
-    </script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title === 'Listika' ? title : `${title} | Listika`}</title>
@@ -25,7 +17,8 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta name="theme-color" content="#f7f6f0" />
-    <script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6649279084873350" crossorigin="anonymous"></script>
+    <meta name="google-adsense-account" content="ca-pub-6649279084873350" />
+    <script is:inline src="/consent.js" defer></script>
   </head>
   <body>
     <a class="skip" href="#main">Skip to content</a>
@@ -36,7 +29,16 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
         <nav aria-label="Main navigation"><a href="/#lists">Explore lists</a><a href="/about/">About</a></nav>
       </div>
     </header>
+    <section id="privacy-choice" class="privacy-choice" aria-labelledby="privacy-choice-title" hidden>
+      <div class="wrap privacy-choice-inner">
+        <div><p class="eyebrow">YOUR PRIVACY</p><h2 id="privacy-choice-title" tabindex="-1">Help us understand visits?</h2>
+          <p>With your permission, Google Analytics uses cookies to measure how people use Listika. You can choose without affecting access to the site and change your choice any time. <a href="/privacy/">Read our privacy policy</a>.</p>
+          <p id="privacy-choice-message" role="status" aria-live="polite" hidden></p>
+        </div>
+        <div class="privacy-choice-actions"><button type="button" id="privacy-accept">Allow analytics</button><button type="button" id="privacy-reject">Reject analytics</button></div>
+      </div>
+    </section>
     <main id="main"><slot /></main>
-    <footer class="site-footer"><div class="wrap footer-inner"><div><a class="footer-brand" href="/">listika.</a><p>Curated lists. Sources included.</p></div><nav aria-label="Footer navigation"><a href="/about/">About</a><a href="/editorial/">How we work</a><a href="/privacy/">Privacy</a></nav></div></footer>
+    <footer class="site-footer"><div class="wrap footer-inner"><div><a class="footer-brand" href="/">listika.</a><p>Curated lists. Sources included.</p></div><nav aria-label="Footer navigation"><a href="/about/">About</a><a href="/editorial/">How we work</a><a href="/privacy/">Privacy</a><button type="button" id="privacy-settings" hidden>Privacy settings</button></nav></div></footer>
   </body>
 </html>

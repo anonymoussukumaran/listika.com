@@ -44,3 +44,19 @@
 .entry-actions a{display:inline-flex;align-items:center;min-height:44px;padding:9px 14px;background:var(--blue);color:white;text-decoration:none;font-weight:700}
 .entry-actions a:hover{text-decoration:underline}
 @media(max-width:600px){.entry-facts{grid-template-columns:1fr;gap:10px}.entry-actions{gap:10px}}
+
+/* Optional analytics: equally visible choices, in the page flow on every screen. */
+.privacy-choice{border-bottom:2px solid var(--ink);background:#fff}
+.privacy-choice[hidden],#privacy-settings[hidden]{display:none}
+.privacy-choice-inner{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:24px;align-items:center;padding-block:20px}
+.privacy-choice .eyebrow{margin-bottom:5px}.privacy-choice h2{margin:0 0 7px;font-size:1.25rem;line-height:1.2;letter-spacing:-.03em}
+.privacy-choice p:not(.eyebrow){max-width:70ch;margin:0;font-size:.9rem;line-height:1.5}
+.privacy-choice a{color:var(--blue);font-weight:700}
+.privacy-choice #privacy-choice-message{margin-top:9px;font-weight:700}
+.privacy-choice-actions{display:flex;flex-wrap:wrap;gap:10px}
+.privacy-choice button{min-height:44px;padding:10px 14px;border:2px solid var(--ink);background:var(--paper);color:var(--ink);font:700 .875rem var(--sans);cursor:pointer}
+.privacy-choice button:hover:not(:disabled){background:var(--acid)}
+.privacy-choice button:disabled{opacity:.55;cursor:not-allowed}
+.privacy-choice button:focus-visible,#privacy-settings:focus-visible{outline:3px solid #005fcc;outline-offset:4px}
+#privacy-settings{padding:0;border:0;background:none;color:inherit;font:inherit;font-weight:700;text-decoration:underline;text-underline-offset:4px;cursor:pointer}
+@media(max-width:700px){.privacy-choice-inner{grid-template-columns:1fr;gap:14px}.privacy-choice-actions{display:grid;grid-template-columns:1fr 1fr}.privacy-choice button{padding-inline:8px}}
