@@ -1,3 +1,5 @@
+import { orderEntries, validateOrdering } from './ordering.mjs';
+
 export interface EntryFact {
   label: string;
   value: string;
@@ -8,6 +10,7 @@ export interface EntryAction {
 }
 export interface Entry {
   name: string;
+  sortGroup?: string;
   description: string;
   source: string;
   checked: string;
@@ -31,6 +34,10 @@ export interface List {
   description: string;
   intro: string;
   checked: string;
+  ordering: {
+    method: 'editorial' | 'alphabetical' | 'grouped-alphabetical' | 'date';
+    explanation: string;
+  };
   entries: Entry[];
   related?: string[];
   collections?: string[];
@@ -68,6 +75,7 @@ function validate(value: unknown, file: string): List {
   list.entries.forEach((entry, i) => {
     if (!entry || !isNonEmpty(entry.name) || !isNonEmpty(entry.description) || !isUrl(entry.source) || !isDate(entry.checked) || (entry.details !== undefined && !isNonEmpty(entry.details)) || (entry.date !== undefined && !isDate(entry.date))) throw new Error(`${file}: invalid entry ${i + 1}`);
     if (entry.timezone !== undefined && !isTimezone(entry.timezone)) throw new Error(`${file}: invalid entry timezone ${i + 1}`);
+    if (entry.sortGroup !== undefined && !isNonEmpty(entry.sortGroup)) throw new Error(`${file}: invalid entry sort group ${i + 1}`);
     if (entry.date && !entry.timezone && !list.timezone) throw new Error(`${file}: dated entry ${i + 1} needs a timezone`);
     if (entry.venue !== undefined && !isNonEmpty(entry.venue)) throw new Error(`${file}: invalid entry venue ${i + 1}`);
     if (entry.address !== undefined && !isNonEmpty(entry.address)) throw new Error(`${file}: invalid entry address ${i + 1}`);
@@ -80,6 +88,7 @@ function validate(value: unknown, file: string): List {
     if (entry.registrationStatus !== undefined && !['open', 'closed', 'sold-out', 'unknown'].includes(entry.registrationStatus)) throw new Error(`${file}: invalid registration status ${i + 1}`);
     if (entry.eventStatus !== undefined && !['scheduled', 'postponed', 'cancelled'].includes(entry.eventStatus)) throw new Error(`${file}: invalid event status ${i + 1}`);
   });
+  validateOrdering(list.ordering, list.entries, file);
   return list as List;
 }
 function todayIn(timeZone: string): string {
@@ -89,7 +98,7 @@ function todayIn(timeZone: string): string {
 }
 export const lists: List[] = Object.entries(source).map(([file, data]) => validate(data, file))
   .filter((list) => !list.expires || list.expires >= todayIn(list.timezone!))
-  .map((list) => ({ ...list, entries: list.entries.filter((entry) => !entry.date || entry.date >= todayIn((entry.timezone ?? list.timezone)!)) }))
+  .map((list) => ({ ...list, entries: orderEntries(list.entries.filter((entry) => !entry.date || entry.date >= todayIn((entry.timezone ?? list.timezone)!)), list.ordering.method) }))
   .sort((a, b) => a.title.localeCompare(b.title));
 if (new Set(lists.map((list) => list.slug)).size !== lists.length) throw new Error('Duplicate list slug');
 export const getList = (slug: string) => lists.find((list) => list.slug === slug);

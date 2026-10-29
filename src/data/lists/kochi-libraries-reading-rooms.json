@@ -9,6 +9,62 @@
   ],
   "entries": [
     {
+      "name": "Ernakulam Public Library",
+      "details": "Public reading and lending · Convent Road",
+      "description": "The library describes a general newspaper reading room for non-members, a separate members’ reading room, and reference and children’s sections.",
+      "address": "Library Buildings, Convent Road, Ernakulam, Kochi 682035",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ernakulam%20Public%20Library%20Library%20Buildings%2C%20Convent%20Road%2C%20Ernakulam%2C%20Kochi%20682035",
+      "source": "https://www.ernakulampubliclibrary.com/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Reading",
+          "value": "The library says non-members can read newspapers in the general room; confirm current access."
+        },
+        {
+          "label": "Borrowing",
+          "value": "Membership is needed to borrow; confirm current fees."
+        }
+      ],
+      "addressSource": "https://www.ernakulampubliclibrary.com/location_map.php",
+      "actions": [
+        {
+          "label": "Membership terms",
+          "url": "https://ernakulampubliclibrary.com/Terms%20%26%20Conditions.html"
+        },
+        {
+          "label": "Local reader discussion",
+          "url": "https://www.reddit.com/r/Kochi/comments/1k9rx8s/info_about_ernakulam_public_library/"
+        }
+      ]
+    },
+    {
+      "name": "EMS Co-operative Library",
+      "details": "Lending and reference · Kakkanad",
+      "description": "A community library in Mavelipuram with general reading and reference collections. Local reporting describes family, student and institutional memberships.",
+      "address": "MRA Hall Road, Mavelipuram, Kakkanad, Kochi 682030",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=EMS%20Co-operative%20Library%20MRA%20Hall%20Road%2C%20Mavelipuram%2C%20Kakkanad%2C%20Kochi%20682030",
+      "source": "https://www.newindianexpress.com/states/kerala/2025/Jul/23/how-ems-library-is-paving-way-for-a-reading-renaissance-in-kochi",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Borrowing",
+          "value": "Membership options include family and student plans; check current terms."
+        },
+        {
+          "label": "Reading on site",
+          "value": "Ask the library about access for non-members."
+        }
+      ],
+      "addressSource": "https://yellowpages.webindia123.com/d-t/Kerala/Kochi/EMS-Co-Operative-Library/41315/",
+      "actions": [
+        {
+          "label": "Local reader discussion",
+          "url": "https://www.reddit.com/r/Kochi/comments/1gk0ro6/"
+        }
+      ]
+    },
+    {
       "name": "Chavara Public Library",
       "details": "Public reading room and lending · Ernakulam South",
       "description": "The library lists a reading and reference area, plus general and children’s memberships. An older cultural-centre page describes a public newspaper reading room; confirm present access and fees.",
@@ -55,52 +111,6 @@
         {
           "label": "Membership information",
           "url": "https://www.eloorlibraries.in/membership.html"
-        }
-      ]
-    },
-    {
-      "name": "EMS Co-operative Library",
-      "details": "Lending and reference · Kakkanad",
-      "description": "A community library in Mavelipuram with general reading and reference collections. Local reporting describes family, student and institutional memberships.",
-      "address": "MRA Hall Road, Mavelipuram, Kakkanad, Kochi 682030",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=EMS%20Co-operative%20Library%20MRA%20Hall%20Road%2C%20Mavelipuram%2C%20Kakkanad%2C%20Kochi%20682030",
-      "source": "https://www.newindianexpress.com/states/kerala/2025/Jul/23/how-ems-library-is-paving-way-for-a-reading-renaissance-in-kochi",
-      "checked": "2026-10-30",
-      "facts": [
-        {
-          "label": "Borrowing",
-          "value": "Membership options include family and student plans; check current terms."
-        },
-        {
-          "label": "Reading on site",
-          "value": "Ask the library about access for non-members."
-        }
-      ],
-      "addressSource": "https://yellowpages.webindia123.com/d-t/Kerala/Kochi/EMS-Co-Operative-Library/41315/"
-    },
-    {
-      "name": "Ernakulam Public Library",
-      "details": "Public reading and lending · Convent Road",
-      "description": "The library describes a general newspaper reading room for non-members, a separate members’ reading room, and reference and children’s sections.",
-      "address": "Library Buildings, Convent Road, Ernakulam, Kochi 682035",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ernakulam%20Public%20Library%20Library%20Buildings%2C%20Convent%20Road%2C%20Ernakulam%2C%20Kochi%20682035",
-      "source": "https://www.ernakulampubliclibrary.com/",
-      "checked": "2026-10-30",
-      "facts": [
-        {
-          "label": "Reading",
-          "value": "The library says non-members can read newspapers in the general room; confirm current access."
-        },
-        {
-          "label": "Borrowing",
-          "value": "Membership is needed to borrow; confirm current fees."
-        }
-      ],
-      "addressSource": "https://www.ernakulampubliclibrary.com/location_map.php",
-      "actions": [
-        {
-          "label": "Membership terms",
-          "url": "https://ernakulampubliclibrary.com/Terms%20%26%20Conditions.html"
         }
       ]
     },
@@ -169,5 +179,9 @@
         }
       ]
     }
-  ]
+  ],
+  "ordering": {
+    "method": "editorial",
+    "explanation": "Editor’s starting points: Ernakulam Public Library and EMS Co-operative Library come first, based on their documented services and local reader discussions. The remaining places follow alphabetically. This is not a review-score ranking."
+  }
 }

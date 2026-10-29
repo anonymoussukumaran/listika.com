@@ -251,5 +251,9 @@
         }
       ]
     }
-  ]
+  ],
+  "ordering": {
+    "method": "alphabetical",
+    "explanation": "Our handpicked brands are listed alphabetically by name, not ranked by taste or review score."
+  }
 }

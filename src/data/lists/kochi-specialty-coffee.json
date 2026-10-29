@@ -151,5 +151,9 @@
       "checked": "2026-10-28",
       "addressSource": "https://catsofkochi.com/places/trouvaille/"
     }
-  ]
+  ],
+  "ordering": {
+    "method": "alphabetical",
+    "explanation": "Spaces are listed alphabetically by name, not ranked by quality or review score."
+  }
 }

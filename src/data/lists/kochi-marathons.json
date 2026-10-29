@@ -153,5 +153,9 @@
       "registrationStatus": "open",
       "checked": "2026-10-29"
     }
-  ]
+  ],
+  "ordering": {
+    "method": "date",
+    "explanation": "Upcoming events are ordered by date, earliest first. Events on the same date keep their editorial order; undated events appear last."
+  }
 }

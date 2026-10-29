@@ -36,6 +36,7 @@
 @media(max-width:600px){.coffee-row{padding:22px 0 26px}.coffee-main{padding-left:14px}.coffee-actions{gap:12px 18px}}
 
 /* Topic-specific facts and actions on editorial entries. */
+.entry-body .entry-group{margin:0 0 7px;color:var(--blue);font:700 .7rem/1.4 var(--mono);letter-spacing:.05em;text-transform:uppercase}
 .entry-facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px 20px;margin:18px 0 0;padding-top:14px;border-top:1px solid var(--line)}
 .entry-facts dt{margin:0 0 5px;color:var(--muted);font:700 .7rem/1.4 var(--mono);letter-spacing:.04em;text-transform:uppercase}
 .entry-facts dd{margin:0;font-size:.9rem;font-weight:700;overflow-wrap:anywhere}

@@ -26,7 +26,8 @@
           "label": "Trail and contact details",
           "url": "https://www.keralatourism.org/ecotourism/trekking-programs/thattekkad-trails/18"
         }
-      ]
+      ],
+      "sortGroup": "Thattekkad"
     },
     {
       "name": "Thoovanam Falls Trek — Chinnar",
@@ -49,7 +50,8 @@
           "label": "Trail and enquiry details",
           "url": "https://www.keralatourism.org/ecotourism/trekking-programs/thoovanam-marayoor-trek/34"
         }
-      ]
+      ],
+      "sortGroup": "Chinnar"
     },
     {
       "name": "Nature Walk — Periyar",
@@ -72,7 +74,8 @@
           "label": "Check reserve programme",
           "url": "https://www.periyartigerreserve.org/program/nature-walk"
         }
-      ]
+      ],
+      "sortGroup": "Periyar"
     },
     {
       "name": "Border Hiking: Thondiyar — Periyar",
@@ -95,7 +98,8 @@
           "label": "Check reserve programme",
           "url": "https://www.periyartigerreserve.org/program/border-hiking-thondiyar"
         }
-      ]
+      ],
+      "sortGroup": "Periyar"
     },
     {
       "name": "Jungle Scout: Bamboo Grove — Periyar",
@@ -118,7 +122,8 @@
           "label": "Check reserve programme",
           "url": "https://www.periyartigerreserve.org/program/jungle-scout-bamboo-grove"
         }
-      ]
+      ],
+      "sortGroup": "Periyar"
     },
     {
       "name": "Elephant Song Trekking Trail — Parambikulam",
@@ -141,7 +146,8 @@
           "label": "Check reserve programme",
           "url": "https://www.parambikulam.org/PlanYourVisit/Programme?category=60488cc418f3076749346701&name=Elephant+Song+Trekking+Trail&type=604f1bfde172acb83bb06266"
         }
-      ]
+      ],
+      "sortGroup": "Parambikulam"
     },
     {
       "name": "Bear Path Trekking Trail — Parambikulam",
@@ -164,7 +170,8 @@
           "label": "Check reserve programme",
           "url": "https://www.parambikulam.org/planyourvisit/programme/bear-path-trekking-trail"
         }
-      ]
+      ],
+      "sortGroup": "Parambikulam"
     },
     {
       "name": "Wet ‘N’ Wild Trail — Shendurney",
@@ -187,7 +194,12 @@
           "label": "Trail and contact details",
           "url": "https://www.keralatourism.org/ecotourism/trekking-programs/thenmala-shenduruny/11"
         }
-      ]
+      ],
+      "sortGroup": "Shendurney"
     }
-  ]
+  ],
+  "ordering": {
+    "method": "grouped-alphabetical",
+    "explanation": "Treks are grouped alphabetically by forest area, then alphabetically by programme name; this is not a difficulty or quality ranking."
+  }
 }

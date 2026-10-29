@@ -28,7 +28,8 @@
           "label": "Access and enquiries",
           "url": "https://www.papercranelab.com/makerspace"
         }
-      ]
+      ],
+      "sortGroup": "Bengaluru"
     },
     {
       "name": "Makers Adda — Jayanagar",
@@ -53,7 +54,8 @@
           "label": "Access and enquiries",
           "url": "https://paramfoundation.org/makers-adda/"
         }
-      ]
+      ],
+      "sortGroup": "Bengaluru"
     },
     {
       "name": "FabLab Nagpur",
@@ -78,7 +80,8 @@
           "label": "Access and enquiries",
           "url": "https://www.fablabnagpur.com/membership"
         }
-      ]
+      ],
+      "sortGroup": "Nagpur"
     },
     {
       "name": "TinkerSpace",
@@ -104,7 +107,8 @@
           "url": "https://tinkerhub.org/tinkerspace"
         }
       ],
-      "addressSource": "https://physicalai.tinkerhub.org/edition-2"
+      "addressSource": "https://physicalai.tinkerhub.org/edition-2",
+      "sortGroup": "Kochi"
     },
     {
       "name": "CSquare Innovation Lab — IIT Palakkad",
@@ -129,7 +133,8 @@
           "label": "Access and enquiries",
           "url": "https://smail.iitpkd.ac.in/csquare-innovation-lab"
         }
-      ]
+      ],
+      "sortGroup": "Palakkad"
     },
     {
       "name": "Maker’s Asylum",
@@ -155,7 +160,8 @@
           "url": "https://www.makersasylum.com/laser-cutting-3d-printing-i2y/"
         }
       ],
-      "addressSource": "https://fablabs.io/labs/makersasylum"
+      "addressSource": "https://fablabs.io/labs/makersasylum",
+      "sortGroup": "Moira, Goa"
     },
     {
       "name": "JMoon MakerSpace",
@@ -181,7 +187,8 @@
           "url": "https://jmoonmaker.space/membership/"
         }
       ],
-      "addressSource": "https://jmoonmaker.space/contact/"
+      "addressSource": "https://jmoonmaker.space/contact/",
+      "sortGroup": "New Delhi"
     },
     {
       "name": "CollabTherapy",
@@ -207,7 +214,12 @@
           "url": "https://www.collabtherapy.in/memberships"
         }
       ],
-      "addressSource": "https://www.collabtherapy.in/"
+      "addressSource": "https://www.collabtherapy.in/",
+      "sortGroup": "New Delhi"
     }
-  ]
+  ],
+  "ordering": {
+    "method": "grouped-alphabetical",
+    "explanation": "Spaces are grouped alphabetically by city or town, then alphabetically by name within each location; this is not a quality ranking."
+  }
 }

@@ -216,5 +216,9 @@
         }
       ]
     }
-  ]
+  ],
+  "ordering": {
+    "method": "alphabetical",
+    "explanation": "Sampler packs are listed alphabetically by roaster name, not ranked by taste or review score."
+  }
 }
