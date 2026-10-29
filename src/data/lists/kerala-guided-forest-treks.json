@@ -1,0 +1,193 @@
+{
+  "slug": "kerala-guided-forest-treks",
+  "title": "Guided forest treks you can book in Kerala",
+  "description": "Compare guided forest walks, treks and booking contacts across Kerala, from Thattekkad to Periyar and Parambikulam.",
+  "intro": "Explore guided forest programmes run or listed by Kerala’s reserves and tourism authorities. Some reserve pages offer online booking; others provide contact details for enquiries. These are programme descriptions, not a promise that a particular date is available. Confirm current access, charges, age rules and weather-related closures directly before travelling.",
+  "checked": "2026-10-30",
+  "entries": [
+    {
+      "name": "Black Baza Trail — Thattekkad",
+      "details": "Guided bird walk · Ernakulam district",
+      "description": "A guided birdwatching walk into Thattekkad Bird Sanctuary. Kerala Tourism describes a three-hour trail with a guide; ask the sanctuary whether it is operating on your dates.",
+      "source": "https://www.keralatourism.org/ecotourism/trekking-programs/thattekkad-trails/18",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Duration",
+          "value": "About 3 hours, according to Kerala Tourism."
+        },
+        {
+          "label": "Booking",
+          "value": "Enquire with the sanctuary before travel; confirm the current price and start time."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Trail and contact details",
+          "url": "https://www.keralatourism.org/ecotourism/trekking-programs/thattekkad-trails/18"
+        }
+      ]
+    },
+    {
+      "name": "Thoovanam Falls Trek — Chinnar",
+      "details": "Guided waterfall trek · Idukki",
+      "description": "A guided trail from Alampetty check post through Chinnar Wildlife Sanctuary towards Thoovanam Falls. Confirm access and current conditions with the wildlife office.",
+      "source": "https://www.keralatourism.org/ecotourism/trekking-programs/thoovanam-marayoor-trek/34",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Distance and time",
+          "value": "Approximately 4 km and 3 hours as described by Kerala Tourism."
+        },
+        {
+          "label": "Booking",
+          "value": "Contact the wildlife office; online trek availability is not confirmed."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Trail and enquiry details",
+          "url": "https://www.keralatourism.org/ecotourism/trekking-programs/thoovanam-marayoor-trek/34"
+        }
+      ]
+    },
+    {
+      "name": "Nature Walk — Periyar",
+      "details": "Short guided forest walk · Thekkady, Idukki",
+      "description": "A short forest walk with a trained guide through Periyar Tiger Reserve, starting at the boat landing. Wildlife sightings are not guaranteed.",
+      "source": "https://www.periyartigerreserve.org/program/nature-walk",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Distance and time",
+          "value": "4–5 km; about 2½ hours."
+        },
+        {
+          "label": "Before booking",
+          "value": "Minimum group charge applies below four people; under-8s are not admitted. Park entry and bus charges are extra, according to the reserve."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Check reserve programme",
+          "url": "https://www.periyartigerreserve.org/program/nature-walk"
+        }
+      ]
+    },
+    {
+      "name": "Border Hiking: Thondiyar — Periyar",
+      "details": "Full-day guided hike · Thekkady, Idukki",
+      "description": "A longer guided forest hike from near Bamboo Grove. The reserve describes a demanding day with guides and a forest guard; check the route and conditions before booking.",
+      "source": "https://www.periyartigerreserve.org/program/border-hiking-thondiyar",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Duration",
+          "value": "A full-day programme."
+        },
+        {
+          "label": "Before booking",
+          "value": "The reserve lists a minimum two-person charge, an under-12 restriction and additional park entry charges."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Check reserve programme",
+          "url": "https://www.periyartigerreserve.org/program/border-hiking-thondiyar"
+        }
+      ]
+    },
+    {
+      "name": "Jungle Scout: Bamboo Grove — Periyar",
+      "details": "Guided night walk · Thekkady, Idukki",
+      "description": "A guided night patrol-style trek from the Bamboo Grove area. Check the reserve page for available sessions and current requirements.",
+      "source": "https://www.periyartigerreserve.org/program/jungle-scout-bamboo-grove",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Duration",
+          "value": "The reserve describes approximately 2½-hour sessions."
+        },
+        {
+          "label": "Before booking",
+          "value": "Minimum group charges and age limits apply; park entry and bus charges are extra."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Check reserve programme",
+          "url": "https://www.periyartigerreserve.org/program/jungle-scout-bamboo-grove"
+        }
+      ]
+    },
+    {
+      "name": "Elephant Song Trekking Trail — Parambikulam",
+      "details": "Beginner forest trail · Palakkad district",
+      "description": "A guided forest trek starting and ending at Anappady. The reserve describes two trained naturalists accompanying the group; the name does not promise animal sightings.",
+      "source": "https://www.parambikulam.org/PlanYourVisit/Programme?category=60488cc418f3076749346701&name=Elephant+Song+Trekking+Trail&type=604f1bfde172acb83bb06266",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Distance",
+          "value": "6 km; described by the reserve as a beginner trail."
+        },
+        {
+          "label": "Before booking",
+          "value": "The reserve lists a five-person minimum charge and separate check-post entry charges."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Check reserve programme",
+          "url": "https://www.parambikulam.org/PlanYourVisit/Programme?category=60488cc418f3076749346701&name=Elephant+Song+Trekking+Trail&type=604f1bfde172acb83bb06266"
+        }
+      ]
+    },
+    {
+      "name": "Bear Path Trekking Trail — Parambikulam",
+      "details": "Intermediate forest trail · Palakkad district",
+      "description": "An Anappady forest circuit accompanied by trained naturalists. The reserve describes it as an intermediate option; confirm availability and access before travelling.",
+      "source": "https://www.parambikulam.org/planyourvisit/programme/bear-path-trekking-trail",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Distance",
+          "value": "8 km; described by the reserve as an intermediate trail."
+        },
+        {
+          "label": "Before booking",
+          "value": "The reserve lists a five-person minimum charge and separate check-post entry charges."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Check reserve programme",
+          "url": "https://www.parambikulam.org/planyourvisit/programme/bear-path-trekking-trail"
+        }
+      ]
+    },
+    {
+      "name": "Wet ‘N’ Wild Trail — Shendurney",
+      "details": "Full-day guided forest trek · Kollam district",
+      "description": "Kerala Tourism describes a full-day Shendurney Wildlife Sanctuary trail accompanied by two guides and a forest guard. Ask the sanctuary about current operation and trail conditions.",
+      "source": "https://www.keralatourism.org/ecotourism/trekking-programs/thenmala-shenduruny/11",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Distance and time",
+          "value": "About 18 km and 8 hours, according to Kerala Tourism."
+        },
+        {
+          "label": "Booking",
+          "value": "The tourism page lists 8547602930 and 8547602931 for enquiries; confirm current details."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Trail and contact details",
+          "url": "https://www.keralatourism.org/ecotourism/trekking-programs/thenmala-shenduruny/11"
+        }
+      ]
+    }
+  ]
+}
