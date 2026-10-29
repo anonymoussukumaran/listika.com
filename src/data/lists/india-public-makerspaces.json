@@ -1,0 +1,213 @@
+{
+  "slug": "india-public-makerspaces",
+  "title": "Makerspaces in India open to the public",
+  "description": "Find public-access makerspaces and fabrication labs in India, with tools, access options and location links.",
+  "intro": "Places where individuals can enquire about using shared tools, learn fabrication or join a making workshop. Public access can mean a paid pass, equipment booking or a course rather than unrestricted walk-in use. Confirm location, training, current fees and machine availability with each space. Map links are searches.",
+  "checked": "2026-10-30",
+  "entries": [
+    {
+      "name": "Paper Crane Lab",
+      "details": "Pass-based makerspace · Bengaluru",
+      "description": "An appointment-only makerspace with tools for digital fabrication, electronics and hands-on making. The operator asks visitors to arrange a visit before buying a pass.",
+      "address": "835, 10th Main Road, Water Tank Road, Indiranagar, Bengaluru 560038",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Paper%20Crane%20Lab%20835%2C%2010th%20Main%20Road%2C%20Water%20Tank%20Road%2C%20Indiranagar%2C%20Bengaluru%20560038",
+      "source": "https://www.papercranelab.com/makerspace",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Equipment",
+          "value": "3D printers, laser cutter, vinyl cutter, electronics and woodworking tools."
+        },
+        {
+          "label": "Access",
+          "value": "Hourly and multi-hour passes; 3D printing, laser use and materials have additional charges."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Access and enquiries",
+          "url": "https://www.papercranelab.com/makerspace"
+        }
+      ]
+    },
+    {
+      "name": "Makers Adda — Jayanagar",
+      "details": "Community makerspace · Bengaluru",
+      "description": "Param Foundation lists a public makerspace with fabrication and electronics facilities. Ask which equipment is available at this location and whether a tool induction is required.",
+      "address": "32nd Cross Road, 7th Block, Jayanagar, Bengaluru 560082",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Makers%20Adda%20%E2%80%94%20Jayanagar%2032nd%20Cross%20Road%2C%207th%20Block%2C%20Jayanagar%2C%20Bengaluru%20560082",
+      "source": "https://paramfoundation.org/makers-adda/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Equipment",
+          "value": "3D printers, laser cutter, mini CNC and electronics benches are listed for Makers Adda."
+        },
+        {
+          "label": "Access",
+          "value": "Daily and monthly passes are listed; materials are extra."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Access and enquiries",
+          "url": "https://paramfoundation.org/makers-adda/"
+        }
+      ]
+    },
+    {
+      "name": "FabLab Nagpur",
+      "details": "Membership makerspace · Nagpur",
+      "description": "A community fabrication space offering daily and monthly access to work on projects. Ask which machines are available under the plan you choose.",
+      "address": "36, Atrey Layout, Pratap Nagar, Nagpur 440022",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=FabLab%20Nagpur%2036%2C%20Atrey%20Layout%2C%20Pratap%20Nagar%2C%20Nagpur%20440022",
+      "source": "https://www.fablabnagpur.com/membership",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Equipment",
+          "value": "Power tools and electronics workstations; 3D printing and laser cutting are listed with additional charges on the monthly plan."
+        },
+        {
+          "label": "Access",
+          "value": "Daily and monthly options; confirm training and machine charges."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Access and enquiries",
+          "url": "https://www.fablabnagpur.com/membership"
+        }
+      ]
+    },
+    {
+      "name": "TinkerSpace",
+      "details": "Community technology space · Kochi",
+      "description": "TinkerHub describes TinkerSpace as open to people who want to learn and make. Its facilities include a maker station and 3D printing; ask about individual machine access before visiting.",
+      "address": "Kalamassery, Kochi, Kerala",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TinkerSpace%20Kalamassery%2C%20Kochi%2C%20Kerala",
+      "source": "https://tinkerhub.org/tinkerspace",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Equipment",
+          "value": "Maker station and 3D printing; the operator also describes electronics and laser facilities."
+        },
+        {
+          "label": "Access",
+          "value": "The space says people can walk in; check current machine access, training and any material charges."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Access and enquiries",
+          "url": "https://tinkerhub.org/tinkerspace"
+        }
+      ],
+      "addressSource": "https://physicalai.tinkerhub.org/edition-2"
+    },
+    {
+      "name": "CSquare Innovation Lab — IIT Palakkad",
+      "details": "University fabrication lab · Palakkad",
+      "description": "IIT Palakkad says its prototyping lab is open to the general public as well as its own community. Enquire about equipment booking and campus access before arriving.",
+      "address": "Nila Campus, IIT Palakkad, Kanjikode, Palakkad, Kerala 678623",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CSquare%20Innovation%20Lab%20%E2%80%94%20IIT%20Palakkad%20Nila%20Campus%2C%20IIT%20Palakkad%2C%20Kanjikode%2C%20Palakkad%2C%20Kerala%20678623",
+      "source": "https://smail.iitpkd.ac.in/csquare-innovation-lab",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Equipment",
+          "value": "CNC machines, laser cutters, 3D printers and hand tools."
+        },
+        {
+          "label": "Access",
+          "value": "Public users can enquire about booking; confirm access conditions and charges."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Access and enquiries",
+          "url": "https://smail.iitpkd.ac.in/csquare-innovation-lab"
+        }
+      ]
+    },
+    {
+      "name": "Maker’s Asylum",
+      "details": "Workshop-led makerspace · Moira, Goa",
+      "description": "A community making space with a hands-on laser-cutting and 3D-printing workshop. The advertised workshop includes one month of space access; confirm dates and conditions before booking.",
+      "address": "House 661, Mapusa–Moira Road, Moira, Goa 403507",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Maker%E2%80%99s%20Asylum%20House%20661%2C%20Mapusa%E2%80%93Moira%20Road%2C%20Moira%2C%20Goa%20403507",
+      "source": "https://www.makersasylum.com/laser-cutting-3d-printing-i2y/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Equipment",
+          "value": "The workshop uses a laser cutter and 3D printer."
+        },
+        {
+          "label": "Access",
+          "value": "Workshop-linked access; general drop-in access is not confirmed."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Access and enquiries",
+          "url": "https://www.makersasylum.com/laser-cutting-3d-printing-i2y/"
+        }
+      ],
+      "addressSource": "https://fablabs.io/labs/makersasylum"
+    },
+    {
+      "name": "JMoon MakerSpace",
+      "details": "Membership makerspace · New Delhi",
+      "description": "A robotics and electronics makerspace whose website describes day and longer memberships. Its information may be older; call before a first visit and confirm it is operating.",
+      "address": "A-51, 3rd Floor, Narang Colony, Janakpuri, New Delhi 110058",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=JMoon%20MakerSpace%20A-51%2C%203rd%20Floor%2C%20Narang%20Colony%2C%20Janakpuri%2C%20New%20Delhi%20110058",
+      "source": "https://jmoonmaker.space/membership/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Equipment",
+          "value": "The operator describes robotics, electronics and 3D printing."
+        },
+        {
+          "label": "Access",
+          "value": "Day and weekend access are listed; confirm current availability and fees."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Access and enquiries",
+          "url": "https://jmoonmaker.space/membership/"
+        }
+      ],
+      "addressSource": "https://jmoonmaker.space/contact/"
+    },
+    {
+      "name": "CollabTherapy",
+      "details": "Design and prototyping space · New Delhi",
+      "description": "A co-design space listing access to a prototyping lab and fabrication resources. Confirm that the published address and passes are current before visiting.",
+      "address": "420, Ave One, Westend Greens, Rangpuri, New Delhi 110037",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=CollabTherapy%20420%2C%20Ave%20One%2C%20Westend%20Greens%2C%20Rangpuri%2C%20New%20Delhi%20110037",
+      "source": "https://www.collabtherapy.in/memberships",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Equipment",
+          "value": "The operator lists 3D printing, laser cutting and CNC, charged separately."
+        },
+        {
+          "label": "Access",
+          "value": "Day, week and month passes are listed; verify current plans."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Access and enquiries",
+          "url": "https://www.collabtherapy.in/memberships"
+        }
+      ],
+      "addressSource": "https://www.collabtherapy.in/"
+    }
+  ]
+}
