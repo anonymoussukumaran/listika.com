@@ -29,15 +29,16 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
         <nav aria-label="Main navigation"><a href="/#lists">Explore lists</a><a href="/about/">About</a></nav>
       </div>
     </header>
-    <section id="privacy-choice" class="privacy-choice" aria-labelledby="privacy-choice-title" hidden>
-      <div class="wrap privacy-choice-inner">
+    <dialog id="privacy-choice" class="privacy-choice" aria-labelledby="privacy-choice-title" aria-describedby="privacy-choice-description">
+      <div class="privacy-choice-inner">
         <div><p class="eyebrow">YOUR PRIVACY</p><h2 id="privacy-choice-title" tabindex="-1">Help us understand visits?</h2>
-          <p>With your permission, Google Analytics uses cookies to measure how people use Listika. You can choose without affecting access to the site and change your choice any time. <a href="/privacy/">Read our privacy policy</a>.</p>
+          <p id="privacy-choice-description">With your permission, Google Analytics uses cookies to measure how people use Listika. You can choose without affecting access to the site and change your choice any time. <a href="/privacy/">Read our privacy policy</a>.</p>
           <p id="privacy-choice-message" role="status" aria-live="polite" hidden></p>
         </div>
         <div class="privacy-choice-actions"><button type="button" id="privacy-accept">Allow analytics</button><button type="button" id="privacy-reject">Reject analytics</button></div>
       </div>
-    </section>
+    </dialog>
+    <p id="privacy-storage-warning" class="privacy-storage-warning" role="status" hidden>Your choice could not be saved. Analytics is off on this page; you may be asked again on another page.</p>
     <main id="main"><slot /></main>
     <footer class="site-footer"><div class="wrap footer-inner"><div><a class="footer-brand" href="/">listika.</a><p>Curated lists. Sources included.</p></div><nav aria-label="Footer navigation"><a href="/about/">About</a><a href="/editorial/">How we work</a><a href="/privacy/">Privacy</a><button type="button" id="privacy-settings" hidden>Privacy settings</button></nav></div></footer>
   </body>

@@ -5,10 +5,12 @@ import { runInNewContext } from 'node:vm';
 
 const source = readFileSync(new URL('../public/consent.js', import.meta.url), 'utf8');
 const key = 'listika-analytics-choice-v1';
-function page({ stored, gpc = false, blocked = false, writeBlocked = false, removeBlocked = false, sessionData } = {}) {
+function page({ stored, gpc = false, blocked = false, writeBlocked = false, removeBlocked = false, sessionData, pathname = '/' } = {}) {
   const values = new Map(stored ? [[key, stored]] : []);
-  const elements = Object.fromEntries(['privacy-choice', 'privacy-choice-title', 'privacy-choice-message', 'privacy-accept', 'privacy-reject', 'privacy-settings'].map((id) => [id, {
-    hidden: true, disabled: false, textContent: '', events: {},
+  const elements = Object.fromEntries(['privacy-choice', 'privacy-choice-title', 'privacy-choice-message', 'privacy-accept', 'privacy-reject', 'privacy-settings', 'privacy-storage-warning'].map((id) => [id, {
+    hidden: true, open: false, disabled: false, textContent: '', events: {},
+    showModal() { this.open = true; },
+    close() { this.open = false; },
     addEventListener(name, fn) { this.events[name] = fn; },
     focus() { this.focused = true; },
   }]));
@@ -28,7 +30,7 @@ function page({ stored, gpc = false, blocked = false, writeBlocked = false, remo
   const sessionValues = sessionData || new Map();
   const sessionStorage = { getItem(k) { return sessionValues.get(k) || null; }, setItem(k,v) { sessionValues.set(k,v); }, removeItem(k) { sessionValues.delete(k); } };
   const window = { addEventListener(name, fn) { listeners[name] = fn; } };
-  const location = { hostname: 'listika.com', reload() { this.reloaded = true; } };
+  const location = { hostname: 'listika.com', pathname, reload() { this.reloaded = true; } };
   const navigator = { globalPrivacyControl: gpc };
   runInNewContext(source, { window, document, localStorage, sessionStorage, navigator, location, Date, JSON, Number });
   return { elements, scripts, deletions, listeners, values, sessionValues, window, location, navigator };
@@ -42,7 +44,7 @@ const valid = (analytics) => {
 test('fresh visit never loads Google and displays a choice', () => {
   const p = page();
   assert.equal(p.scripts.length, 0);
-  assert.equal(p.elements['privacy-choice'].hidden, false);
+  assert.equal(p.elements['privacy-choice'].open, true);
   assert.equal(p.window['ga-disable-G-YEXHBBHKEC'], true);
 });
 
@@ -59,7 +61,7 @@ test('acceptance loads analytics only after choice, with advertising denied', ()
   assert.equal(commands[0][2].ad_personalization, 'denied');
   assert.equal(commands[2][2].allow_google_signals, false);
   assert.equal(commands[2][2].allow_ad_personalization_signals, false);
-  assert.equal(p.elements['privacy-choice'].hidden, true);
+  assert.equal(p.elements['privacy-choice'].open, false);
 });
 
 test('withdrawal stops analytics, clears first-party cookies and saves rejection', () => {
@@ -75,7 +77,7 @@ test('withdrawal stops analytics, clears first-party cookies and saves rejection
   assert.ok(!p.deletions.some((cookie) => cookie.startsWith('unrelated=')));
   const later = page({ stored: p.values.get(key) });
   assert.equal(later.scripts.length, 0);
-  assert.equal(later.elements['privacy-choice'].hidden, true);
+  assert.equal(later.elements['privacy-choice'].open, false);
 });
 
 test('GPC prevents loading even with saved consent and disables opt-in', () => {
@@ -90,7 +92,7 @@ test('GPC prevents loading even with saved consent and disables opt-in', () => {
 test('unavailable, expired or invalid storage fails closed', () => {
   for (const p of [page({ blocked: true }), page({ stored: '{bad json' }), page({ stored: JSON.stringify({ version: 1, analytics: 'accepted', savedAt: 1, expiresAt: 2 }) })]) {
     assert.equal(p.scripts.length, 0);
-    assert.equal(p.elements['privacy-choice'].hidden, false);
+    assert.equal(p.elements['privacy-choice'].open, true);
   }
   const blocked = page({ blocked: true });
   click(blocked, 'privacy-accept');
@@ -113,8 +115,42 @@ test('failed rejection cannot reactivate stale consent in the same tab', () => {
   click(p, 'privacy-reject');
   assert.equal(p.window['ga-disable-G-YEXHBBHKEC'], true);
   assert.equal(p.location.reloaded, undefined);
-  assert.match(p.elements['privacy-choice-message'].textContent, /could not be saved/);
+  assert.equal(p.elements['privacy-storage-warning'].hidden, false);
+  assert.equal(p.elements['privacy-choice'].open, false);
   const after = page({ stored: p.values.get(key), sessionData: p.sessionValues });
   assert.equal(after.scripts.length, 0);
-  assert.equal(after.elements['privacy-choice'].hidden, false);
+  assert.equal(after.elements['privacy-choice'].open, true);
+});
+
+
+test('dialog blocks implicit dismissal while allowing an explicit rejection', () => {
+  const p = page();
+  let prevented = false;
+  p.elements['privacy-choice'].events.cancel({ preventDefault() { prevented = true; } });
+  assert.equal(prevented, true);
+  assert.equal(p.elements['privacy-choice'].open, true);
+  click(p, 'privacy-reject');
+  assert.equal(p.elements['privacy-choice'].open, false);
+  assert.equal(p.scripts.length, 0);
+  click(p, 'privacy-settings');
+  assert.equal(p.elements['privacy-choice'].open, true);
+  assert.equal(p.elements['privacy-choice-title'].focused, true);
+});
+
+test('privacy notice remains accessible without a choice or analytics', () => {
+  const p = page({ pathname: '/privacy/' });
+  assert.equal(p.elements['privacy-choice'].open, false);
+  assert.equal(p.scripts.length, 0);
+  click(p, 'privacy-settings');
+  assert.equal(p.elements['privacy-choice'].open, true);
+});
+
+test('when storage is blocked, rejection still lets the reader continue', () => {
+  const p = page({ blocked: true });
+  assert.equal(p.elements['privacy-choice'].open, true);
+  click(p, 'privacy-reject');
+  assert.equal(p.elements['privacy-choice'].open, false);
+  assert.equal(p.elements['privacy-storage-warning'].hidden, false);
+  assert.equal(p.scripts.length, 0);
+  assert.equal(p.window['ga-disable-G-YEXHBBHKEC'], true);
 });

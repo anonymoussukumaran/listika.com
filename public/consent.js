@@ -12,7 +12,8 @@
   const accept = document.getElementById('privacy-accept');
   const reject = document.getElementById('privacy-reject');
   const settings = document.getElementById('privacy-settings');
-  if (!panel || !title || !message || !accept || !reject || !settings) return;
+  const warning = document.getElementById('privacy-storage-warning');
+  if (!panel || !title || !message || !accept || !reject || !settings || !warning || typeof panel.showModal !== 'function') return;
 
   let analyticsStarted = false;
   window[disableKey] = true;
@@ -87,7 +88,7 @@
     document.head.appendChild(script);
   }
 
-  function showPanel(focus = false) {
+  function showPanel() {
     const gpc = gpcEnabled();
     accept.disabled = gpc;
     if (gpc) {
@@ -97,14 +98,18 @@
       message.textContent = '';
       message.hidden = true;
     }
-    panel.hidden = false;
-    if (focus) title.focus();
+    if (!panel.open) panel.showModal();
+    title.focus();
+  }
+
+  function hidePanel() {
+    if (panel.open) panel.close();
   }
 
   function showError() {
     message.textContent = 'Your choice could not be saved in this browser. Analytics remains off.';
     message.hidden = false;
-    panel.hidden = false;
+    if (!panel.open) panel.showModal();
   }
 
   function choose(value) {
@@ -113,34 +118,38 @@
     if (value === 'rejected') stopAnalytics();
     if (!saveChoice(value)) {
       stopAnalytics();
-      showError();
+      if (value === 'rejected') {
+        hidePanel();
+        warning.hidden = false;
+      } else showError();
       return;
     }
-    panel.hidden = true;
+    warning.hidden = true;
+    hidePanel();
     if (value === 'accepted') startAnalytics();
     else if (analyticsStarted) {
       // Disable synchronously before reload so an already-loaded tag cannot keep measuring.
       location.reload();
       return;
     }
-    settings.focus();
   }
 
   settings.hidden = false;
-  settings.addEventListener('click', () => showPanel(true));
+  settings.addEventListener('click', showPanel);
+  panel.addEventListener('cancel', (event) => event.preventDefault());
   accept.addEventListener('click', () => choose('accepted'));
   reject.addEventListener('click', () => choose('rejected'));
   window.addEventListener('storage', (event) => {
     if (event.key !== storageKey && event.key !== null) return;
     const choice = readChoice();
     if (choice === 'accepted' && !gpcEnabled()) {
-      panel.hidden = true;
+      hidePanel();
       startAnalytics();
     } else {
       stopAnalytics();
       if (analyticsStarted) location.reload();
-      else if (!choice || (choice === 'accepted' && gpcEnabled())) showPanel();
-      else panel.hidden = true;
+      else if (location.pathname !== '/privacy/' && (!choice || (choice === 'accepted' && gpcEnabled()))) showPanel();
+      else hidePanel();
     }
   });
 
@@ -148,6 +157,8 @@
   if (choice === 'accepted' && !gpcEnabled()) startAnalytics();
   else {
     stopAnalytics();
-    if (!choice || (choice === 'accepted' && gpcEnabled())) showPanel();
+    // The notice is readable before making a decision. The settings button
+    // still opens the dialog there, and all optional measurement stays off.
+    if (location.pathname !== '/privacy/' && (!choice || (choice === 'accepted' && gpcEnabled()))) showPanel();
   }
 })();
