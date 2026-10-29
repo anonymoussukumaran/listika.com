@@ -1,3 +1,11 @@
+export interface EntryFact {
+  label: string;
+  value: string;
+}
+export interface EntryAction {
+  label: string;
+  url: string;
+}
 export interface Entry {
   name: string;
   description: string;
@@ -7,6 +15,8 @@ export interface Entry {
   address?: string;
   addressSource?: string;
   mapUrl?: string;
+  facts?: EntryFact[];
+  actions?: EntryAction[];
   date?: string;
   timezone?: string;
   venue?: string;
@@ -63,6 +73,8 @@ function validate(value: unknown, file: string): List {
     if (entry.address !== undefined && !isNonEmpty(entry.address)) throw new Error(`${file}: invalid entry address ${i + 1}`);
     if (entry.addressSource !== undefined && !isUrl(entry.addressSource)) throw new Error(`${file}: invalid entry address source ${i + 1}`);
     if (entry.mapUrl !== undefined && !isUrl(entry.mapUrl)) throw new Error(`${file}: invalid entry map URL ${i + 1}`);
+    if (entry.facts !== undefined && (!Array.isArray(entry.facts) || !entry.facts.every((fact) => fact && typeof fact === 'object' && isNonEmpty(fact.label) && isNonEmpty(fact.value)))) throw new Error(`${file}: invalid entry facts ${i + 1}`);
+    if (entry.actions !== undefined && (!Array.isArray(entry.actions) || !entry.actions.every((action) => action && typeof action === 'object' && isNonEmpty(action.label) && isUrl(action.url)))) throw new Error(`${file}: invalid entry actions ${i + 1}`);
     if (entry.distances !== undefined && (!Array.isArray(entry.distances) || !entry.distances.length || !entry.distances.every(isNonEmpty))) throw new Error(`${file}: invalid entry distances ${i + 1}`);
     if (entry.registrationUrl !== undefined && !isUrl(entry.registrationUrl)) throw new Error(`${file}: invalid registration URL ${i + 1}`);
     if (entry.registrationStatus !== undefined && !['open', 'closed', 'sold-out', 'unknown'].includes(entry.registrationStatus)) throw new Error(`${file}: invalid registration status ${i + 1}`);

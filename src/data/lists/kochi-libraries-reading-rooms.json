@@ -1,0 +1,173 @@
+{
+  "slug": "kochi-libraries-reading-rooms",
+  "title": "Libraries and reading rooms in Kochi",
+  "description": "Find public reading rooms, lending libraries and quiet study spaces in Kochi, with access notes and map links.",
+  "intro": "Looking for a place to read, borrow books or study? These Kochi-area libraries and study spaces do different jobs: a lending library is not necessarily a place to spend the day, and a paid study room may not lend books. Access, membership fees and hours can change, so check with the venue before visiting. Map links are searches, not verified pins.",
+  "checked": "2026-10-30",
+  "collections": [
+    "kochi"
+  ],
+  "entries": [
+    {
+      "name": "Chavara Public Library",
+      "details": "Public reading room and lending · Ernakulam South",
+      "description": "The library lists a reading and reference area, plus general and children’s memberships. An older cultural-centre page describes a public newspaper reading room; confirm present access and fees.",
+      "address": "Chavara Cultural Centre, near South Railway Station, Kochi 682011",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chavara%20Public%20Library%20Chavara%20Cultural%20Centre%2C%20near%20South%20Railway%20Station%2C%20Kochi%20682011",
+      "source": "https://chavarapubliclibrarykochi.com/index.html",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Reading",
+          "value": "Reading and reference rooms listed; check present walk-in access."
+        },
+        {
+          "label": "Borrowing",
+          "value": "General and children’s memberships; ask about current fees."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Reading room information",
+          "url": "https://www.chavaraculturalcentre.org/chavara_public_library.html"
+        }
+      ]
+    },
+    {
+      "name": "Eloor Lending Library",
+      "details": "Lending library · Press Club Road",
+      "description": "A long-established lending library with a Kochi branch. The operator lists its branch on Press Club Road; ask about the current membership and whether there is space to read on site.",
+      "address": "First Floor, Press Club Road, Ernakulam, Kochi 682011",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Eloor%20Lending%20Library%20First%20Floor%2C%20Press%20Club%20Road%2C%20Ernakulam%2C%20Kochi%20682011",
+      "source": "https://www.eloorlibraries.in/contact.html",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Borrowing",
+          "value": "The library describes membership and a non-member borrowing option; confirm current terms."
+        },
+        {
+          "label": "Reading on site",
+          "value": "Not confirmed; contact the library."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Membership information",
+          "url": "https://www.eloorlibraries.in/membership.html"
+        }
+      ]
+    },
+    {
+      "name": "EMS Co-operative Library",
+      "details": "Lending and reference · Kakkanad",
+      "description": "A community library in Mavelipuram with general reading and reference collections. Local reporting describes family, student and institutional memberships.",
+      "address": "MRA Hall Road, Mavelipuram, Kakkanad, Kochi 682030",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=EMS%20Co-operative%20Library%20MRA%20Hall%20Road%2C%20Mavelipuram%2C%20Kakkanad%2C%20Kochi%20682030",
+      "source": "https://www.newindianexpress.com/states/kerala/2025/Jul/23/how-ems-library-is-paving-way-for-a-reading-renaissance-in-kochi",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Borrowing",
+          "value": "Membership options include family and student plans; check current terms."
+        },
+        {
+          "label": "Reading on site",
+          "value": "Ask the library about access for non-members."
+        }
+      ],
+      "addressSource": "https://yellowpages.webindia123.com/d-t/Kerala/Kochi/EMS-Co-Operative-Library/41315/"
+    },
+    {
+      "name": "Ernakulam Public Library",
+      "details": "Public reading and lending · Convent Road",
+      "description": "The library describes a general newspaper reading room for non-members, a separate members’ reading room, and reference and children’s sections.",
+      "address": "Library Buildings, Convent Road, Ernakulam, Kochi 682035",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ernakulam%20Public%20Library%20Library%20Buildings%2C%20Convent%20Road%2C%20Ernakulam%2C%20Kochi%20682035",
+      "source": "https://www.ernakulampubliclibrary.com/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Reading",
+          "value": "The library says non-members can read newspapers in the general room; confirm current access."
+        },
+        {
+          "label": "Borrowing",
+          "value": "Membership is needed to borrow; confirm current fees."
+        }
+      ],
+      "addressSource": "https://www.ernakulampubliclibrary.com/location_map.php",
+      "actions": [
+        {
+          "label": "Membership terms",
+          "url": "https://ernakulampubliclibrary.com/Terms%20%26%20Conditions.html"
+        }
+      ]
+    },
+    {
+      "name": "Granthapura — Panampilly Nagar",
+      "details": "Lending library and bookshop · Panampilly Nagar",
+      "description": "Granthapura offers book-lending plans with exchanges and lists branches in Panampilly Nagar, Kakkanad and Tripunithura. This entry points to its Panampilly branch.",
+      "address": "G286, First Floor, Main Avenue, Panampilly Nagar, Kochi 682036",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Granthapura%20%E2%80%94%20Panampilly%20Nagar%20G286%2C%20First%20Floor%2C%20Main%20Avenue%2C%20Panampilly%20Nagar%2C%20Kochi%20682036",
+      "source": "https://granthapura.mojo.page/two-book-plan",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Borrowing",
+          "value": "Membership plans; check current pricing and branch availability."
+        },
+        {
+          "label": "Reading on site",
+          "value": "A reading room is not confirmed; ask the branch."
+        }
+      ],
+      "addressSource": "https://yellowpages.webindia123.com/d-t/Kerala/Kochi/Granthapura-Panampilly-Nagar/41499/"
+    },
+    {
+      "name": "My Library",
+      "details": "Lending and reading hall · Kaloor",
+      "description": "This Kaloor library lists a reading hall, book memberships and delivery in selected parts of Kochi. Contact it to check whether non-members can use the hall.",
+      "address": "Edward Square, near IMA House, Kaloor, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=My%20Library%20Edward%20Square%2C%20near%20IMA%20House%2C%20Kaloor%2C%20Kochi",
+      "source": "https://mylibraries.in/policies",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Reading",
+          "value": "Reading hall listed; non-member access not confirmed."
+        },
+        {
+          "label": "Borrowing",
+          "value": "Membership required; home delivery available in selected areas."
+        }
+      ],
+      "addressSource": "https://mylibraries.in/contact",
+      "actions": [
+        {
+          "label": "Membership plans",
+          "url": "https://mylibraries.in/membership-plans"
+        }
+      ]
+    },
+    {
+      "name": "Sitlearn Reading Room — Edappally",
+      "details": "Paid study space · Edappally",
+      "description": "A quiet study room near Changampuzha Park Metro station, intended for people bringing their own work or books. The operator asks visitors to contact it for a tour or seat.",
+      "address": "Parampara, KRRA 15B, Pallipat Lane, Kannanthodathu Road, Edappally, Kochi 682033",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sitlearn%20Reading%20Room%20%E2%80%94%20Edappally%20Parampara%2C%20KRRA%2015B%2C%20Pallipat%20Lane%2C%20Kannanthodathu%20Road%2C%20Edappally%2C%20Kochi%20682033",
+      "source": "https://sitlearn.com/locations/ernakulam/reading-room-edappally-kochi/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Reading",
+          "value": "Subscription-based study space; the operator lists 24-hour access and allows laptops."
+        },
+        {
+          "label": "Borrowing",
+          "value": "A lending collection is not confirmed."
+        }
+      ]
+    }
+  ]
+}
