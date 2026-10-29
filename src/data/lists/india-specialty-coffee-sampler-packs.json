@@ -1,0 +1,220 @@
+{
+  "slug": "india-specialty-coffee-sampler-packs",
+  "title": "Indian specialty coffee roasters with sampler packs",
+  "description": "Compare small coffee tasting packs from Indian roasters by bag size, selection and grind options.",
+  "intro": "Sampler packs let you compare coffees before committing to a larger bag. This list focuses on packs with multiple coffees or roast styles, sold by the roasters themselves. Pack contents, price, delivery and stock can change by variant; check the product page before ordering. These descriptions are based on published product information, not a blind tasting or ranking.",
+  "checked": "2026-10-30",
+  "related": [
+    "indian-specialty-coffee-brands"
+  ],
+  "entries": [
+    {
+      "name": "93 Degrees — 50 g Coffee Beans Sample Pack",
+      "description": "A small-format sampler for comparing several coffees and origins. Choose a pack size on the roaster’s product page.",
+      "source": "https://93degreescoffeeroasters.com/products/50g-coffee-beans-customized-sampler-pack",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Pack",
+          "value": "5, 6 or 7 packs of 50 g."
+        },
+        {
+          "label": "Coffee selection",
+          "value": "Selections and current options are shown on the product page."
+        },
+        {
+          "label": "Format",
+          "value": "Whole beans or a choice of brewing grinds."
+        }
+      ],
+      "actions": [
+        {
+          "label": "View sampler",
+          "url": "https://93degreescoffeeroasters.com/products/50g-coffee-beans-customized-sampler-pack"
+        }
+      ]
+    },
+    {
+      "name": "ARAKU — Taste the Terroir",
+      "description": "Four ARAKU coffees in one box, for exploring the brand’s range from the Araku Valley.",
+      "source": "https://www.arakucoffee.in/products/coffee-sampler-pack-taste-the-terroir",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Pack",
+          "value": "4 packs of 100 g; 400 g total."
+        },
+        {
+          "label": "Coffee selection",
+          "value": "Selection, Signature, Grand Reserve and Micro Climate, as listed by the roaster."
+        },
+        {
+          "label": "Format",
+          "value": "Whole beans or a selection of grinds; verify variants on the page."
+        }
+      ],
+      "actions": [
+        {
+          "label": "View sampler",
+          "url": "https://www.arakucoffee.in/products/coffee-sampler-pack-taste-the-terroir"
+        }
+      ]
+    },
+    {
+      "name": "Blue Tokai — Customised Sampler Pack",
+      "description": "Pick three coffees from the available sampler selection to compare smaller bags.",
+      "source": "https://bluetokaicoffee.com/products/customised-sampler-pack",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Pack",
+          "value": "3 packs of 75 g; 225 g total."
+        },
+        {
+          "label": "Coffee selection",
+          "value": "Choose the three coffees; limited releases may be excluded."
+        },
+        {
+          "label": "Format",
+          "value": "Whole beans or ground for a brewing method."
+        }
+      ],
+      "actions": [
+        {
+          "label": "View sampler",
+          "url": "https://bluetokaicoffee.com/products/customised-sampler-pack"
+        }
+      ]
+    },
+    {
+      "name": "El Bueno — Microlots Sampler",
+      "description": "A three-coffee box focused on microlots. The product page offers individual bag choices; confirm that your selections are available.",
+      "source": "https://elbuenocoffee.com/products/sampler-pack-microlots",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Pack",
+          "value": "3 packs of 75 g; 225 g total."
+        },
+        {
+          "label": "Coffee selection",
+          "value": "Select the three bags from the listed options."
+        },
+        {
+          "label": "Format",
+          "value": "Grind selection offered; check current choices."
+        }
+      ],
+      "actions": [
+        {
+          "label": "View sampler",
+          "url": "https://elbuenocoffee.com/products/sampler-pack-microlots"
+        }
+      ]
+    },
+    {
+      "name": "Fraction 9 — Sampler Box",
+      "description": "A larger six-coffee box with a mix of roasts and processes. The roaster says the mix is normally chosen for you unless you request specific variants by email shortly after ordering.",
+      "source": "https://www.fraction9coffee.com/products/sample-coffee-box",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Pack",
+          "value": "6 packs of 75 g; 450 g total."
+        },
+        {
+          "label": "Coffee selection",
+          "value": "A mixed selection; up to two microlots if available."
+        },
+        {
+          "label": "Format",
+          "value": "Whole beans or several brewing-method grinds."
+        }
+      ],
+      "actions": [
+        {
+          "label": "View sampler",
+          "url": "https://www.fraction9coffee.com/products/sample-coffee-box"
+        }
+      ]
+    },
+    {
+      "name": "Half Light — Specialty Coffee Sampler",
+      "description": "Three smaller bags for exploring the roaster’s coffee range. Check the available selections and grind choices on the product page.",
+      "source": "https://halflightcoffee.com/products/specialty-coffee-sampler-pack",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Pack",
+          "value": "3 packs of 100 g; 300 g total."
+        },
+        {
+          "label": "Coffee selection",
+          "value": "Select available coffees on the product page."
+        },
+        {
+          "label": "Format",
+          "value": "Check available whole-bean and grind options."
+        }
+      ],
+      "actions": [
+        {
+          "label": "View sampler",
+          "url": "https://halflightcoffee.com/products/specialty-coffee-sampler-pack"
+        }
+      ]
+    },
+    {
+      "name": "Kāpikottai — Samplers",
+      "description": "A customisable three-coffee sampler; the roaster lets buyers choose from its coffee selection.",
+      "source": "https://kapikottai.coffee/products/kapikottai-samplers",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Pack",
+          "value": "3 packs of 75 g; 225 g total."
+        },
+        {
+          "label": "Coffee selection",
+          "value": "Choose three coffees from the available range."
+        },
+        {
+          "label": "Format",
+          "value": "Grind-size selector on the product page."
+        }
+      ],
+      "actions": [
+        {
+          "label": "View sampler",
+          "url": "https://kapikottai.coffee/products/kapikottai-samplers"
+        }
+      ]
+    },
+    {
+      "name": "MokkaFarms — Specialty Bean Sampler",
+      "description": "A whole-bean comparison of Robusta Kaapi Royale and Monsooned Malabar in different roast levels.",
+      "source": "https://www.mokkafarms.com/products/specialtybeansampler",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Pack",
+          "value": "4 packs of 75 g; 300 g total."
+        },
+        {
+          "label": "Coffee selection",
+          "value": "Two roast levels each of the two listed coffees."
+        },
+        {
+          "label": "Format",
+          "value": "Roasted whole beans; a ground option for this pack is not confirmed."
+        }
+      ],
+      "actions": [
+        {
+          "label": "View sampler",
+          "url": "https://www.mokkafarms.com/products/specialtybeansampler"
+        }
+      ]
+    }
+  ]
+}
