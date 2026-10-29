@@ -4,5 +4,5 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://listika.com',
   output: 'static',
-  integrations: [sitemap({ filter: (page) => new URL(page).pathname.replace(/\/$/, '') !== '/lists/kochi-running-events' })],
+  integrations: [sitemap({ filter: (page) => !['/lists/kochi-running-events', '/collections/kochi'].includes(new URL(page).pathname.replace(/\/$/, '')) })],
 });
