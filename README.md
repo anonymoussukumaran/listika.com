@@ -14,7 +14,7 @@ The optional `collections` metadata can describe related lists, but it does not 
 
 The Kochi marathon calendar uses optional entry fields `venue`, `distances`, `registrationUrl`, `registrationStatus` (`open`, `closed`, `sold-out`, or `unknown`) and `eventStatus` (`scheduled`, `postponed`, or `cancelled`). Fill these only from checked sources. When an event is postponed without a confirmed new date, remove its old `date` and label it postponed. Keep registration links and statuses accurate, or mark the status unknown.
 
-The Pages workflow builds on pushes, manual dispatch, and daily on a schedule. GitHub Pages must use GitHub Actions as its source for this workflow. The custom domain is managed in the repository's Pages settings; preserve the configured `listika.com` domain. The existing `CNAME` file belongs to the previous branch-based setup and is not used by the Actions deployment. Do not publish private project research to this repository.
+The Pages workflow builds on pushes, manual dispatch, and daily on a schedule. GitHub Pages uses GitHub Actions as its publishing source; switching back to a branch would trigger an extra Jekyll build against Astro source files. The custom domain is managed in the repository's Pages settings; preserve the configured `listika.com` domain. The existing `CNAME` file belongs to the previous branch-based setup and is not used by the Actions deployment. Do not publish private project research to this repository.
 
 The shared layout includes an AdSense ownership-verification meta tag. Analytics only loads after the visitor grants consent; the AdSense advertising script is currently disabled. Reassess privacy and consent before enabling ads or adding services.
 
