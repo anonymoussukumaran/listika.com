@@ -4,7 +4,7 @@ The public source for [listika.com](https://listika.com), a static site of curat
 
 ## Development
 
-Use Node.js 22, then run `npm ci` and `npm run dev` locally. Run `npm run build` to produce static files in `dist/`. Astro's optional telemetry can be disabled with `ASTRO_TELEMETRY_DISABLED=1`.
+Use Node.js 22, then run `npm ci` and `npm run dev` locally. Run `npm test`, then `npm run build` to produce static files in `dist/`, and `npm run audit:seo` to check generated pages and sitemap. Astro's optional telemetry can be disabled with `ASTRO_TELEMETRY_DISABLED=1`.
 
 List data lives in `src/data/lists/` as one JSON file per list. Each file has a slug, title, description, introduction, last checked date and entries; every entry includes a source URL and a real check date. Optional entry `date` and list `expires` values use `YYYY-MM-DD`. A list with an expiry date requires its IANA `timezone`; a dated entry requires either its own `timezone` or the list's. Builds remove past entries and expired lists based on their local dates. Rebuilds run daily and may be delayed, so removal is not instantaneous. A build never updates editorial check dates or verifies the content; sources need separate human review.
 
@@ -16,4 +16,6 @@ The Kochi marathon calendar uses optional entry fields `venue`, `distances`, `re
 
 The Pages workflow builds on pushes, manual dispatch, and daily on a schedule. GitHub Pages must use GitHub Actions as its source for this workflow. The custom domain is managed in the repository's Pages settings; preserve the configured `listika.com` domain. The existing `CNAME` file belongs to the previous branch-based setup and is not used by the Actions deployment. Do not publish private project research to this repository.
 
-The common page layout includes the site's AdSense code. Do not introduce ad units, analytics or consent claims without the corresponding account configuration and privacy review.
+The shared layout includes an AdSense ownership-verification meta tag. Analytics only loads after the visitor grants consent; the AdSense advertising script is currently disabled. Reassess privacy and consent before enabling ads or adding services.
+
+The site publishes crawlable HTML, canonical URLs, a sitemap, a favicon and visible-matching structured data. The SEO audit checks local consistency rather than search indexing or factual accuracy. Keep editorial check dates distinct from page modification dates; do not use rebuild times as `lastmod`.

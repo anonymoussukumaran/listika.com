@@ -4,6 +4,10 @@
   "description": "Find specialty coffee cafés, coffee carts and brewing education spaces around Kochi, with map searches and sources.",
   "intro": "A source-linked guide to Kochi places with a documented connection to specialty coffee or coffee education. Find a café for a cup, a cart for coffee on the go, or a space to learn brewing. This is not a ranking or a certification of coffee quality. Menus and hours can change; map links are searches, so check the location and contact the place before visiting.",
   "checked": "2026-10-28",
+  "related": [
+    "indian-specialty-coffee-brands",
+    "india-specialty-coffee-sampler-packs"
+  ],
   "collections": [
     "kochi"
   ],

@@ -6,11 +6,24 @@ const { list } = Astro.props;
 const related = (list.related ?? []).map(getList).filter((item): item is NonNullable<typeof item> => !!item && item.slug !== list.slug);
 const isRaceCalendar = list.slug === 'kochi-marathons';
 const isCoffeeList = list.slug === 'kochi-specialty-coffee';
+const pageUrl = new URL(`/lists/${list.slug}/`, Astro.site).href;
+const breadcrumb = {
+  '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'THE INDEX', item: new URL('/', Astro.site).href },
+    { '@type': 'ListItem', position: 2, name: list.title, item: pageUrl },
+  ],
+};
+const webPage = {
+  '@context': 'https://schema.org', '@type': 'WebPage', '@id': `${pageUrl}#webpage`,
+  url: pageUrl, name: list.title, description: list.description,
+  isPartOf: { '@id': new URL('/#website', Astro.site).href },
+};
 const registrationLabels = { open: 'Registration open', closed: 'Registration closed', 'sold-out': 'Sold out', unknown: 'Registration status unconfirmed' } as const;
 ---
-<Base title={list.title} description={list.description}>
+<Base title={list.title} description={list.description} structuredData={[breadcrumb, webPage]}>
   <div class="wrap">
-    <div class="index-line"><span><a href="/">THE INDEX</a> / LIST</span><span>LISTIKA</span></div>
+    <div class="index-line"><span><a href="/">THE INDEX</a> / <span aria-current="page">{list.title}</span></span><span>LISTIKA</span></div>
     <div class="list-heading"><div><p class="eyebrow">A LISTIKA GUIDE</p><h1>{list.title}</h1><p class="lede">{list.intro}</p></div><div class="check-note"><span>{isCoffeeList ? 'LAST UPDATED' : 'LAST CHECKED'}</span><strong><time datetime={list.checked}>{formatDate(list.checked)}</time></strong><p>{isRaceCalendar || isCoffeeList ? 'Details may change. Check the source before you go.' : 'Details may change. Check the source for the latest information.'}</p></div></div>
     <div class="board"><aside class="board-aside"><p class="eyebrow">{isRaceCalendar ? 'BEFORE YOU REGISTER' : isCoffeeList ? 'BEFORE YOU GO' : 'READING THE LIST'}</p><h2>{isRaceCalendar ? 'Check the details.' : isCoffeeList ? 'Find your spot.' : 'Start here.'}</h2><p>{isRaceCalendar ? 'Race details and registration can change. Confirm with the organizer before making plans.' : isCoffeeList ? 'Use the map link to find each location. Hours, menus and availability can change, so check with the place before visiting.' : 'Each entry links to a source so you can check the details yourself.'}</p><a class="text-link" href="/editorial/">How we work ↗</a></aside>
       <section class="list-content" aria-labelledby="entries-title"><div class="section-header compact"><div><p class="eyebrow">{isRaceCalendar ? 'UPCOMING RACES' : isCoffeeList ? 'THE COFFEE LIST' : 'THE LIST'}</p><h2 id="entries-title">{list.entries.length} {isRaceCalendar ? (list.entries.length === 1 ? 'event' : 'events') : isCoffeeList ? (list.entries.length === 1 ? 'place' : 'places') : (list.entries.length === 1 ? 'entry' : 'entries')}</h2></div></div>
