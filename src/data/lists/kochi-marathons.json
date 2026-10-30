@@ -3,7 +3,7 @@
   "title": "Upcoming marathons and running events in Kochi",
   "description": "Compare upcoming full and half marathons, 10K races and shorter runs around Kochi, with registration links.",
   "intro": "A source-checked calendar of announced running events in Kochi and the surrounding Ernakulam area. It includes full and half marathons as well as shorter races and family runs; a shorter run is not necessarily a marathon. Dates, venues and registration can change, so confirm with the organizer before making plans.",
-  "checked": "2026-10-29",
+  "checked": "2026-10-30",
   "timezone": "Asia/Kolkata",
   "collections": [
     "kochi"
@@ -22,7 +22,7 @@
       "source": "https://alhuda.edu.in/marathon/",
       "registrationUrl": "https://alhuda.edu.in/marathon/",
       "registrationStatus": "unknown",
-      "checked": "2026-10-29"
+      "checked": "2026-10-30"
     },
     {
       "name": "Orange Run 2026",
@@ -38,7 +38,7 @@
       "source": "https://pacenation.in/event/orange-run-2026",
       "registrationUrl": "https://pacenation.in/event/orange-run-2026",
       "registrationStatus": "closed",
-      "checked": "2026-10-29"
+      "checked": "2026-10-30"
     },
     {
       "name": "RCI Run & Ride 2026",
@@ -49,11 +49,11 @@
         "10 km",
         "5 km"
       ],
-      "description": "The event offers a 21 km timed run, 10 km run, 5 km family run and 5 km walk; it also has a separate 50 km cycling category. The registration page provides category-specific details and fees.",
+      "description": "The event offers a 21 km timed run, 10 km run, 5 km fun run and 5 km walk; it also has a separate 50 km cycling category. The registration page provides category-specific details and fees.",
       "source": "https://raceproonline.com/event-details/rci-run-ride",
       "registrationUrl": "https://raceproonline.com/event-details/rci-run-ride",
       "registrationStatus": "open",
-      "checked": "2026-10-29"
+      "checked": "2026-10-30"
     },
     {
       "name": "Team QR Mini Marathon / Season 5",
@@ -66,7 +66,7 @@
       "source": "https://eventdio.com/qr/qr-mini-marathonseason-5",
       "registrationUrl": "https://eventdio.com/qr/qr-mini-marathonseason-5",
       "registrationStatus": "open",
-      "checked": "2026-10-29"
+      "checked": "2026-10-30"
     },
     {
       "name": "Santa Run Kochi 2026",
@@ -81,7 +81,7 @@
       "source": "https://santarunkochi.com/",
       "registrationUrl": "https://santarunkochi.com/register-now/",
       "registrationStatus": "open",
-      "checked": "2026-10-29"
+      "checked": "2026-10-30"
     },
     {
       "name": "SBI Kochi Navy Half Marathon 2026",
@@ -96,7 +96,7 @@
       "source": "https://www.kochinavymarathon.com/",
       "registrationUrl": "https://static2.mathrubhumi.com/kochi-navy-marathon-2026/earlybird-register.html",
       "registrationStatus": "open",
-      "checked": "2026-10-29"
+      "checked": "2026-10-30"
     },
     {
       "name": "Zydus Pinkathon Kochi 2027",
@@ -105,7 +105,7 @@
       "description": "The organizer lists a Kochi edition of its women’s run for 10 January. Kochi-specific distances and registration have not yet been confirmed; the Mumbai page’s details may not apply.",
       "source": "https://pinkathon.life/",
       "registrationStatus": "unknown",
-      "checked": "2026-10-29"
+      "checked": "2026-10-30"
     },
     {
       "name": "Devils Circuit Kochi 2027",
@@ -117,7 +117,7 @@
       "description": "A 5 km obstacle-course race, rather than a conventional road run. Some registration waves are available; confirm the venue and your chosen wave before booking.",
       "source": "https://devilscircuit.com/",
       "registrationStatus": "open",
-      "checked": "2026-10-28",
+      "checked": "2026-10-30",
       "registrationUrl": "https://getmybib.com/287/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Kochi-2026-27"
     },
     {
@@ -130,11 +130,11 @@
         "10 km",
         "3 km"
       ],
-      "description": "The organizer lists a full marathon, half marathon, timed 10 km and 3 km Green Run. The route has not yet been finalized; verify the race venue and registration availability before booking travel.",
+      "description": "The organizer lists a full marathon, half marathon, timed 10 km and 3 km Green Run. Registration is open for all four categories. The route has not yet been finalized; verify the race venue before booking travel.",
       "source": "https://www.kochimarathon.in/about",
       "registrationUrl": "https://www.district.in/events/federal-bank-kochi-marathon-2027-buy-tickets?disableSSR=true",
-      "registrationStatus": "unknown",
-      "checked": "2026-10-29"
+      "registrationStatus": "open",
+      "checked": "2026-10-30"
     },
     {
       "name": "Nammude Run Kochi 2027",
@@ -151,7 +151,7 @@
       "source": "https://www.tesports.in/event-details/nammude-run-kochi-2027.php",
       "registrationUrl": "https://www.tesports.in/event-details/nammude-run-kochi-2027.php",
       "registrationStatus": "open",
-      "checked": "2026-10-29"
+      "checked": "2026-10-30"
     }
   ],
   "ordering": {
