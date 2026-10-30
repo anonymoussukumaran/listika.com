@@ -1,0 +1,159 @@
+{
+  "slug": "kochi-independent-second-hand-bookshops",
+  "title": "Independent and second-hand bookshops in Kochi",
+  "description": "Find independent bookshops and places to browse second-hand books in Kochi, with map searches and notes on their collections.",
+  "intro": "These shops serve different readers: some focus on independently selected new books, while others offer pre-owned or academic titles. Stocks and opening hours change, so contact the shop before a special trip. Map links are searches, not verified pins.",
+  "checked": "2026-10-30",
+  "collections": [],
+  "entries": [
+    {
+      "name": "Blossom Book Fair",
+      "details": "New and used books · Press Club Road",
+      "description": "A visitor writing in 2025 describes a Press Club Road bookshop with mostly used books, organised by genre; recent reader discussions mention new and used titles.",
+      "address": "Press Club Road, Ernakulam, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Blossom%20Book%20Fair%20Press%20Club%20Road%2C%20Ernakulam%2C%20Kochi",
+      "source": "https://indiaartreview.com/stories/bookstores-kochi-kerala/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Selection",
+          "value": "Readers report a range of fiction and popular titles; check current stock."
+        },
+        {
+          "label": "Selling books",
+          "value": "Buyback or exchange terms are not confirmed; ask the shop."
+        }
+      ],
+      "addressSource": "https://www.bharatibiz.com/en/blossom-book-fair_16-0484-236-6626",
+      "actions": [
+        {
+          "label": "Reader discussion",
+          "url": "https://www.reddit.com/r/Kochi/comments/1tinlkt/any_good_secondhand_bookstores_in_kochi_that_take/"
+        }
+      ]
+    },
+    {
+      "name": "Idiom Book Sellers",
+      "details": "Independent bookshop · Bastion Street",
+      "description": "This Fort Kochi bookshop has a broad selection of new books and a smaller section of used books, according to a local guide.",
+      "address": "Bastion Street, Fort Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Idiom%20Book%20Sellers%20Bastion%20Street%2C%20Fort%20Kochi",
+      "source": "https://catsofkochi.com/places/idiom-book-sellers/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Selection",
+          "value": "New books and a smaller used selection; travel, local subjects and other genres."
+        },
+        {
+          "label": "Selling books",
+          "value": "Buyback or exchange terms are not confirmed; ask the shop."
+        }
+      ]
+    },
+    {
+      "name": "Kerala Book House",
+      "details": "Used books · Chittoor Road",
+      "description": "A 2025 account describes a second-hand bookshop on Chittoor Road. Local readers also mention the shop; confirm current opening before a special trip.",
+      "address": "Chittoor Road, near Valanjambalam, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kerala%20Book%20House%20Chittoor%20Road%2C%20near%20Valanjambalam%2C%20Kochi",
+      "source": "https://indiaartreview.com/stories/bookstores-kochi-kerala/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Selection",
+          "value": "Readers mention a selection of second-hand books; individual titles vary."
+        },
+        {
+          "label": "Selling books",
+          "value": "Buyback or exchange terms are not confirmed; ask the shop."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Another reader discussion",
+          "url": "https://www.reddit.com/r/Kochi/comments/1ruy8mr/bookshops_in_kochi_with_affordable_pricing/"
+        }
+      ]
+    },
+    {
+      "name": "Kochi Books",
+      "details": "Independent bookshop · Princess Street",
+      "description": "An independent bookshop upstairs on Princess Street; the shop describes itself as a bookseller and publisher.",
+      "address": "Princess Street, Fort Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kochi%20Books%20Princess%20Street%2C%20Fort%20Kochi",
+      "source": "https://about.me/kochibooks",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Selection",
+          "value": "A local guide describes a new-book selection including Indian history, spirituality and languages."
+        },
+        {
+          "label": "Selling books",
+          "value": "Buyback or exchange terms are not confirmed; ask the shop."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Fort Kochi bookshop guide",
+          "url": "https://catsofkochi.com/a-guide-for-book-lovers-in-fort-kochi-best-bookstores-in-town/"
+        }
+      ]
+    },
+    {
+      "name": "Marino Books",
+      "details": "Academic and used books · Paramara Road",
+      "description": "A reader describes finding used books here, while a local directory also reports academic texts. Verify the current selection and opening before visiting.",
+      "address": "Paramara Road, Ernakulam North, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Marino%20Books%20Paramara%20Road%2C%20Ernakulam%20North%2C%20Kochi",
+      "source": "https://indiaartreview.com/stories/bookstores-kochi-kerala/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Selection",
+          "value": "Used books; a local directory also reports academic texts. Stock changes."
+        },
+        {
+          "label": "Selling books",
+          "value": "Buyback or exchange terms are not confirmed; ask the shop."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Local reader discussion",
+          "url": "https://www.reddit.com/r/Kochi/comments/1d1i8xw/"
+        }
+      ],
+      "addressSource": "https://findinkochi.com/Item_details/marino-books"
+    },
+    {
+      "name": "Mehrab Bookshop",
+      "details": "Independent bookshop · Kaloor–Kadavanthra Road",
+      "description": "Independent publishers and translated works are a focus at this small bookshop and reading space, according to reporting that interviewed its operators.",
+      "address": "Kaloor–Kadavanthra Road, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mehrab%20Bookshop%20Kaloor%E2%80%93Kadavanthra%20Road%2C%20Kochi",
+      "source": "https://www.newindianexpress.com/kochi/2025/Nov/07/a-bookstore-with-the-world-on-its-shelves-2",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Selection",
+          "value": "Independent publications, translations and art books; ask about current availability."
+        },
+        {
+          "label": "Selling books",
+          "value": "Buyback or exchange terms are not confirmed; ask the shop."
+        }
+      ],
+      "addressSource": "https://magicpin.in/Kochi/Gandhi-Nagar/Bookstore/Mehrab-Bookshop/store/21a9bc4"
+    }
+  ],
+  "ordering": {
+    "method": "alphabetical",
+    "explanation": "Shops are arranged alphabetically because comparable, current evidence is insufficient to support an editorial ranking."
+  },
+  "related": [
+    "kozhikode-independent-second-hand-bookshops",
+    "trivandrum-independent-second-hand-bookshops"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "slug": "kozhikode-coworking-day-passes",
+  "title": "Coworking spaces in Kozhikode with day passes",
+  "description": "Find short-term coworking desks in Kozhikode, with day-pass options, booking links and map searches.",
+  "intro": "A desk for a single workday can be useful when you are travelling, between offices or working away from home. These Kozhikode-area spaces advertise daily access directly or through a booking provider. Check current prices, taxes, booking requirements and facilities before travelling; advertised workspace hours do not necessarily apply to a day pass. Map links are searches, not verified pins.",
+  "checked": "2026-10-30",
+  "ordering": {
+    "method": "alphabetical",
+    "explanation": "Places are listed alphabetically by name because comparable, source-checked quality and price information is not available for a fair ranking."
+  },
+  "related": [
+    "kochi-coworking-day-passes"
+  ],
+  "entries": [
+    {
+      "name": "B Lounge Workspace",
+      "description": "A coworking workspace at HiLITE Business Park whose own pricing page advertises access for a single day. Check its day-pass conditions before visiting.",
+      "address": "HiLITE Business Park, Tower 2, second floor, Kozhikode",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=B%20Lounge%20Workspace%20HiLITE%20Business%20Park%2C%20Tower%202%2C%20second%20floor%2C%20Kozhikode",
+      "source": "https://bloungeworkspace.com/pricing/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Short-term access",
+          "value": "The operator advertises a one-day pass for occasional users."
+        },
+        {
+          "label": "Price",
+          "value": "Its published day-pass price is ₹599; confirm current rate and taxes."
+        },
+        {
+          "label": "Booking",
+          "value": "Contact the workspace to check availability, day-pass hours and what the pass includes."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Operator’s contact and location",
+          "url": "https://bloungeworkspace.com/"
+        }
+      ]
+    },
+    {
+      "name": "Hymod Workspace — Pushpa Junction",
+      "description": "A workspace near Pushpa Junction for which Qdesq lists hot-desk day access. Check the exact location and booking before visiting.",
+      "address": "Near Hydaker, Pushpa Junction, Kozhikode",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Hymod%20Workspace%20%E2%80%94%20Pushpa%20Junction%20Near%20Hydaker%2C%20Pushpa%20Junction%2C%20Kozhikode",
+      "source": "https://www.qdesq.com/brand/hymod-workspace/pushpa-junction-kozhikode-khk009",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Short-term access",
+          "value": "Qdesq lists a one-day hot desk."
+        },
+        {
+          "label": "Price",
+          "value": "The Qdesq listing shows a starting rate of ₹600 per day; confirm taxes and availability."
+        },
+        {
+          "label": "Calls",
+          "value": "Phone booths and meeting rooms are listed as facilities; ask whether a day pass includes their use."
+        }
+      ],
+      "actions": [
+        {
+          "label": "See Qdesq listing",
+          "url": "https://www.qdesq.com/brand/hymod-workspace/pushpa-junction-kozhikode-khk009"
+        }
+      ]
+    },
+    {
+      "name": "Kaizen Coworks — Kuttichira",
+      "description": "The South Beach Road branch appears on GoFloaters with an open-desk day pass. Kaizen also lists another branch, so confirm you are booking Kuttichira.",
+      "address": "58/1617, South Beach Road, Kuttichira, Kozhikode 673001",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kaizen%20Coworks%20%E2%80%94%20Kuttichira%2058%2F1617%2C%20South%20Beach%20Road%2C%20Kuttichira%2C%20Kozhikode%20673001",
+      "source": "https://gofloaters.com/coworking-space/gooffice-9608-open-desks-kuttichira-calicut/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Short-term access",
+          "value": "GoFloaters lists a day pass for an open desk at the Kuttichira location."
+        },
+        {
+          "label": "Price",
+          "value": "GoFloaters lists ₹375 per day but its page conflicts on whether tax is included; confirm the final total."
+        },
+        {
+          "label": "Calls",
+          "value": "A meeting room is listed separately; check current charges and availability."
+        }
+      ],
+      "addressSource": "https://www.kaizencoworks.com/contact/",
+      "actions": [
+        {
+          "label": "See GoFloaters listing",
+          "url": "https://gofloaters.com/coworking-space/gooffice-9608-open-desks-kuttichira-calicut/"
+        },
+        {
+          "label": "Operator’s contact",
+          "url": "https://www.kaizencoworks.com/contact/"
+        }
+      ]
+    },
+    {
+      "name": "Spaze One — West Hill",
+      "description": "A coworking space in West Hill, near Bridgeway Motors according to Qdesq, which lists daily hot desks alongside monthly options.",
+      "address": "Near Bridgeway Motors Building, West Hill, Kozhikode",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Spaze%20One%20%E2%80%94%20West%20Hill%20Near%20Bridgeway%20Motors%20Building%2C%20West%20Hill%2C%20Kozhikode",
+      "source": "https://www.qdesq.com/brand/spaze-one/west-hill-calicut-cal002",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Short-term access",
+          "value": "Qdesq lists a day pass for a hot desk."
+        },
+        {
+          "label": "Price",
+          "value": "The listing shows a starting rate of ₹500 per day; confirm taxes and current availability."
+        },
+        {
+          "label": "Facilities",
+          "value": "Wi-Fi and meeting rooms are listed; check whether meeting rooms cost extra."
+        }
+      ],
+      "actions": [
+        {
+          "label": "See Qdesq listing",
+          "url": "https://www.qdesq.com/brand/spaze-one/west-hill-calicut-cal002"
+        }
+      ]
+    },
+    {
+      "name": "Spunic — Calicut Bypass",
+      "description": "A workspace near HiLITE City with pay-per-use day passes and separate meeting rooms. The operator asks prospective visitors to enquire about current availability.",
+      "address": "Near HiLITE City, Thondayad Bypass, Kozhikode 673014",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Spunic%20%E2%80%94%20Calicut%20Bypass%20Near%20HiLITE%20City%2C%20Thondayad%20Bypass%2C%20Kozhikode%20673014",
+      "source": "https://spunic.com/workspace/calicut-bypass",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Short-term access",
+          "value": "The operator advertises day passes; enquire about rate and access hours."
+        },
+        {
+          "label": "Facilities",
+          "value": "The operator lists Wi-Fi, power access and phone booths with its day pass."
+        },
+        {
+          "label": "Calls and meetings",
+          "value": "Phone booths are listed; meeting rooms can be booked separately, subject to availability."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Enquire with Spunic",
+          "url": "https://spunic.com/workspace/calicut-bypass"
+        }
+      ]
+    },
+    {
+      "name": "Spunic — NIT Calicut",
+      "description": "A branch in Kattangal near NIT Calicut, outside central Kozhikode, with day passes for desk users. The operator also lists a separately bookable six-seat meeting room.",
+      "address": "CP2/417, AKG Colony, Companymukku, NIT, Kattangal, Kozhikode 673601",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Spunic%20%E2%80%94%20NIT%20Calicut%20CP2%2F417%2C%20AKG%20Colony%2C%20Companymukku%2C%20NIT%2C%20Kattangal%2C%20Kozhikode%20673601",
+      "source": "https://spunic.com/workspace/nit-calicut",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Short-term access",
+          "value": "The operator lists a day pass; contact the branch for price and seat availability."
+        },
+        {
+          "label": "Facilities",
+          "value": "The operator lists Wi-Fi, power access and phone booths as day-pass features."
+        },
+        {
+          "label": "Location",
+          "value": "Kattangal, near NIT Calicut; check travel time from the city before booking."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Enquire with Spunic",
+          "url": "https://spunic.com/workspace/nit-calicut"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "kozhikode-libraries-study-rooms",
+  "title": "Libraries and study rooms in Kozhikode",
+  "description": "Explore libraries, reading rooms and paid study spaces in Kozhikode, with access notes and map searches.",
+  "intro": "Whether you want to borrow a book or bring your own work to a quiet desk, these places serve different needs. Check membership, seat availability and current fees with the venue before visiting. Map links are searches rather than verified pins.",
+  "checked": "2026-10-30",
+  "related": ["kochi-libraries-reading-rooms"],
+  "ordering": {
+    "method": "alphabetical",
+    "explanation": "Alphabetical by venue: libraries and paid study spaces serve different needs and available evidence does not support a comparable ranking."
+  },
+  "entries": [
+    {
+      "name": "Chavara Public Library and Learning Spaces",
+      "details": "Lending, public reading and paid study · Amalapuri",
+      "description": "Chavara describes a lending library, children's and reference sections, a newspaper reading room and separate learning spaces for students and exam preparation.",
+      "address": "Chavara Cultural Centre, Amalapuri P.O., near 4th Railway Gate, Kozhikode 673001",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chavara+Public+Library+Amalapuri+Kozhikode",
+      "source": "https://www.chavaraculturalcentreclt.org/public-library-reading-room.php",
+      "checked": "2026-10-30",
+      "facts": [
+        { "label": "Reading and study", "value": "The public reading room is for newspapers and periodicals; the learning spaces use a monthly fee. Confirm access and seats." },
+        { "label": "Borrowing", "value": "The general library lends to members; ask for current membership terms." }
+      ]
+    },
+    {
+      "name": "Desaposhini Public Library",
+      "details": "Library and reading room · Kuthiravattom",
+      "description": "Desaposhini is a public library in Kuthiravattom with a reading room. Contact the library for current access and borrowing conditions.",
+      "address": "Kuthiravattom P.O., Kozhikode 673016",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Desaposhini+Public+Library+Kuthiravattom+Kozhikode",
+      "source": "https://desaposhini.org/",
+      "checked": "2026-10-30",
+      "facts": [
+        { "label": "Reading and study", "value": "Reading room listed; ask whether personal study materials and laptops are permitted." },
+        { "label": "Borrowing", "value": "Membership and current fees should be confirmed with the library." }
+      ],
+      "addressSource": "https://desaposhini.org/?page_id=5",
+      "actions": [{ "label": "Local discussion", "url": "https://www.reddit.com/r/kozhikode/comments/1dujbcq/any_nice_libraries_where_we_can_study/" }]
+    },
+    {
+      "name": "ECHO Study Space",
+      "details": "Paid study space · YMCA Cross Road",
+      "description": "A dedicated study room; its operator lists 24-hour access, Wi-Fi and flexible memberships for focused work and exam preparation.",
+      "address": "Second Floor, Epahs Tower, YMCA Cross Road, Kozhikode 673001",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=ECHO+Study+Space+YMCA+Cross+Road+Kozhikode",
+      "source": "https://echostudyspace.in/",
+      "checked": "2026-10-30",
+      "facts": [
+        { "label": "Access", "value": "The operator lists 24/7 access for its study space; check plan terms and availability." },
+        { "label": "Borrowing", "value": "A book-lending service is not confirmed." }
+      ]
+    },
+    {
+      "name": "Elevate Study Space",
+      "details": "Paid study space · Link Road",
+      "description": "A study room near Kozhikode railway station offering bookable seats for short and longer study sessions.",
+      "address": "Royal Palace Building, Link Road, near Kozhikode Railway Station, Kozhikode",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Elevate+Study+Space+Link+Road+Kozhikode",
+      "source": "https://www.elevatestudyspace.in/",
+      "checked": "2026-10-30",
+      "facts": [
+        { "label": "Access", "value": "The operator lists three-hour, daily, weekly and longer plans and app-based booking; confirm prices and seats." },
+        { "label": "Borrowing", "value": "A lending collection is not confirmed." }
+      ]
+    },
+    {
+      "name": "State Public Library and Research Centre",
+      "details": "Public library · Mananchira",
+      "description": "A public library and research centre near Mananchira. Local readers also discuss using its reading space; confirm the present entry and membership rules directly.",
+      "address": "Mananchira Road, Palayam, Kozhikode 673001",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=State+Public+Library+and+Research+Centre+Mananchira+Kozhikode",
+      "source": "https://www.kozhikode.directory/state-public-library-and-research-centre/i/415",
+      "checked": "2026-10-30",
+      "facts": [
+        { "label": "Reading and study", "value": "Reading-room access, seat availability and fees should be confirmed with the library." },
+        { "label": "Borrowing", "value": "Ask about current membership and lending terms." }
+      ],
+      "actions": [{ "label": "Local discussion", "url": "https://www.reddit.com/r/kozhikode/comments/1uvws9k/has_anyone_here_been_to_the_public_library_in_sm/" }]
+    }
+  ]
+}

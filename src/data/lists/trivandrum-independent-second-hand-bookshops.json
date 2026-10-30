@@ -1,0 +1,112 @@
+{
+  "slug": "trivandrum-independent-second-hand-bookshops",
+  "title": "Independent and second-hand bookshops in Trivandrum",
+  "description": "Find independent bookshops and second-hand book stalls in Thiruvananthapuram, with map searches and practical notes.",
+  "intro": "These shops serve different readers: some focus on independently selected new books, while others offer pre-owned or academic titles. Stocks and opening hours change, so contact the shop before a special trip. Map links are searches, not verified pins.",
+  "checked": "2026-10-30",
+  "collections": [],
+  "entries": [
+    {
+      "name": "Global Books",
+      "details": "New and used books · Near State Central Library",
+      "description": "A local directory identifies this Palayam stall as a seller of new and second-hand books. Check current opening before a special visit.",
+      "address": "Near State Central Library, Palayam, Thiruvananthapuram",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Global%20Books%20Near%20State%20Central%20Library%2C%20Palayam%2C%20Thiruvananthapuram",
+      "source": "https://findintrivandrum.com/global-books-palayam-trivandrum",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Selection",
+          "value": "The directory lists academic titles and general fiction; selection changes."
+        },
+        {
+          "label": "Selling books",
+          "value": "Buyback or exchange terms are not confirmed; ask the shop."
+        }
+      ],
+      "addressSource": "https://www.quickerala.com/trivandrum/palayam/global-books-old-book-stalls/466839"
+    },
+    {
+      "name": "Modern Book Centre",
+      "details": "Independent bookshop · Gandhari Amman Kovil Road",
+      "description": "An independent bookshop with general titles; its own contact page gives its location and contact details.",
+      "address": "Gandhari Amman Kovil Road, Thiruvananthapuram",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Modern%20Book%20Centre%20Gandhari%20Amman%20Kovil%20Road%2C%20Thiruvananthapuram",
+      "source": "https://modern-book-centre.myshopify.com/pages/contact-us",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Selection",
+          "value": "General books; second-hand stock is not confirmed."
+        },
+        {
+          "label": "Selling books",
+          "value": "Buyback or exchange terms are not confirmed; ask the shop."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Shop profile",
+          "url": "https://www.linkedin.com/company/modern-book-centre"
+        }
+      ]
+    },
+    {
+      "name": "Muzafir Used Books",
+      "details": "Used books · Public Library Nandavanam Road",
+      "description": "A directory lists this used-book seller near the State Central Library. Confirm current opening and stock with the seller.",
+      "address": "Public Library Nandavanam Road, Palayam, Thiruvananthapuram",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Muzafir%20Used%20Books%20Public%20Library%20Nandavanam%20Road%2C%20Palayam%2C%20Thiruvananthapuram",
+      "source": "https://www.justdial.com/Thiruvananthapuram/Muzafir-Used-Books-State-Central-Library-Palayam/0471PX471-X471-171002172427-R1B3_BZDET",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Selection",
+          "value": "Second-hand selection; current buying and exchange terms are not confirmed."
+        },
+        {
+          "label": "Selling books",
+          "value": "Buyback or exchange terms are not confirmed; ask the shop."
+        }
+      ],
+      "addressSource": "https://in.infoaboutcompanies.com/Catalog/KL/Thiruvananthapuram/Used-Store/muzafir-used-books"
+    },
+    {
+      "name": "Prabhus Books",
+      "details": "Specialist bookshop · Ayurveda College Junction",
+      "description": "A Thiruvananthapuram bookseller listed by Kerala Tourism near Ayurveda College Junction. A local business profile describes it as a locally founded shop.",
+      "address": "Ayurveda College Junction, Thiruvananthapuram",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Prabhus%20Books%20Ayurveda%20College%20Junction%2C%20Thiruvananthapuram",
+      "source": "https://www.keralatourism.org/book-shops/ac2/st-josephs-cathedral-palayam/ds433",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Selection",
+          "value": "Books across subjects; a local guide reports law titles. Second-hand stock is not confirmed."
+        },
+        {
+          "label": "Selling books",
+          "value": "Buyback or exchange terms are not confirmed; ask the shop."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Local bookshop guide",
+          "url": "https://findintrivandrum.com/blog/book-stores-in-trivandrum-a-guide-for-every-reader"
+        },
+        {
+          "label": "Local business profile",
+          "url": "https://www.dialkerala.com/business-directory.php?cateid=34&listing=Prabhus+Books&listnumber=206&oid=2"
+        }
+      ]
+    }
+  ],
+  "ordering": {
+    "method": "alphabetical",
+    "explanation": "Shops are arranged alphabetically because comparable, current evidence is insufficient to support an editorial ranking."
+  },
+  "related": [
+    "kochi-independent-second-hand-bookshops",
+    "kozhikode-independent-second-hand-bookshops"
+  ]
+}

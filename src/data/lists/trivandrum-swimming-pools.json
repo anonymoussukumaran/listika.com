@@ -1,0 +1,136 @@
+{
+  "slug": "trivandrum-swimming-pools",
+  "title": "Swimming pools in Trivandrum",
+  "description": "Find swimming pools and lessons in Thiruvananthapuram, with access information and map searches.",
+  "intro": "Compare swimming pools and training venues, including what is known about access without a venue membership. A class or a paid pass is not necessarily the same as casual swimming. Check the pool’s current access rules, fees, timetable and availability before visiting. Map links are searches, not verified pins.",
+  "checked": "2026-10-30",
+  "entries": [
+    {
+      "name": "Akkulam Tourist Village Swimming Pool",
+      "details": "Swimming pool · Akkulam",
+      "description": "The district tourism promotion council lists a swimming pool at Akkulam Tourist Village. Older local reporting describes paid public sessions; check current pool hours and charges.",
+      "address": "Akkulam Tourist Village, Akkulam, Thiruvananthapuram",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Akkulam%20Tourist%20Village%20Swimming%20Pool%20Akkulam%20Tourist%20Village%2C%20Akkulam%2C%20Thiruvananthapuram",
+      "source": "https://www.dtpcthiruvananthapuram.com/destination/akkulam",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "Historically offered paid public sessions; current non-member admission and status should be checked."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "The pool is listed among the tourist village facilities; current lessons are not confirmed."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Tourism department listing",
+          "url": "https://www.keralatourism.org/swimming-pool/ac13/akkulam-tourist-village/ds7"
+        }
+      ]
+    },
+    {
+      "name": "Albatross Swimming Pool",
+      "details": "Swimming pool · Palayam",
+      "description": "A pool at Chandrasekharan Nair Stadium. The original launch report described public use, while more recent local discussions mention swimming classes.",
+      "address": "Chandrasekharan Nair Stadium, Palayam, Thiruvananthapuram",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Albatross%20Swimming%20Pool%20Chandrasekharan%20Nair%20Stadium%2C%20Palayam%2C%20Thiruvananthapuram",
+      "source": "https://www.newindianexpress.com/amp/story/cities/thiruvananthapuram/2018/Oct/02/now-swim-chlorine-free-at-chandrasekharan-nair-stadium-complex-1879715.html",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "The launch report described public admission, but present non-member terms are unconfirmed."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "Ask the pool about current casual sessions, coaching, fees and any separate batches."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Recent local discussion",
+          "url": "https://www.reddit.com/r/Trivandrum/comments/1w8p6p5/swimming_classes_near_pattomtrivandrum/"
+        }
+      ]
+    },
+    {
+      "name": "Jimmy George Sports Hub Swimming Pool",
+      "details": "Swimming pool · Vellayambalam",
+      "description": "The state sports department describes an Olympic-size pool with regular, holiday and weekend swimming batches. A recent local discussion reported reopening after maintenance; check current operation.",
+      "address": "Jimmy George Sports Hub, Vellayambalam, Thiruvananthapuram",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jimmy%20George%20Sports%20Hub%20Swimming%20Pool%20Jimmy%20George%20Sports%20Hub%2C%20Vellayambalam%2C%20Thiruvananthapuram",
+      "source": "https://dsya.kerala.gov.in/index.php/facilities/thiruvananthapuram",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "Day-pass availability and membership conditions should be confirmed with the pool."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "The sports department lists swimming coaching and provides a pool contact."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Recent reopening discussion",
+          "url": "https://www.reddit.com/r/Trivandrum/comments/1wuu9h9/when_will_jimmy_george_pool_reopen_after/"
+        }
+      ]
+    },
+    {
+      "name": "Loyola Aquatic Complex",
+      "details": "Swimming pool · Sreekaryam",
+      "description": "The operator describes a 25-metre indoor pool and swimming lessons for children and adults, as well as family sessions.",
+      "address": "Loyola Complex, Sreekaryam, Thiruvananthapuram",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Loyola%20Aquatic%20Complex%20Loyola%20Complex%2C%20Sreekaryam%2C%20Thiruvananthapuram",
+      "source": "https://loyolaswimmingtrainingcentre.org/about/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "The operator advertises lessons for a range of ages; confirm enrolment and membership requirements."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "The operator lists learn-to-swim and family sessions; ask about current schedules and fees."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Local discussion",
+          "url": "https://www.reddit.com/r/Trivandrum/comments/1bw97sw"
+        }
+      ]
+    },
+    {
+      "name": "TSports High Performance Centre",
+      "details": "Swimming pool · Vattappara",
+      "description": "The centre lists an indoor pool and learn-to-swim programmes for children and adults, including adult learning and lap-fitness classes.",
+      "address": "Near Ozhukupara Thampuran Temple, Vattappara, Thiruvananthapuram",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=TSports%20High%20Performance%20Centre%20Near%20Ozhukupara%20Thampuran%20Temple%2C%20Vattappara%2C%20Thiruvananthapuram",
+      "source": "https://www.tsportscentre.com/sports/swimming",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "Ask the centre about eligibility, fees and whether a membership is required."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "The operator lists beginner lessons and adult classes; enquire about current places and recreational swimming."
+        }
+      ]
+    }
+  ],
+  "ordering": {
+    "method": "alphabetical",
+    "explanation": "Pools are ordered alphabetically by name, not ranked by quality or public review scores. Confirmed and unconfirmed access are described separately in each entry."
+  },
+  "related": [
+    "kochi-swimming-pools",
+    "kozhikode-swimming-pools"
+  ]
+}

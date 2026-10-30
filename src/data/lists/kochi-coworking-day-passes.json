@@ -1,0 +1,216 @@
+{
+  "slug": "kochi-coworking-day-passes",
+  "title": "Coworking spaces in Kochi with day passes",
+  "description": "Find short-term coworking desks in Kochi, with day-pass details, booking links and map searches.",
+  "intro": "Need a desk for a day or a few visits? These Kochi-area spaces advertise a day pass directly or through a booking provider. Some prices and access hours are supplied by third-party listings and may change; check the final price, tax, seat availability and whether a pass includes meeting rooms before paying. Map links are searches, not verified pins.",
+  "checked": "2026-10-30",
+  "ordering": {
+    "method": "alphabetical",
+    "explanation": "Places are listed alphabetically by name because comparable, source-checked quality and price information is not available for a fair ranking."
+  },
+  "related": [
+    "kozhikode-coworking-day-passes"
+  ],
+  "entries": [
+    {
+      "name": "AWFIS — Mezmatrix",
+      "description": "A bookable shared desk in the Mezmatrix building, listed by a coworking booking platform. Check the selected date and any fees at checkout.",
+      "address": "Mezmatrix, Chittoor Road, Ernakulam, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=AWFIS%20%E2%80%94%20Mezmatrix%20Mezmatrix%2C%20Chittoor%20Road%2C%20Ernakulam%2C%20Kochi",
+      "source": "https://myhq.in/flexi/coworking-space/awfis-ernakulam",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Short-term access",
+          "value": "Day-pass desk listed through myHQ; book for your chosen date."
+        },
+        {
+          "label": "Price",
+          "value": "The platform uses credits and prices can vary by date or offer; check the final amount before paying."
+        },
+        {
+          "label": "Calls",
+          "value": "Meeting rooms are listed separately; check availability and charges."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Book via myHQ",
+          "url": "https://myhq.in/flexi/coworking-space/awfis-ernakulam"
+        }
+      ]
+    },
+    {
+      "name": "Collective Coworks — Kakkanad",
+      "description": "A Kakkanad coworking space with a day-pass hot desk listed by Qdesq. The listing places it near Grand Central; confirm the exact entrance and booking before travelling.",
+      "address": "Near Grand Central, Kakkanad, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Collective%20Coworks%20%E2%80%94%20Kakkanad%20Near%20Grand%20Central%2C%20Kakkanad%2C%20Kochi",
+      "source": "https://www.qdesq.com/brand/collective-coworks/kakkanad-kochi-kch035",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Short-term access",
+          "value": "Qdesq lists a day-pass hot desk."
+        },
+        {
+          "label": "Price",
+          "value": "Qdesq lists a starting rate of ₹500 per day; confirm taxes and the current rate."
+        },
+        {
+          "label": "Booking",
+          "value": "Request or book a seat through Qdesq; walk-in availability is unconfirmed."
+        }
+      ],
+      "actions": [
+        {
+          "label": "See Qdesq listing",
+          "url": "https://www.qdesq.com/brand/collective-coworks/kakkanad-kochi-kch035"
+        }
+      ]
+    },
+    {
+      "name": "Corrazone Coworking — Kalamassery",
+      "description": "A Kalamassery workspace with day bookings for dedicated desks through GoFloaters. The listing says the space is next to Zamovar Restaurant.",
+      "address": "Kalamassery, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Corrazone%20Coworking%20%E2%80%94%20Kalamassery%20Kalamassery%2C%20Kochi",
+      "source": "https://gofloaters.com/coworking-space/gooffice-4033-dedicated-desks-kalamassery-kochi/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Short-term access",
+          "value": "GoFloaters describes an eight-hour day pass, subject to the workspace operating hours."
+        },
+        {
+          "label": "Price",
+          "value": "GoFloaters lists ₹690 per day but its page conflicts on whether tax is included; confirm the final total."
+        },
+        {
+          "label": "Facilities",
+          "value": "The listing mentions Wi-Fi and power backup; enquire about meeting-room availability and charges."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Book via GoFloaters",
+          "url": "https://gofloaters.com/coworking-space/gooffice-4033-dedicated-desks-kalamassery-kochi/"
+        }
+      ]
+    },
+    {
+      "name": "Covspace — Chakkaraparambu",
+      "description": "A flexible workspace at G K Tower with a daily flexi-desk plan alongside longer-term options. The operator asks visitors to check seat availability.",
+      "address": "G K Tower, Chakkaraparambu Junction, Thammanam, Kochi 682032",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Covspace%20%E2%80%94%20Chakkaraparambu%20G%20K%20Tower%2C%20Chakkaraparambu%20Junction%2C%20Thammanam%2C%20Kochi%20682032",
+      "source": "https://www.covspace.in/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Short-term access",
+          "value": "The operator lists a flexi-desk daily pass; enquire about availability and access hours."
+        },
+        {
+          "label": "Price",
+          "value": "₹500 per day plus GST on the operator’s published price list; confirm current terms."
+        },
+        {
+          "label": "Facilities",
+          "value": "Wi-Fi and electricity are listed; ask about day-pass use of the meeting room and parking."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Check availability",
+          "url": "https://www.covspace.in/"
+        }
+      ]
+    },
+    {
+      "name": "GreenNest — Kadavanthra",
+      "description": "The operator advertises individual day passes and multi-day packs at its Kadavanthra workspace, including a stated walk-in option.",
+      "address": "Kadavanthra, Kochi 682020",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GreenNest%20%E2%80%94%20Kadavanthra%20Kadavanthra%2C%20Kochi%20682020",
+      "source": "https://greennest.works/services/coworking-space-in-kochi/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Short-term access",
+          "value": "Day pass; the operator says walk-ins are welcome and recommends calling ahead to secure a seat."
+        },
+        {
+          "label": "Price",
+          "value": "The operator lists ₹400 per seat per day; confirm current pricing and taxes."
+        },
+        {
+          "label": "Calls",
+          "value": "Designated call areas and meeting rooms are listed; check whether a room costs extra."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Enquire with GreenNest",
+          "url": "https://greennest.works/services/coworking-space-in-kochi/"
+        }
+      ]
+    },
+    {
+      "name": "Innerspace Coworking — Edappally",
+      "description": "An Edappally workspace near Good Earth Melange with a hot-desk day pass listed on Qdesq. The operator also advertises day passes; rates can differ by location and booking provider.",
+      "address": "Edappally, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Innerspace%20Coworking%20%E2%80%94%20Edappally%20Edappally%2C%20Kochi",
+      "source": "https://www.qdesq.com/brand/innerspace-coworking/edappally-kochi-kch027",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Short-term access",
+          "value": "Qdesq lists a day pass for a flexible desk."
+        },
+        {
+          "label": "Price",
+          "value": "Qdesq lists a starting rate of ₹500 per day; check current price and taxes."
+        },
+        {
+          "label": "Facilities",
+          "value": "Wi-Fi and air conditioning are listed; confirm call space and power-backup access for the pass."
+        }
+      ],
+      "actions": [
+        {
+          "label": "See Qdesq listing",
+          "url": "https://www.qdesq.com/brand/innerspace-coworking/edappally-kochi-kch027"
+        },
+        {
+          "label": "Operator’s day-pass information",
+          "url": "https://innerspace.work/service/coworking-space/"
+        }
+      ]
+    },
+    {
+      "name": "Wagmi Workspace — AN Square",
+      "description": "An Edappally coworking space with a daily open-desk option on myHQ. Its listing includes the address and a date-selection step before booking.",
+      "address": "AN Square, Unichira Thoppil Road, Marottichuvadu, Edappally, Kochi 682021",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Wagmi%20Workspace%20%E2%80%94%20AN%20Square%20AN%20Square%2C%20Unichira%20Thoppil%20Road%2C%20Marottichuvadu%2C%20Edappally%2C%20Kochi%20682021",
+      "source": "https://myhq.in/flexi/coworking-space/wagmi-workspace-edappally",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Short-term access",
+          "value": "The myHQ listing offers a bookable desk by the day."
+        },
+        {
+          "label": "Price",
+          "value": "myHQ displays a price in credits; check conversion, taxes and the final payable amount."
+        },
+        {
+          "label": "Calls",
+          "value": "The listing describes phone booths as limited and subject to availability; confirm access before booking."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Book via myHQ",
+          "url": "https://myhq.in/flexi/coworking-space/wagmi-workspace-edappally"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "kozhikode-swimming-pools",
+  "title": "Swimming pools in Kozhikode",
+  "description": "Find Kozhikode swimming pools and coaching with access information and map searches.",
+  "intro": "Compare swimming pools and training venues, including what is known about access without a venue membership. A class or a paid pass is not necessarily the same as casual swimming. Check the pool’s current access rules, fees, timetable and availability before visiting. Map links are searches, not verified pins.",
+  "checked": "2026-10-30",
+  "entries": [
+    {
+      "name": "Cherootty Memorial Swimming Pool Complex",
+      "details": "Swimming pool · Cherooty Nagar",
+      "description": "A swimming complex in Cherooty Nagar. A 2024 swimming directory listed a casual admission option; current access and fee need reconfirmation.",
+      "address": "K P Chandran Road, Cherooty Nagar Housing Colony, Kozhikode",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Cherootty%20Memorial%20Swimming%20Pool%20Complex%20K%20P%20Chandran%20Road%2C%20Cherooty%20Nagar%20Housing%20Colony%2C%20Kozhikode",
+      "source": "https://www.places2swim.com/locations/cherooty-memorial-swimming-pool-complex-in-kozhikode-kerala-india/ffce057e-cee5-49b7-bc5e-2e8ae3563ad8",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "An older directory reports casual admission, but current non-member access is not confirmed."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "Local discussion mentions swimming instruction; ask about current batches and pool sessions."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Local swimming discussion",
+          "url": "https://www.reddit.com/r/kozhikode/comments/1ull27b/swiming_pool_at_per_hour_rate/"
+        }
+      ]
+    },
+    {
+      "name": "GKMM Swimming Pool",
+      "details": "Swimming pool · Payyadimeethal",
+      "description": "A pool listed near Punathil Bazar on the Pottammal–Palazhi road. It also appears in a local discussion about places to swim.",
+      "address": "Pottammal–Palazhi Road, Payyadimeethal, Kozhikode",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=GKMM%20Swimming%20Pool%20Pottammal%E2%80%93Palazhi%20Road%2C%20Payyadimeethal%2C%20Kozhikode",
+      "source": "https://www.bookmyplayer.com/gkmm-swimming-pool-payyadimeethal-punathil-bazar-kozhikode-review-rid-27122",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "Check with the venue whether non-members can use the pool and book lessons."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "The local discussion suggests this pool; independently verify present lessons and swim slots."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Local swimming discussion",
+          "url": "https://www.reddit.com/r/kozhikode/comments/1ull27b/swiming_pool_at_per_hour_rate/"
+        }
+      ]
+    },
+    {
+      "name": "Kozhikode Sports Council Swimming Pool",
+      "details": "Swimming pool · East Nadakkavu",
+      "description": "The district sports council lists a main swimming pool and a range of membership options. Its published timetable includes separate sessions for men and women.",
+      "address": "East Nadakkavu, Kozhikode",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kozhikode%20Sports%20Council%20Swimming%20Pool%20East%20Nadakkavu%2C%20Kozhikode",
+      "source": "https://sportscouncilkozhikode.com/swimming_pool",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "The council lists pool memberships and online slots; ask whether a non-member can book a single session."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "The main-pool page lists an age requirement above 12; ask about the separate children’s pool and current sessions."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Booking information",
+          "url": "https://sportscouncilkozhikode.com/return-refund"
+        }
+      ]
+    },
+    {
+      "name": "Snehaprabha Swimming Academy",
+      "details": "Swimming pool · Chathamangalam",
+      "description": "A swimming academy listed in Vellanur, Chathamangalam, outside central Kozhikode. Local residents have suggested it for lessons.",
+      "address": "Vellanur, Chathamangalam, Kozhikode district",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Snehaprabha%20Swimming%20Academy%20Vellanur%2C%20Chathamangalam%2C%20Kozhikode%20district",
+      "source": "https://www.justdial.com/Kozhikode/Snehaprabha-Swimming-Academy-Chathamangalam/0495PX495-X495-240210023402-M3W3_BZDET",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "Ask the academy about enrolment, eligibility and whether a membership is required."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "Lessons are mentioned locally; confirm current programmes and age groups."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Local swimming discussion",
+          "url": "https://www.reddit.com/r/kozhikode/comments/1tz6ug5/i_want_to_learn_swimming/"
+        }
+      ]
+    }
+  ],
+  "ordering": {
+    "method": "alphabetical",
+    "explanation": "Pools are ordered alphabetically by name, not ranked by quality or public review scores. Confirmed and unconfirmed access are described separately in each entry."
+  },
+  "related": [
+    "kochi-swimming-pools",
+    "trivandrum-swimming-pools"
+  ]
+}

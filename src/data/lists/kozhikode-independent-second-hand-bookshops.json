@@ -1,0 +1,77 @@
+{
+  "slug": "kozhikode-independent-second-hand-bookshops",
+  "title": "Independent and second-hand bookshops in Kozhikode",
+  "description": "Browse independent bookshops and used-book options in Kozhikode, with map searches and notes on what each place offers.",
+  "intro": "These shops serve different readers: some focus on independently selected new books, while others offer pre-owned or academic titles. Stocks and opening hours change, so contact the shop before a special trip. Map links are searches, not verified pins.",
+  "checked": "2026-10-30",
+  "collections": [],
+  "entries": [
+    {
+      "name": "Aathira Old & New Books",
+      "details": "New and used books · Stadium Complex",
+      "description": "Local readers suggest Aathira when looking for used books near the stadium. Check the current selection and opening before visiting.",
+      "address": "Stadium Complex, Rajaji Road, Kozhikode",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Aathira%20Old%20%26%20New%20Books%20Stadium%20Complex%2C%20Rajaji%20Road%2C%20Kozhikode",
+      "source": "https://www.reddit.com/r/kozhikode/comments/1gmdvht/used_books_store/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Selection",
+          "value": "Readers mention academic titles; ask about the book or subject you need."
+        },
+        {
+          "label": "Selling books",
+          "value": "Buyback or exchange terms are not confirmed; ask the shop."
+        }
+      ],
+      "addressSource": "https://www.kozhikode.directory/aathira-books/i/471"
+    },
+    {
+      "name": "Ideal Books",
+      "details": "Used books · Central Library building",
+      "description": "Local readers identify this shop beneath the central library as a place to browse used books.",
+      "address": "Central Library building, Mananchira, Kozhikode",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ideal%20Books%20Central%20Library%20building%2C%20Mananchira%2C%20Kozhikode",
+      "source": "https://www.reddit.com/r/kozhikode/comments/1gmdvht/used_books_store/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Selection",
+          "value": "Second-hand books; ask about genres, stock and buyback."
+        },
+        {
+          "label": "Selling books",
+          "value": "Buyback or exchange terms are not confirmed; ask the shop."
+        }
+      ],
+      "addressSource": "https://www.altbook.net/bookstores/india/kozhikode/"
+    },
+    {
+      "name": "Other Books",
+      "details": "Independent bookshop · First Floor",
+      "description": "This independent bookstore also describes a space for cultural programmes, book talks and coworking.",
+      "address": "First Floor, Happy Complex, Karikkamkulam, Balussery Road, Kozhikode",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Other%20Books%20First%20Floor%2C%20Happy%20Complex%2C%20Karikkamkulam%2C%20Balussery%20Road%2C%20Kozhikode",
+      "source": "https://otherbooksonline.com/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Selection",
+          "value": "Books and literary events; availability of second-hand books is not confirmed."
+        },
+        {
+          "label": "Selling books",
+          "value": "Buyback or exchange terms are not confirmed; ask the shop."
+        }
+      ]
+    }
+  ],
+  "ordering": {
+    "method": "alphabetical",
+    "explanation": "Shops are arranged alphabetically because comparable, current evidence is insufficient to support an editorial ranking."
+  },
+  "related": [
+    "kochi-independent-second-hand-bookshops",
+    "trivandrum-independent-second-hand-bookshops"
+  ]
+}

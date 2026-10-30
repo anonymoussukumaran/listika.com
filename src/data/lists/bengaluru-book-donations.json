@@ -1,0 +1,77 @@
+{
+  "slug": "bengaluru-book-donations",
+  "title": "Where to donate books in Bengaluru",
+  "description": "Find Bengaluru organisations that accept donated books, with collection options and guidance on what to give.",
+  "intro": "Have books you no longer need? These organisations describe different uses for donated books, from children's stories to educational collections. Check what is needed and how to deliver it before setting off: acceptance, pickup areas and collection arrangements can change. Map links are searches, not verified pins.",
+  "checked": "2026-10-30",
+  "ordering": {
+    "method": "alphabetical",
+    "explanation": "Alphabetical by organisation name: donation needs and collection coverage vary, and evidence does not support a universal ranking."
+  },
+  "entries": [
+    {
+      "name": "Association for Promoting Social Action (APSA)",
+      "details": "Children and community programmes · Annasandrapalya",
+      "description": "APSA lists academic and story books among the usable items it accepts for its work with children and communities.",
+      "address": "No. 34, Annasandrapalya, Vimanapura Post, Bengaluru 560017",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=APSA+34+Annasandrapalya+Vimanapura+Bengaluru",
+      "source": "https://apsabangalore.org/support-us/",
+      "checked": "2026-10-30",
+      "facts": [
+        { "label": "Books", "value": "Academic and story books in usable condition; check current needs." },
+        { "label": "How to give", "value": "The organisation lists in-kind donations at its Bengaluru office. Contact it before dropping off books." }
+      ]
+    },
+    {
+      "name": "EdDeeD book donation drive",
+      "details": "School and apartment collection points · Bengaluru",
+      "description": "EdDeeD describes a book drive using participating school and apartment collection points, with books sorted for education organisations and schools.",
+      "source": "https://donate.eddeed.com/",
+      "checked": "2026-10-30",
+      "facts": [
+        { "label": "Books", "value": "The drive lists fiction, academic books, workbooks and exam preparation books among its categories." },
+        { "label": "How to give", "value": "Select a collection point through the drive's form; confirm which locations are currently available." }
+      ],
+      "actions": [{ "label": "Donation form", "url": "https://donate.eddeed.com/" }]
+    },
+    {
+      "name": "Kalpaka book donation",
+      "details": "Educational materials and literature · JP Nagar",
+      "description": "Kalpaka's donation page lists a range of educational and general books and provides a Bengaluru drop-off address.",
+      "address": "No. 98/2, 2nd Floor, SC Complex, Surabhi Nagar West, 8th Phase, J. P. Nagar, Bengaluru 560076",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kalpaka+SC+Complex+Surabhi+Nagar+West+JP+Nagar+Bengaluru",
+      "source": "https://books.kalpaka.org/home-5/",
+      "checked": "2026-10-30",
+      "facts": [
+        { "label": "Books", "value": "Textbooks, exam preparation, literature and other categories in good or acceptable condition; check suitability first." },
+        { "label": "How to give", "value": "The book-donation page lists drop-off and a free-pickup contact; confirm location, coverage and availability." }
+      ]
+    },
+    {
+      "name": "Kritagyata Trust — My Home Shelter",
+      "details": "Children's home · Yelahanka",
+      "description": "The trust lists old books among the items it accepts for My Home Shelter and asks donors to arrange collection with it.",
+      "address": "260/1, 2nd Main, 11th Cross, Maruthi Nagar, Yelahanka, Bengaluru 560064",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Kritagyata+Trust+My+Home+Shelter+Yelahanka+Bengaluru",
+      "source": "https://www.kritagyata.org/donate/",
+      "checked": "2026-10-30",
+      "facts": [
+        { "label": "Books", "value": "Old books are listed; ask which ages, subjects and condition are currently useful." },
+        { "label": "How to give", "value": "The trust describes scheduled pickup in Bengaluru; confirm coverage and availability with it." }
+      ]
+    },
+    {
+      "name": "Shalom Children's Home",
+      "details": "Children's home · Horamavu",
+      "description": "Shalom's donation-drive page includes English and Kannada storybooks among items requested for its children's home.",
+      "address": "Shalom Ashram, No. 19, 6th Cross Road, Sai Layout, Vadrapalaya, Horamavu Agara Road, Bengaluru 560043",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Shalom+Children%27s+Home+Horamavu+Bengaluru",
+      "source": "https://www.shalomhome.in/get-involved",
+      "checked": "2026-10-30",
+      "facts": [
+        { "label": "Books", "value": "The home lists storybooks in English and Kannada; ask about age range and current needs." },
+        { "label": "How to give", "value": "Contact the home before organising a drive or dropping off items; pickup is not confirmed." }
+      ]
+    }
+  ]
+}

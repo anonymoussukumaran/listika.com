@@ -1,0 +1,171 @@
+{
+  "slug": "kochi-swimming-pools",
+  "title": "Swimming pools in Kochi",
+  "description": "Explore swimming pools and lessons in Kochi, with access information and map searches.",
+  "intro": "Compare swimming pools and training venues, including what is known about access without a venue membership. A class or a paid pass is not necessarily the same as casual swimming. Check the pool’s current access rules, fees, timetable and availability before visiting. Map links are searches, not verified pins.",
+  "checked": "2026-10-30",
+  "entries": [
+    {
+      "name": "Aquadux Swim and Fit",
+      "details": "Swimming pool · Vazhakkala",
+      "description": "A swimming pool and training venue near Vazhakkala. A venue listing describes a 25-metre pool and coaching; check the current pool and access arrangements.",
+      "address": "Vazhakkala, Kakkanad, Ernakulam",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Aquadux%20Swim%20and%20Fit%20Vazhakkala%2C%20Kakkanad%2C%20Ernakulam",
+      "source": "https://magicpin.in/Kochi/Desiyamukku/Fitness/Aquadux-Swim-And-Fit/store/20c3769",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "Not confirmed by the operator; ask about non-member passes."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "Training is listed; a local swimmer has reported an hourly option, but current terms are unconfirmed."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Local swimmer discussion",
+          "url": "https://www.reddit.com/r/Kochi/comments/1w2rjq5/where_do_you_guys_go_swimming_in_kochi/"
+        }
+      ]
+    },
+    {
+      "name": "Chittilappilly Square Swimming Pool",
+      "details": "Swimming pool · Kakkanad",
+      "description": "The wellness park lists separate pools for adults and children, plus swimming coaching. The operator advertises swimming as a paid activity.",
+      "address": "Opposite Bharata Mata College, Seaport–Airport Road, Kakkanad, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Chittilappilly%20Square%20Swimming%20Pool%20Opposite%20Bharata%20Mata%20College%2C%20Seaport%E2%80%93Airport%20Road%2C%20Kakkanad%2C%20Kochi",
+      "source": "https://chittilappillysquare.com/health.php",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "A park visitor can pay for the swimming activity; check admission and any separate pool charge."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "Swimming and coaching are listed; confirm current slots and rates."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Park admission rules",
+          "url": "https://chittilappillysquare.com/rules-regulations.php"
+        },
+        {
+          "label": "Pool and park entry rates",
+          "url": "https://chittilappillysquare.com/timing-and-rates.php?cat=entry-tickets"
+        }
+      ]
+    },
+    {
+      "name": "Don Bosco Aquatic Complex",
+      "details": "Swimming pool · Vaduthala",
+      "description": "Don Bosco describes a swimming academy and advanced training at its Vaduthala campus. The published programme includes school students and day scholars.",
+      "address": "Thanal Lane, Vaduthala, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Don%20Bosco%20Aquatic%20Complex%20Thanal%20Lane%2C%20Vaduthala%2C%20Kochi",
+      "source": "https://donboscoschoolvaduthala.edu.in/swimming-academy/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "Public enrolment and access for people outside the school are not confirmed."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "The school lists swimming training; confirm current age rules, dates and fees."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Complex listing",
+          "url": "https://www.quickerala.com/ernakulam/vaduthala/don-bosco-aquatic-complex/445334"
+        }
+      ]
+    },
+    {
+      "name": "Fitnessoul",
+      "details": "Swimming pool · Edachira",
+      "description": "This fitness venue is listed with swimming classes in Edachira. Local swimmers mention both coached and casual use, but access conditions have not been confirmed by the operator.",
+      "address": "BCS Buildings, Infopark Road, Edachira, Kakkanad, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Fitnessoul%20BCS%20Buildings%2C%20Infopark%20Road%2C%20Edachira%2C%20Kakkanad%2C%20Kochi",
+      "source": "https://city.webindia123.com/d-py/kerala/kochi/swimming-classes-1053-8/1/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "Ask whether non-members can buy a day pass or enrol in classes."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "Local reports mention lessons and hourly swimming; verify current availability and pricing."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Local swimming discussion",
+          "url": "https://www.reddit.com/r/Kochi/comments/1q7kown/looking_for_public_swimming_pools_in_central_kochi/"
+        }
+      ]
+    },
+    {
+      "name": "Regional Sports Centre Swimming Pool",
+      "details": "Swimming pool · Kadavanthra",
+      "description": "The Regional Sports Centre lists a swimming pool alongside its other sports facilities. Local reports distinguish coaching access from use of the pool for independent swimming.",
+      "address": "Regional Sports Centre, Elamkulam Road, Kadavanthra, Kochi",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Regional%20Sports%20Centre%20Swimming%20Pool%20Regional%20Sports%20Centre%2C%20Elamkulam%20Road%2C%20Kadavanthra%2C%20Kochi",
+      "source": "https://www.rsckochi.com/",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "Coaching and casual swimming may have different eligibility rules; confirm with RSC."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "The centre lists a pool. A parent reports a non-member course, but current enrolment and independent swim access need confirmation."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Local discussion of coaching",
+          "url": "https://www.reddit.com/r/Kochi/comments/1vl9yj9/where_can_i_learn_swimming_in_kochi/"
+        }
+      ]
+    },
+    {
+      "name": "Sleebas Swim Hub",
+      "details": "Swimming pool · Thrippunithura",
+      "description": "A swimming coaching venue in Thrippunithura. Its listing describes pre-booked individual and group coaching.",
+      "address": "Edampadam Road, FACT Nagar, Thrippunithura, Ernakulam",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sleebas%20Swim%20Hub%20Edampadam%20Road%2C%20FACT%20Nagar%2C%20Thrippunithura%2C%20Ernakulam",
+      "source": "https://magicpin.in/Kochi/Kannankulangara/Fitness/Sleebas-Swim-Hub/store/20c334c",
+      "checked": "2026-10-30",
+      "facts": [
+        {
+          "label": "Non-member access",
+          "value": "Ask the venue whether membership is needed and whether casual swimming is offered."
+        },
+        {
+          "label": "Swimming and lessons",
+          "value": "Individual and group coaching are listed; local accounts disagree about hourly swimming, so check directly."
+        }
+      ],
+      "actions": [
+        {
+          "label": "Local swimmer discussion",
+          "url": "https://www.reddit.com/r/Kochi/comments/1w1hajm/swimming_pool_in_kochi/"
+        }
+      ]
+    }
+  ],
+  "ordering": {
+    "method": "alphabetical",
+    "explanation": "Pools are ordered alphabetically by name, not ranked by quality or public review scores. Confirmed and unconfirmed access are described separately in each entry."
+  },
+  "related": [
+    "kozhikode-swimming-pools",
+    "trivandrum-swimming-pools"
+  ]
+}
