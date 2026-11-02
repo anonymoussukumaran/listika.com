@@ -10,37 +10,6 @@
   ],
   "entries": [
     {
-      "name": "Alhuda Marathon 2026 (near Kochi)",
-      "date": "2026-11-01",
-      "venue": "Alhuda Public School, Panayikulam, Ernakulam (near Kochi)",
-      "distances": [
-        "21 km",
-        "10 km",
-        "3 km"
-      ],
-      "description": "The school lists a 21 km half marathon, 10 km run and 3 km family run in Panayikulam, outside Kochi city. Its published registration deadline was 20 October; confirm current availability with the organizer.",
-      "source": "https://alhuda.edu.in/marathon/",
-      "registrationUrl": "https://alhuda.edu.in/marathon/",
-      "registrationStatus": "unknown",
-      "checked": "2026-11-01"
-    },
-    {
-      "name": "Orange Run 2026",
-      "date": "2026-11-01",
-      "venue": "Cochin Port Trust Stadium, Willingdon Island",
-      "distances": [
-        "21 km",
-        "10 km",
-        "5 km",
-        "3 km"
-      ],
-      "description": "The registration provider says registration is closed and disables its final registration button. Some 5 km category controls are still visible; check with the organizer if you need clarification.",
-      "source": "https://pacenation.in/event/orange-run-2026",
-      "registrationUrl": "https://pacenation.in/event/orange-run-2026",
-      "registrationStatus": "closed",
-      "checked": "2026-11-01"
-    },
-    {
       "name": "RCI Run & Ride 2026",
       "date": "2026-11-15",
       "venue": "Decathlon Sports, Kalamassery",
@@ -92,11 +61,11 @@
         "10 km",
         "5 km"
       ],
-      "description": "Organized by Southern Naval Command, this event has a half marathon, timed 10 km run and 5 km fun run. The organizer says registration is open; published flag-off times are provisional and the route map is to be released closer to race day.",
+      "description": "Organized by Southern Naval Command, this event has a half marathon, timed 10 km run and 5 km fun run. The organizer says registration is closed; its previously linked registration form remains accessible, so check with the organizer before attempting to register.",
       "source": "https://www.kochinavymarathon.com/",
-      "registrationUrl": "https://static2.mathrubhumi.com/kochi-navy-marathon-2026/register.html",
-      "registrationStatus": "open",
-      "checked": "2026-11-01"
+      "registrationUrl": "https://www.kochinavymarathon.com/",
+      "registrationStatus": "closed",
+      "checked": "2026-11-02"
     },
     {
       "name": "Zydus Pinkathon Kochi 2027",
