@@ -3,7 +3,7 @@
   "title": "Upcoming marathons and running events in Kochi",
   "description": "Compare upcoming full and half marathons, 10K races and shorter runs around Kochi, with registration links.",
   "intro": "A source-checked calendar of announced running events in Kochi and the surrounding Ernakulam area. It includes full and half marathons as well as shorter races and family runs; a shorter run is not necessarily a marathon. Dates, venues and registration can change, so confirm with the organizer before making plans.",
-  "checked": "2026-11-06",
+  "checked": "2026-11-07",
   "timezone": "Asia/Kolkata",
   "collections": [
     "kochi"
@@ -22,7 +22,7 @@
       "source": "https://raceproonline.com/event-details/rci-run-ride",
       "registrationUrl": "https://raceproonline.com/event-details/rci-run-ride",
       "registrationStatus": "closed",
-      "checked": "2026-11-06"
+      "checked": "2026-11-07"
     },
     {
       "name": "Team QR Mini Marathon / Season 5",
@@ -35,7 +35,7 @@
       "source": "https://eventdio.com/qr/qr-mini-marathonseason-5",
       "registrationUrl": "https://eventdio.com/qr/qr-mini-marathonseason-5",
       "registrationStatus": "open",
-      "checked": "2026-11-06"
+      "checked": "2026-11-07"
     },
     {
       "name": "Santa Run Kochi 2026",
@@ -50,7 +50,7 @@
       "source": "https://santarunkochi.com/",
       "registrationUrl": "https://reg.myraceindia.com/form/santarun26",
       "registrationStatus": "open",
-      "checked": "2026-11-06"
+      "checked": "2026-11-07"
     },
     {
       "name": "SBI Kochi Navy Half Marathon 2026",
@@ -65,7 +65,7 @@
       "source": "https://www.kochinavymarathon.com/",
       "registrationUrl": "https://www.kochinavymarathon.com/",
       "registrationStatus": "closed",
-      "checked": "2026-11-06"
+      "checked": "2026-11-07"
     },
     {
       "name": "Zydus Pinkathon Kochi 2027",
@@ -77,6 +77,21 @@
       "checked": "2026-11-06"
     },
     {
+      "name": "Climate Awareness Run India 2027 – Kochi",
+      "date": "2027-01-17",
+      "venue": "Decathlon Sports, Kalamassery, Kochi",
+      "distances": [
+        "3 km",
+        "5 km",
+        "10 km"
+      ],
+      "description": "Gagner Sports lists 3 km, 5 km and 10 km categories. Registration is open; the booking page contains conflicting information about whether the 10 km category is timed, so confirm the details before booking.",
+      "source": "https://registrations.indiarunning.com/climate_awareness_run_india_2027__kochi_24753",
+      "registrationUrl": "https://registrations.indiarunning.com/climate_awareness_run_india_2027__kochi_24753",
+      "registrationStatus": "open",
+      "checked": "2026-11-07"
+    },
+    {
       "name": "Devils Circuit Kochi 2027",
       "date": "2027-01-24",
       "venue": "Kochi; exact venue to be confirmed",
@@ -86,7 +101,7 @@
       "description": "A 5 km obstacle-course race, rather than a conventional road run. The registration provider shows non-competitive waves C and D as sold out, while other waves are available; confirm your chosen wave and the venue before booking.",
       "source": "https://devilscircuit.com/",
       "registrationStatus": "open",
-      "checked": "2026-11-06",
+      "checked": "2026-11-07",
       "registrationUrl": "https://getmybib.com/287/register?ename=Maruti-Suzuki-Arena-Devils-Circuit-Kochi-2026-27"
     },
     {
@@ -120,7 +135,7 @@
       "source": "https://www.tesports.in/event-details/nammude-run-kochi-2027.php",
       "registrationUrl": "https://www.tesports.in/event-details/nammude-run-kochi-2027.php",
       "registrationStatus": "open",
-      "checked": "2026-11-05"
+      "checked": "2026-11-07"
     }
   ],
   "ordering": {
