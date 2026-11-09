@@ -28,10 +28,10 @@
       "name": "PUMA Kochi Nitro Run 2026",
       "date": "2026-11-15",
       "venue": "Forum Kochi, Maradu",
-      "description": "Forum Kochi lists the PUMA Kochi Nitro Run and links to a free registration form. The run distance and current registration availability could not be confirmed; check with the venue before making plans.",
+      "description": "Forum Kochi lists the PUMA Kochi Nitro Run and links to a free registration form, but the form currently says it is closed. The run distance could not be confirmed; check with the venue for updates.",
       "source": "https://www.forummalls.in/pages/forum-kochi",
       "registrationUrl": "https://forms.cloud.microsoft/r/eQ2t1XE2TC",
-      "registrationStatus": "unknown",
+      "registrationStatus": "closed",
       "checked": "2026-11-09"
     },
     {
@@ -45,7 +45,7 @@
       "source": "https://eventdio.com/qr/qr-mini-marathonseason-5",
       "registrationUrl": "https://eventdio.com/qr/qr-mini-marathonseason-5",
       "registrationStatus": "open",
-      "checked": "2026-11-08"
+      "checked": "2026-11-09"
     },
     {
       "name": "Santa Run Kochi 2026",
@@ -60,7 +60,7 @@
       "source": "https://santarunkochi.com/",
       "registrationUrl": "https://reg.myraceindia.com/form/santarun26",
       "registrationStatus": "open",
-      "checked": "2026-11-08"
+      "checked": "2026-11-09"
     },
     {
       "name": "SBI Kochi Navy Half Marathon 2026",
@@ -75,7 +75,7 @@
       "source": "https://www.kochinavymarathon.com/",
       "registrationUrl": "https://www.kochinavymarathon.com/",
       "registrationStatus": "closed",
-      "checked": "2026-11-08"
+      "checked": "2026-11-09"
     },
     {
       "name": "Zydus Pinkathon Kochi 2027",
@@ -145,7 +145,7 @@
       "source": "https://www.tesports.in/event-details/nammude-run-kochi-2027.php",
       "registrationUrl": "https://www.tesports.in/event-details/nammude-run-kochi-2027.php",
       "registrationStatus": "open",
-      "checked": "2026-11-08"
+      "checked": "2026-11-09"
     }
   ],
   "ordering": {
