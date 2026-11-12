@@ -3,7 +3,7 @@
   "title": "Upcoming marathons and running events in Kochi",
   "description": "Compare upcoming full and half marathons, 10K races and shorter runs around Kochi, with registration links.",
   "intro": "A source-checked calendar of announced running events in Kochi and the surrounding Ernakulam area. It includes full and half marathons as well as shorter races and family runs; a shorter run is not necessarily a marathon. Dates, venues and registration can change, so confirm with the organizer before making plans.",
-  "checked": "2026-11-11",
+  "checked": "2026-11-12",
   "timezone": "Asia/Kolkata",
   "collections": [
     "kochi"
@@ -22,7 +22,7 @@
       "source": "https://raceproonline.com/event-details/rci-run-ride",
       "registrationUrl": "https://raceproonline.com/event-details/rci-run-ride",
       "registrationStatus": "closed",
-      "checked": "2026-11-11"
+      "checked": "2026-11-12"
     },
     {
       "name": "PUMA Kochi Nitro Run 2026",
@@ -45,7 +45,7 @@
       "source": "https://eventdio.com/qr/qr-mini-marathonseason-5",
       "registrationUrl": "https://eventdio.com/qr/qr-mini-marathonseason-5",
       "registrationStatus": "closed",
-      "checked": "2026-11-11"
+      "checked": "2026-11-12"
     },
     {
       "name": "Santa Run Kochi 2026",
@@ -75,7 +75,7 @@
       "source": "https://www.kochinavymarathon.com/",
       "registrationUrl": "https://www.kochinavymarathon.com/",
       "registrationStatus": "closed",
-      "checked": "2026-11-11"
+      "checked": "2026-11-12"
     },
     {
       "name": "Zydus Pinkathon Kochi 2027",
@@ -84,7 +84,7 @@
       "description": "The organizer lists a Kochi edition of its women’s run for 10 January. Kochi-specific distances and registration have not yet been confirmed; the Mumbai page’s details may not apply.",
       "source": "https://pinkathon.life/",
       "registrationStatus": "unknown",
-      "checked": "2026-11-11"
+      "checked": "2026-11-12"
     },
     {
       "name": "Climate Awareness Run India 2027 – Kochi",
@@ -145,7 +145,21 @@
       "source": "https://www.tesports.in/event-details/nammude-run-kochi-2027.php",
       "registrationUrl": "https://www.tesports.in/event-details/nammude-run-kochi-2027.php",
       "registrationStatus": "open",
-      "checked": "2026-11-11"
+      "checked": "2026-11-12"
+    },
+    {
+      "name": "Kochi Spice Coast Marathon 2027",
+      "date": "2027-10-24",
+      "venue": "Kochi; 2027 venue to be confirmed",
+      "distances": [
+        "Full marathon",
+        "Half marathon",
+        "5 km fun run"
+      ],
+      "description": "The organizer’s FAQ lists 24 October 2027 and full marathon, half marathon and 5 km fun-run categories. Treat the date as provisional: the homepage and registration link still refer to the 2026 edition, and the FAQ retains some older details. The 2027 venue and registration availability are unconfirmed; check with the organizer before making plans.",
+      "source": "https://www.spicecoastmarathon.com/faq/",
+      "registrationStatus": "unknown",
+      "checked": "2026-11-12"
     }
   ],
   "ordering": {
