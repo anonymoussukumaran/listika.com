@@ -3,7 +3,7 @@
   "title": "Upcoming marathons and running events in Kochi",
   "description": "Compare upcoming full and half marathons, 10K races and shorter runs around Kochi, with registration links.",
   "intro": "A source-checked calendar of announced running events in Kochi and the surrounding Ernakulam area. It includes full and half marathons as well as shorter races and family runs; a shorter run is not necessarily a marathon. Dates, venues and registration can change, so confirm with the organizer before making plans.",
-  "checked": "2026-11-18",
+  "checked": "2026-11-19",
   "timezone": "Asia/Kolkata",
   "collections": [
     "kochi"
@@ -64,6 +64,20 @@
       "registrationUrl": "https://eventdio.com/voice-of-palluruthy/carnival-marathon-2026",
       "registrationStatus": "open",
       "checked": "2026-11-18"
+    },
+    {
+      "name": "DTPC Cherai Beach Marathon Season 4",
+      "date": "2026-12-27",
+      "venue": "Cherai Beach Parking Area, Cherai, Ernakulam district",
+      "distances": [
+        "5 km",
+        "10 km"
+      ],
+      "description": "Cherai Runners Club lists this event in association with Ernakulam DTPC. Registration is open. The event page mentions a non-timed bib, while Eventdio’s event index mentions a timing chip; confirm timing with the organizer before booking.",
+      "source": "https://eventdio.com/cherai-runners-club/dtpc-cherai-beach-marathon-season-4",
+      "registrationUrl": "https://eventdio.com/cherai-runners-club/dtpc-cherai-beach-marathon-season-4",
+      "registrationStatus": "open",
+      "checked": "2026-11-19"
     },
     {
       "name": "Zydus Pinkathon Kochi 2027",
