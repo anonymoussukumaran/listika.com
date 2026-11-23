@@ -3,7 +3,7 @@
   "title": "Upcoming marathons and running events in Kochi",
   "description": "Compare upcoming full and half marathons, 10K races and shorter runs around Kochi, with registration links.",
   "intro": "A source-checked calendar of announced running events in Kochi and the surrounding Ernakulam area. It includes full and half marathons as well as shorter races and family runs; a shorter run is not necessarily a marathon. Dates, venues and registration can change, so confirm with the organizer before making plans.",
-  "checked": "2026-11-20",
+  "checked": "2026-11-23",
   "timezone": "Asia/Kolkata",
   "collections": [
     "kochi"
@@ -78,6 +78,16 @@
       "registrationUrl": "https://eventdio.com/cherai-runners-club/dtpc-cherai-beach-marathon-season-4",
       "registrationStatus": "open",
       "checked": "2026-11-19"
+    },
+    {
+      "name": "AURIX 2027 Marathon",
+      "date": "2027-01-08",
+      "venue": "Kochi; exact venue unconfirmed",
+      "description": "FitNFine lists a running event as part of its AURIX fitness festival. The event page names P. J. Antony Cultural Centre, Vaduthala, while the festival homepage says the venue is still to be announced. Distances are unconfirmed. The event page says registration is active; confirm the venue and distances with the organizer before paying.",
+      "source": "https://aurixfest.com/events/marathon",
+      "registrationUrl": "https://aurixfest.com/events/marathon",
+      "registrationStatus": "open",
+      "checked": "2026-11-23"
     },
     {
       "name": "Zydus Pinkathon Kochi 2027",
