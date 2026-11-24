@@ -3,7 +3,7 @@
   "title": "Upcoming marathons and running events in Kochi",
   "description": "Compare upcoming full and half marathons, 10K races and shorter runs around Kochi, with registration links.",
   "intro": "A source-checked calendar of announced running events in Kochi and the surrounding Ernakulam area. It includes full and half marathons as well as shorter races and family runs; a shorter run is not necessarily a marathon. Dates, venues and registration can change, so confirm with the organizer before making plans.",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "timezone": "Asia/Kolkata",
   "collections": [
     "kochi"
@@ -31,11 +31,11 @@
         "10 km",
         "5 km"
       ],
-      "description": "The Rotary Club of Cochin Knights Trust lists a half marathon, 10 km run and 5 km fun run. Its registration page says entries are open; confirm current availability before paying.",
+      "description": "The Rotary Club of Cochin Knights Trust lists a half marathon, 10 km run and 5 km fun run. Registration is closed. Registered participants can collect their kits at Decathlon Vyttila on 4 or 5 December; the organizer says there is no race-day kit distribution.",
       "source": "https://santarunkochi.com/",
-      "registrationUrl": "https://reg.myraceindia.com/form/santarun26",
-      "registrationStatus": "open",
-      "checked": "2026-11-11"
+      "registrationUrl": "https://santarunkochi.com/",
+      "registrationStatus": "closed",
+      "checked": "2026-11-24"
     },
     {
       "name": "SBI Kochi Navy Half Marathon 2026",
@@ -81,13 +81,17 @@
     },
     {
       "name": "AURIX 2027 Marathon",
-      "date": "2027-01-08",
-      "venue": "Kochi; exact venue unconfirmed",
-      "description": "FitNFine lists a running event as part of its AURIX fitness festival. The event page names P. J. Antony Cultural Centre, Vaduthala, while the festival homepage says the venue is still to be announced. Distances are unconfirmed. The event page says registration is active; confirm the venue and distances with the organizer before paying.",
+      "date": "2027-01-10",
+      "venue": "P. J. Antony Cultural Centre, Pachalam, Kochi",
+      "description": "FitNFine now lists this AURIX festival run for 10 January; its earlier listing gave 8 January. Registration is listed as active, with a 24 December deadline. Confirm the latest race details with the organizer before paying.",
       "source": "https://aurixfest.com/events/marathon",
       "registrationUrl": "https://aurixfest.com/events/marathon",
       "registrationStatus": "open",
-      "checked": "2026-11-23"
+      "checked": "2026-11-24",
+      "distances": [
+        "5 km",
+        "10 km"
+      ]
     },
     {
       "name": "Zydus Pinkathon Kochi 2027",
